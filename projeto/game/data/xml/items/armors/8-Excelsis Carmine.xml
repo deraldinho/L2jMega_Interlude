@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Heavy -->
+<item id="9810" type="Armor" name="Carmine Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9811" type="Armor" name="Carmine Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="204" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9812" type="Armor" name="Carmine Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="160" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9813" type="Armor" name="Carmine Gauntlets">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9814" type="Armor" name="Carmine Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9815" type="Armor" name="Carmine Leather Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9816" type="Armor" name="Carmine Leather Armor">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="186" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9817" type="Armor" name="Carmine Leather Pants">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9818" type="Armor" name="Carmine Leather Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9819" type="Armor" name="Carmine Leather Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<!-- Robe -->
+
+<item id="9820" type="Armor" name="Carmine Circlet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9821" type="Armor" name="Carmine Robe">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="107" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9822" type="Armor" name="Carmine Stockings">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9823" type="Armor" name="Carmine Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9824" type="Armor" name="Carmine Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+</list>

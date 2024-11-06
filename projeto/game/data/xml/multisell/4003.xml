@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <production id="10320" count="1"/>
+	<ingredient id="57" count="10000000"/>
+  </item>
+  
+  <item id="2">
+    <production id="10322" count="1"/>
+	<ingredient id="57" count="10000000"/>
+  </item>
+</list>

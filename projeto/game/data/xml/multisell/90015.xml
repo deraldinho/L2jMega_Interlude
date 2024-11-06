@@ -1,0 +1,236 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Grade S -->
+
+<list maintainEnchantment="true">
+
+  <!-- Heavy --> 
+  <item id="1">
+     <ingredient id="9500" count="5000"/>   
+
+	<production id="9315" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="2">
+     <ingredient id="9500" count="5000"/>   
+
+    <production id="9316" count="1" enchant="4"/>
+
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="3">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9317" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="4">
+     <ingredient id="9500" count="5000"/>   	
+    <production id="9318" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="5">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9319" count="1" enchant="4"/>	
+  </item>
+  
+      <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+
+
+  <!-- Light --> 
+  <item id="6">
+     <ingredient id="9500" count="5000"/>   
+	<production id="9320" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="7">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9321" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="8">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9322" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="9">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9323" count="1" enchant="4"/>	
+  </item>
+
+  
+  <!-- light --> 
+  <item id="10">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9324" count="1" enchant="4"/>	
+  </item>
+  
+        <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+  
+    <!-- Rob --> 
+  <item id="11">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9325" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="12">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9326" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="13">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9327" count="1" enchant="4"/>	
+  </item>
+  
+  <!-- Rob --> 
+  <item id="14">
+       <ingredient id="9500" count="5000"/>
+    <production id="9328" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="15">
+       <ingredient id="9500" count="5000"/>
+    <production id="9329" count="1" enchant="4"/>
+  </item>
+  
+  
+  
+  <!---->
+        <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+  
+
+  <!-- Heavy --> 
+  <item id="16">
+     <ingredient id="9500" count="5000"/>   
+
+	<production id="9300" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="17">
+     <ingredient id="9500" count="5000"/>   
+
+    <production id="9301" count="1" enchant="4"/>
+
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="18">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9302" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="19">
+     <ingredient id="9500" count="5000"/>   	
+    <production id="9303" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Heavy --> 
+  <item id="20">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9304" count="1" enchant="4"/>	
+  </item>
+
+      <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+
+  <!-- Light --> 
+  <item id="21">
+     <ingredient id="9500" count="5000"/>   
+	<production id="9305" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="22">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9306" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="23">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9307" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Light --> 
+  <item id="24">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9308" count="1" enchant="4"/>	
+  </item>
+
+  
+  <!-- light --> 
+  <item id="25">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9309" count="1" enchant="4"/>	
+  </item>
+  
+        <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+  
+    <!-- Rob --> 
+  <item id="26">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9310" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="27">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9311" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="28">
+     <ingredient id="9500" count="5000"/>   
+    <production id="9312" count="1" enchant="4"/>	
+  </item>
+  
+  <!-- Rob --> 
+  <item id="29">
+       <ingredient id="9500" count="5000"/>
+    <production id="9313" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Rob --> 
+  <item id="30">
+       <ingredient id="9500" count="5000"/>
+    <production id="9314" count="1" enchant="4"/>
+  </item>
+      <!-- coin --> 
+  <item id="50">
+     <ingredient id="9500" count="1"/>   
+    <production id="9500" count="1"/>	
+  </item>
+
+  </list>
+

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list>
+
+  <item id="1">
+    <production id="9743" count="1"/>
+	<ingredient id="9437" count="1"/>
+	<ingredient id="9438" count="1"/>
+	<ingredient id="9439" count="1"/>
+	<ingredient id="9440" count="1"/>
+	<ingredient id="9749" count="1"/>
+  </item> 
+  
+   <item id="2">
+    <production id="9744" count="1"/>
+	<ingredient id="9437" count="1"/>
+	<ingredient id="9438" count="1"/>
+	<ingredient id="9439" count="1"/>
+	<ingredient id="9440" count="1"/>
+	<ingredient id="9749" count="1"/>
+  </item> 
+  
+  <item id="3">
+    <production id="9745" count="1"/>
+	<ingredient id="9437" count="1"/>
+	<ingredient id="9438" count="1"/>
+	<ingredient id="9439" count="1"/>
+	<ingredient id="9440" count="1"/>
+	<ingredient id="9749" count="1"/>
+  </item> 
+  
+   <item id="4">
+    <production id="9746" count="1"/>
+	<ingredient id="9437" count="1"/>
+	<ingredient id="9438" count="1"/>
+	<ingredient id="9439" count="1"/>
+	<ingredient id="9440" count="1"/>
+	<ingredient id="9749" count="1"/>
+  </item> 
+  
+   <item id="5">
+    <production id="9747" count="1"/>
+	<ingredient id="9437" count="1"/>
+	<ingredient id="9438" count="1"/>
+	<ingredient id="9439" count="1"/>
+	<ingredient id="9440" count="1"/>
+	<ingredient id="9749" count="1"/>
+  </item> 
+  
+</list>

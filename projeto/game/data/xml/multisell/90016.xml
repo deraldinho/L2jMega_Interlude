@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list maintainEnchantment="true">
+
+  <!-- Shining Bow - Cheap Shot -->
+  <item id="1">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9410" count="1" enchant="4"/>
+  </item>
+
+  <!-- Shining Bow - Crt. Slow -->
+  <item id="2">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9411" count="1" enchant="4"/>
+  </item>
+
+  <!-- Shining Bow - Focus -->
+  <item id="3">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9412" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Cheap Shot -->
+  <item id="4">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9413" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Critical Slow -->
+  <item id="5">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9414" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Focus -->
+  <item id="6">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9415" count="1" enchant="4"/>
+  </item>
+
+  <!-- Arcana Mace - Acumen -->
+  <item id="7">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9416" count="1" enchant="4"/>
+  </item>
+
+  <!-- Arcana Mace - MP Regeneration -->
+  <item id="8">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9417" count="1" enchant="4"/>
+  </item>
+  
+  <item id="10">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9420" count="1" enchant="4"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item id="11">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9421" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Health -->
+  <item id="12">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9422" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Focus -->
+  <item id="13">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9423" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Crt. Stun -->
+  <item id="14">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9424" count="1" enchant="4"/>
+  </item>
+  
+    <!-- Saint Spear - Health -->
+  <item id="15">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9428" count="1" enchant="4"/>
+  </item>
+
+  <!-- Saint Spear - Guidance -->
+  <item id="16">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9429" count="1" enchant="4"/>
+  </item>
+
+  <!-- Forgotten Blade - Haste -->
+  <item id="17">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9425" count="1" enchant="4"/>
+  </item>
+
+  <!-- Saint Spear - Haste -->
+  <item id="20">
+     <ingredient id="9500" count="10000"/>   
+    <production id="9430" count="1" enchant="4"/>
+  </item>
+
+
+</list>

@@ -1,0 +1,68 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- MARS (c) see Readme.txt -->
+
+<list maintainEnchantment="true">
+
+  <!-- Heavy --> 
+	<item id="1">
+    <ingredient id="9327" count="15"/>
+    <production id="6373" count="1" enchant="25"/>	
+    <production id="6374" count="1" enchant="25"/>
+    <production id="6375" count="1" enchant="25"/>
+    <production id="6376" count="1" enchant="25"/>
+	<production id="6378" count="1" enchant="25"/>
+	<production id="6377" count="1" enchant="25"/>
+    <production id="9323" count="10000" enchant="0"/>	
+    <production id="9326" count="30" enchant="0"/>			
+	</item>
+ 
+
+  <!-- Light --> 
+	<item id="2">
+    <ingredient id="9327" count="15"/>
+    <production id="6379" count="1" enchant="25"/>	
+    <production id="6380" count="1" enchant="25"/>
+    <production id="6381" count="1" enchant="25"/>
+	<production id="6382" count="1" enchant="25"/>
+    <production id="9323" count="10000" enchant="0"/>	
+    <production id="9326" count="30" enchant="0"/>			
+	</item>
+  
+	<!-- Rob --> 
+	<item id="3">
+    <ingredient id="9327" count="15"/>
+    <production id="6383" count="1" enchant="25"/>	
+    <production id="6384" count="1" enchant="25"/>
+    <production id="6385" count="1" enchant="25"/>
+    <production id="6386" count="1" enchant="25"/>	
+    <production id="6377" count="1" enchant="25"/>
+    <production id="9323" count="10000" enchant="0"/>	
+    <production id="9326" count="30" enchant="0"/>			
+	</item>
+  
+	<item id="4">
+	<ingredient id="9327" count="15"/>
+	<production id="2407" count="1" enchant="25"/>
+	<production id="512" count="1" enchant="25"/>
+	<production id="5767" count="1" enchant="25"/>
+	<production id="5779" count="1" enchant="25"/>
+	<production id="641" count="1" enchant="25"/>	
+    <production id="9323" count="10000" enchant="0"/>	
+    <production id="9326" count="30" enchant="0"/>			
+	</item>	
+ 
+	<item id="5">
+	<ingredient id="9327" count="15"/>
+	<production id="2400" count="1" enchant="25"/>
+	<production id="547" count="1" enchant="25"/>
+	<production id="2405" count="1" enchant="25"/>
+	<production id="5770" count="1" enchant="25"/>
+	<production id="5782" count="1" enchant="25"/>
+	<production id="641" count="1" enchant="25"/>	
+    <production id="9323" count="10000" enchant="0"/>	
+    <production id="9326" count="30" enchant="0"/>			
+	</item>	
+	
+  </list>
+

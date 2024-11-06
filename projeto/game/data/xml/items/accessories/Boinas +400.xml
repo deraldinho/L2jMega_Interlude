@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id="9437" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="400" order="0x40" stat='pDef'/>
+ 			<add val="400" order="0x40" stat='mDef'/>
+			<add val='1000' order='0x40' stat='maxHp'/>
+			<add val='1000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	<item id="9438" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="400" order="0x40" stat='pDef'/>
+ 			<add val="400" order="0x40" stat='mDef'/>
+			<add val='1000' order='0x40' stat='maxHp'/>
+			<add val='1000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	<item id="9439" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="400" order="0x40" stat='pDef'/>
+ 			<add val="400" order="0x40" stat='mDef'/>
+			<add val='1000' order='0x40' stat='maxHp'/>
+			<add val='1000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	<item id="9440" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="400" order="0x40" stat='pDef'/>
+ 			<add val="400" order="0x40" stat='mDef'/>
+			<add val='1000' order='0x40' stat='maxHp'/>
+			<add val='1000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	<item id="9749" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="400" order="0x40" stat='pDef'/>
+ 			<add val="400" order="0x40" stat='mDef'/>
+			<add val='1000' order='0x40' stat='maxHp'/>
+			<add val='1000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+</list>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list>
+
+  <item id="1">
+    <production id="9743" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+   <item id="2">
+    <production id="9744" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+  <item id="3">
+    <production id="9745" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+   <item id="4">
+    <production id="9746" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+   <item id="5">
+    <production id="9747" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+   <item id="6">
+    <production id="9769" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+  
+   <item id="7">
+    <production id="9770" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="8">
+    <production id="9771" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="9">
+    <production id="9772" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="10">
+    <production id="9773" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="11">
+    <production id="9774" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="12">
+    <production id="9430" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+    
+   <item id="13">
+    <production id="9429" count="1"/>
+	<ingredient id="9509" count="250000"/>
+	<ingredient id="9501" count="250"/>
+	<ingredient id="9508" count="250"/>
+	<ingredient id="9546" count="300000"/>
+  </item> 
+
+</list>

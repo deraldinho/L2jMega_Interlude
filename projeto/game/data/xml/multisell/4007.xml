@@ -1,0 +1,44 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+ 
+  <!-- hair -->
+  <item id="1">
+    <production id="14632" count="1"/>
+	<ingredient id="20005" count="1"/>
+	<ingredient id="9510" count="150"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+    <item id="2">
+    <production id="14632" count="1"/>
+	<ingredient id="20006" count="1"/>
+	<ingredient id="9510" count="150"/>
+	<ingredient id="9143" count="200"/>
+  </item>
+  
+   <item id="3">
+    <production id="14633" count="1"/>
+	<ingredient id="20005" count="1"/>
+	<ingredient id="9510" count="150"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+    <item id="4">
+    <production id="14633" count="1"/>
+	<ingredient id="20006" count="1"/>
+	<ingredient id="9510" count="150"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+  
+      <item id="5">
+    <production id="30136" count="1"/>
+	<ingredient id="30000" count="1"/>
+	<ingredient id="20028" count="1"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+ 
+</list>

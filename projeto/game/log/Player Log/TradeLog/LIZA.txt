@@ -1,0 +1,6 @@
+Data [26/12/2022 17:27:57] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [355000] Crystal Coin >> Obj_id: [268481440]
+Data [26/12/2022 17:27:57] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [999720] Gold Bar >> Obj_id: [268482480]
+Data [26/12/2022 17:27:57] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [499701] Event Coin Lv.1 >> Obj_id: [268482481]
+Data [26/12/2022 17:28:06] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [994720] Gold Bar >> Obj_id: [268482480]
+Data [28/12/2022 19:40:18] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [1] Tattoo Divine >> Obj_id: [268483871]
+Data [25/02/2023 14:24:38] >> Player [LIZA] >> Trade com  [[SUPER]-=ADMIN] >> Item: [8923] Ticket Donate >> Obj_id: [268480109]

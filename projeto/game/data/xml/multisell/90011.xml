@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Gm Shop (ID: 60013) / Jewels C-Grade -->
+<list maintainEnchantment="true">
+<!--  Blessed Necklace  -->
+<item id="1">
+<ingredient id="57" count="1200000"/>
+<production id="919" count="1" enchant="4"/>
+</item>
+<!--  Blessed Earring  -->
+<item id="2">
+<ingredient id="57" count="850000"/>
+<production id="857" count="1" enchant="4"/>
+</item>
+<!--  Blessed Ring  -->
+<item id="3">
+<ingredient id="57" count="600000"/>
+<production id="888" count="1" enchant="4"/>
+</item>
+</list>

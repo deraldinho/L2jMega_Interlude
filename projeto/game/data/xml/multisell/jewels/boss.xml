@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Special Trader -->
+
+<list maintainEnchantment="true">
+	
+  
+  <!-- Valakas Necklace -->
+  <item id="1">
+    <production id="6657" count="1" enchant="4"/>
+	<ingredient id="9509" count="10000" enchant="0"/>
+	<ingredient id="9508" count="15" enchant="0"/>
+  </item>
+  
+  <!-- Antharas Earring -->
+  <item id="2">
+    <production id="6656" count="1" enchant="4"/>
+	<ingredient id="9509" count="10000" enchant="0"/>
+	<ingredient id="9508" count="15" enchant="0"/>
+  </item>
+
+  <!-- Ring of Baium -->
+  <item id="3">
+    <production id="6658" count="1" enchant="4"/>
+	<ingredient id="9509" count="10000" enchant="0"/>
+	<ingredient id="9508" count="15" enchant="0"/>
+  </item>
+  
+  <!-- Zaken Earring -->
+  <item id="4">
+    <production id="6659" count="1" enchant="4"/>
+	<ingredient id="9509" count="10000" enchant="0"/>
+	<ingredient id="9508" count="15" enchant="0"/>
+  </item>
+  
+  <!-- Queen Ant -->
+  <item id="5">
+    <production id="6660" count="1" enchant="4"/>
+	<ingredient id="9509" count="10000" enchant="0"/>
+	<ingredient id="9508" count="15" enchant="0"/>
+  </item>
+
+</list>

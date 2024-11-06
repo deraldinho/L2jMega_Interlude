@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+<list>
+
+  <!-- Scroll: Enchant Armor (Grade B) -->
+  <item id="8">
+    <ingredient id="9509" count="15"/>
+    <production id="6572" count="1"/>
+  </item>
+  
+  <!-- .. -->
+  <item id="19">
+    <ingredient id="9509" count="30"/>
+    <production id="6578" count="1"/>
+  </item>
+ 
+  <!-- .. -->
+  <item id="20">
+    <ingredient id="9509" count="30"/>
+    <production id="6577" count="1"/>
+  </item>
+  
+</list>

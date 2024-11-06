@@ -1,0 +1,32 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+ 
+  <!-- Shield -->
+  <item id="1">
+    <production id="9447" count="1" enchant="4"/>
+	<ingredient id="9500" count="1500"/>
+  </item>  
+  
+  <!-- Shield -->
+  <item id="2">
+    <production id="9448" count="1" enchant="4"/>
+	<ingredient id="9500" count="1500"/>
+  </item>   
+  
+  <!-- Shield -->
+  <item id="3">
+    <production id="14000" count="1" enchant="4"/>
+	<ingredient id="9500" count="1500"/>
+  </item>
+       
+  <!-- Shield -->
+  <item id="4">
+    <production id="14001" count="1" enchant="4"/>
+	<ingredient id="9500" count="1500"/>
+  </item>  
+  
+
+</list>

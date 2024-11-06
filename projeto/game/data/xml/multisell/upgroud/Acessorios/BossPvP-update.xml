@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list>
+
+  <item id="1">
+    <production id="9889" count="1"/>
+	<ingredient id="9509" count="60000"/>
+	<ingredient id="9501" count="150"/>
+	<ingredient id="9508" count="150"/>
+	<ingredient id="9546" count="30000"/>
+  </item> 
+  
+   <item id="2">
+    <production id="9890" count="1"/>
+	<ingredient id="9509" count="60000"/>
+	<ingredient id="9501" count="150"/>
+	<ingredient id="9508" count="150"/>
+	<ingredient id="9546" count="30000"/>
+  </item> 
+  
+  <item id="3">
+    <production id="9891" count="1"/>
+	<ingredient id="9509" count="60000"/>
+	<ingredient id="9501" count="150"/>
+	<ingredient id="9508" count="150"/>
+	<ingredient id="9546" count="30000"/>
+  </item> 
+  
+   <item id="4">
+    <production id="9892" count="1"/>
+	<ingredient id="9509" count="60000"/>
+	<ingredient id="9501" count="150"/>
+	<ingredient id="9508" count="150"/>
+	<ingredient id="9546" count="30000"/>
+  </item> 
+  
+   <item id="5">
+    <production id="9893" count="1"/>
+	<ingredient id="9509" count="60000"/>
+	<ingredient id="9501" count="150"/>
+	<ingredient id="9508" count="150"/>
+	<ingredient id="9546" count="30000"/>
+  </item> 
+
+</list>

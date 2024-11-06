@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+
+     <item id="9912" type="EtcItem" name="Mini Baium">
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="pet_collar" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+		<for>
+ 			<add val="300" order="0x40" stat='pDef'/>
+ 			<add val="300" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+     <item id="9913" type="EtcItem" name="Mini Zaken">
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="pet_collar" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+		<for>
+ 			<add val="300" order="0x40" stat='pDef'/>
+ 			<add val="300" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+     <item id="9914" type="EtcItem" name="Mini Valakas">
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="pet_collar" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+	    <for>
+ 			<add val="300" order="0x40" stat='pDef'/>
+ 			<add val="300" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+     <item id="9915" type="EtcItem" name="Mini Antaras">
+		<set name="default_action" val="skill_maintain" />
+		<set name="etcitem_type" val="pet_collar" />
+		<set name="material" val="STEEL" />
+		<set name="weight" val="20" />
+		<set name="handler" val="SummonItems" />
+		<set name="item_skill" val="2046-1" />
+		<set name="use_condition" val="{{uc_transmode_exclude;{tt_flying;tt_pure_stat}}}" />
+		<for>
+ 			<add val="300" order="0x40" stat='pDef'/>
+ 			<add val="300" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+</list>

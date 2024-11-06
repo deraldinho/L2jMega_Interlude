@@ -1,0 +1,318 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Shop -->
+
+<list>
+  
+  <!-- Mana Potion -->
+  <item id="1">
+    <ingredient id="57" count="5000"/>
+    <production id="728" count="1"/>
+  </item>
+
+  <!-- Greater Healing Potion -->
+  <item id="2">
+    <ingredient id="57" count="2000"/>
+    <production id="1539" count="1"/>
+  </item>
+
+  <!-- Spirit Ore -->
+  <item id="3">
+    <ingredient id="57" count="400"/>
+    <production id="3031" count="1"/>
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="4">
+    <ingredient id="57" count="250"/>
+    <production id="1785" count="1"/>
+  </item>
+
+  <!-- Soul Ore -->
+  <item id="5">
+    <ingredient id="57" count="100"/>
+    <production id="5589" count="1"/>
+  </item>
+
+  <!-- Cursed Bones -->
+  <item id="6">
+    <ingredient id="57" count="360"/>
+    <production id="2508" count="1"/>
+  </item>
+
+  <!-- Einhasad's Holy Water -->
+  <item id="7">
+    <ingredient id="57" count="26000"/>
+    <production id="8874" count="1"/>
+  </item>
+
+  <!-- Phoenix Blood -->
+  <item id="8">
+    <ingredient id="57" count="26000"/>
+    <production id="8873" count="1"/>
+  </item>
+
+  <!-- Summoning Crystal -->
+  <item id="9">
+    <ingredient id="57" count="35000"/>
+    <production id="8615" count="1"/>
+  </item>
+
+  <!-- Battle Symbol -->
+  <item id="10">
+    <ingredient id="57" count="26000"/>
+    <production id="8875" count="1"/>
+  </item>
+
+  <!-- Mage Symbol -->
+  <item id="11">
+    <ingredient id="57" count="26000"/>
+    <production id="8876" count="1"/>
+  </item>
+
+<!-- [Adena] por [SS - No Grade] -->
+  <item id="12">
+    <ingredient id="57" count="8" enchant="0"/>
+    <production id="1835" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SS - D Grade] -->
+  <item id="13">
+    <ingredient id="57" count="11" enchant="0"/>
+    <production id="1463" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SS - C Grade] -->
+  <item id="14">
+    <ingredient id="57" count="16" enchant="0"/>
+    <production id="1464" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SS - B Grade] -->
+  <item id="15">
+    <ingredient id="57" count="55" enchant="0"/>
+    <production id="1465" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SS - A Grade] -->
+  <item id="16">
+    <ingredient id="57" count="88" enchant="0"/>
+    <production id="1466" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SS - S Grade] -->
+  <item id="17">
+    <ingredient id="57" count="110" enchant="0"/>
+    <production id="1467" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - No Grade] -->
+  <item id="18">
+    <ingredient id="57" count="18" enchant="0"/>
+    <production id="2509" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - D Grade] -->
+  <item id="19">
+    <ingredient id="57" count="19" enchant="0"/>
+    <production id="2510" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - C Grade] -->
+  <item id="20">
+    <ingredient id="57" count="38" enchant="0"/>
+    <production id="2511" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - B Grade] -->
+  <item id="21">
+    <ingredient id="57" count="110" enchant="0"/>
+    <production id="2512" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - A Grade] -->
+  <item id="22">
+    <ingredient id="57" count="132" enchant="0"/>
+    <production id="2513" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [SPS - S Grade] -->
+  <item id="23">
+    <ingredient id="57" count="165" enchant="0"/>
+    <production id="2514" count="1" enchant="0"/>
+
+  </item>
+
+  <!-- [Adena] por [BSPS - No Grade] -->
+  <item id="24">
+    <ingredient id="57" count="38" enchant="0"/>
+    <production id="3947" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [BSPS - D Grade] -->
+  <item id="25">
+    <ingredient id="57" count="49" enchant="0"/>
+    <production id="3948" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [BSPS - C Grade] -->
+  <item id="26">
+    <ingredient id="57" count="99" enchant="0"/>
+    <production id="3949" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [BSPS - B Grade] -->
+  <item id="27">
+    <ingredient id="57" count="269" enchant="0"/>
+    <production id="3950" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [BSPS - A Grade] -->
+  <item id="28">
+    <ingredient id="57" count="319" enchant="0"/>
+    <production id="3951" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [BSPS - S Grade] -->
+  <item id="29">
+    <ingredient id="57" count="385" enchant="0"/>
+    <production id="3952" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Wooden Arrow] -->
+  <item id="30">
+    <ingredient id="57" count="2" enchant="0"/>
+    <production id="17" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Bone Arrow] -->
+  <item id="31">
+    <ingredient id="57" count="3" enchant="0"/>
+    <production id="1341" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Fine Steel Arrow] -->
+  <item id="32">
+    <ingredient id="57" count="5" enchant="0"/>
+    <production id="1342" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Silver Arrow] -->
+  <item id="33">
+    <ingredient id="57" count="7" enchant="0"/>
+    <production id="1343" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Mithril Arrow] -->
+  <item id="34">
+    <ingredient id="57" count="8" enchant="0"/>
+    <production id="1344" count="1" enchant="0"/>
+  </item>
+
+  <!-- [Adena] por [Shining Arrow] -->
+  <item id="35">
+    <ingredient id="57" count="11" enchant="0"/>
+    <production id="1345" count="1" enchant="0"/>
+  </item>
+
+ <!-- Crystal Grade - D -->
+  <item id="36">
+    <ingredient id="57" count="500000"/>
+    <production id="1458" count="1000"/>
+  </item>
+
+ <!-- Crystal Grade - C -->
+  <item id="37">
+    <ingredient id="57" count="2200000"/>
+    <production id="1459" count="1000"/>
+  </item>
+
+ <!-- Crystal Grade - C -->
+  <item id="38">
+    <ingredient id="57" count="5200000"/>
+    <production id="1460" count="1000"/>
+  </item>
+
+ <!-- Crystal Grade - C -->
+  <item id="39">
+    <ingredient id="57" count="5200000"/>
+    <production id="1461" count="1000"/>
+  </item>
+
+ <!-- Crystal Grade - C -->
+  <item id="40">
+    <ingredient id="57" count="1000"/>
+    <production id="2130" count="1"/>
+  </item>
+
+ <!-- Crystal Grade - C -->
+  <item id="41">
+    <ingredient id="57" count="1000"/>
+    <production id="2131" count="1"/>
+  </item>
+  
+ <!-- Crystal Grade - C -->
+  <item id="42">
+    <ingredient id="57" count="1000"/>
+    <production id="2132" count="1"/>
+  </item>
+     
+       <!-- .. -->
+  <item id="43">
+    <ingredient id="57" count="5000000"/>
+    <production id="8594" count="1"/>
+  </item>        
+       <!-- .. -->
+  <item id="44">
+    <ingredient id="57" count="5000000"/>
+    <production id="8595" count="1"/>
+  </item>        
+          <!-- .. -->
+  <item id="45">
+    <ingredient id="57" count="5000000"/>
+    <production id="8596" count="1"/>
+  </item>        
+    <!-- .. -->
+  <item id="46">
+    <ingredient id="57" count="5000000"/>
+    <production id="8597" count="1"/>
+  </item>        
+      <!-- .. -->
+  <item id="47">
+    <ingredient id="57" count="5000000"/>
+    <production id="8598" count="1"/>
+  </item>        
+      <!-- .. -->
+  <item id="48">
+    <ingredient id="57" count="5000000"/>
+    <production id="8599" count="1"/>
+  </item>        
+          
+ 
+   <!-- .. -->
+  <item id="49">
+    <ingredient id="57" count="1000000"/>
+    <production id="3874" count="1"/>
+  </item>        
+          
+  <!-- .. -->
+  <item id="50">
+    <ingredient id="57" count="1000000"/>
+    <production id="3870" count="1"/>
+  </item>        
+    <!-- .. -->
+  <item id="51">
+    <ingredient id="57" count="1000000"/>
+    <production id="1419" count="1"/>
+  </item>    
+    <!-- .. -->
+  <item id="52">
+    <ingredient id="57" count="1000000"/>
+    <production id="6029" count="1"/>
+  </item>    
+    <!-- .. -->
+  <item id="53">
+    <ingredient id="57" count="1000000"/>
+    <production id="6033" count="1"/>
+  </item>  
+</list>

@@ -1,0 +1,105 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+ 
+  <!-- hair -->
+  <item id="1">
+    <production id="10312" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>  
+  
+  <!-- hair -->
+  <item id="2">
+    <production id="10313" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>   
+  
+  <!-- hair -->
+  <item id="3">
+    <production id="10314" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>
+       
+  <!-- hair -->
+  <item id="4">
+    <production id="10315" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>  
+  
+    <!-- hair -->
+  <item id="5">
+    <production id="10316" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>  
+  
+  
+    <!-- hair -->
+  <item id="6">
+    <production id="10317" count="1" enchant="0"/>
+	<ingredient id="9509" count="300"/>
+  </item>  
+  
+  
+      <!-- face -->
+  <item id="7">
+    <production id="7837" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="8">
+    <production id="7060" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="9">
+    <production id="6845" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="10">
+    <production id="7059" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="11">
+    <production id="8921" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="12">
+    <production id="8911" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="13">
+    <production id="8569" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="14">
+    <production id="5808" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="15">
+    <production id="6394" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+    <item id="16">
+    <production id="8566" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="17">
+    <production id="8567" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+  
+    <item id="18">
+    <production id="8568" count="1" enchant="0"/>
+	<ingredient id="9509" count="150"/>
+  </item> 
+
+</list>

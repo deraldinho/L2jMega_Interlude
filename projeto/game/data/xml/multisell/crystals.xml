@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Trader Alexandria (Luxury Shop) Miscellaneous -->
+<list>
+
+	<!-- Red Soul Crystal - Stage 10 -->
+	<item>
+		<ingredient id="1460" count="50"/>
+		<ingredient id="1459" count="150"/>
+		<production id="4639" count="1"/>
+	</item>
+	<!-- Green Soul Crystal - Stage 10 -->
+	<item>
+		<ingredient id="1460" count="50"/>
+		<ingredient id="1459" count="150"/>
+		<production id="4650" count="1"/>
+	</item>
+	<!-- Blue Soul Crystal - Stage 10 -->
+	<item>
+		<ingredient id="1460" count="50"/>
+		<ingredient id="1459" count="150"/>
+		<production id="4661" count="1"/>
+	</item>
+</list>

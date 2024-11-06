@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list> 
+     <!-- Hero Coin eterno -->
+  <item id="1">
+    <ingredient id="9327" count="50"/>
+    <production id="9304" count="1"/>
+  </item>
+  
+   <!-- Hero Coin eterno -->
+  <item id="2">
+    <ingredient id="9327" count="70"/>
+    <production id="9305" count="1"/>
+  </item>
+ 
+ <!-- Dragao Voador -->
+  <item id="3">
+    <ingredient id="9327" count="15"/>
+    <production id="8663" count="1"/>
+  </item>
+   
+  <item id="4">
+    <production id="12001" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="5">
+    <production id="12002" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="6">
+    <production id="12003" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="7">
+    <production id="12004" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="8">
+    <production id="12005" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="9">
+    <production id="12006" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="10">
+    <production id="16009" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="11">
+    <production id="16010" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="12">
+    <production id="16011" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="13">
+    <production id="16012" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="14">
+    <production id="16013" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="15">
+    <production id="16014" count="1"/>
+	<ingredient id="9327" count="30"/>
+  </item>
+   
+  <item id="16">
+    <production id="9310" count="1"/>
+	<ingredient id="9327" count="5"/>
+  </item>
+   
+  <item id="17">
+    <production id="9311" count="1"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+   
+  <item id="18">
+    <production id="9309" count="1"/>
+	<ingredient id="9327" count="15"/>
+  </item>
+     
+  <item id="18">
+    <production id="9330" count="1"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+     
+  <item id="19">
+    <production id="9312" count="1"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+   
+ 
+</list>

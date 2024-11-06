@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <npc id="31688">
+       <appearance name="Olympiad" name_color="FFFFFF" title="Olympiad Manager" title_color="FF9900" radius="9" height="22" race="0" sex="0" class="88" hair_style="0" hair_color="3" face="0" hero="1" enchant="16" />
+       <items right_hand="6580" left_hand="0" chest="6373" legs="6374" gloves="6375" feet="6376" hair="8565" hair2="0" />
+       <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+   
+      <npc id="50011">
+       <appearance name="PvP" name_color="FFFFFF" title="PvPs in the last 24h" title_color="00CCFF" radius="9" height="22" race="0" sex="0" class="94" hair_style="0" hair_color="3" face="0" hero="1" enchant="16" />
+       <items right_hand="6580" left_hand="0" chest="6373" legs="6374" gloves="6375" feet="6376" hair="8565" hair2="0" />
+       <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+
+      <npc id="50012">
+       <appearance name="Pk" name_color="FFFFFF" title="PKs in the last 24h" title_color="00CCFF" radius="9" height="22" race="0" sex="1" class="88" hair_style="0" hair_color="3" face="0" hero="1" enchant="16" />
+       <items right_hand="7576" left_hand="0" chest="6379" legs="0" gloves="6380" feet="6381" hair="0" hair2="0" />
+       <clan clan_id="0" clan_crest="0" ally_id="0" ally_crest="0" pledge="0" />
+   </npc>
+
+</list>

@@ -1,0 +1,40 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <production id="6657" count="1" enchant="25"/>  
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="2">
+    <production id="6660" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="3">
+    <production id="6658" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="4">
+    <production id="6659" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="5">
+    <production id="6656" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="6">
+    <production id="6661" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="7">
+    <production id="6662" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+  <item id="8">
+    <production id="8191" count="1" enchant="25"/>
+	<ingredient id="9327" count="10"/>
+  </item>
+ 
+</list>

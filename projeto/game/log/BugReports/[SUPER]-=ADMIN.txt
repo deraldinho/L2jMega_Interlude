@@ -1,0 +1,3 @@
+Character Info: [Character: [SUPER]-=ADMIN - Account: admin - IP: 127.0.0.1]
+Bug Type: Balance
+Message:  teste de report

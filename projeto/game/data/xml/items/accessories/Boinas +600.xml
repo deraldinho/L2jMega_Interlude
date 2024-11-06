@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+	<item id="9743" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9744" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9745" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9746" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9747" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9769" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9770" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9771" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9772" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9773" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9774" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9430" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>
+	
+	<item id="9429" type="Armor" name="Acessorie Custom">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="hair" />
+		<set name="material" val="WOOD" />
+	    <set name="is_oly_restricted" val="true" />
+		<for>
+ 			<add val="600" order="0x40" stat='pDef'/>
+ 			<add val="600" order="0x40" stat='mDef'/>
+			<add val='2000' order='0x40' stat='maxHp'/>
+			<add val='2000' order='0x40' stat='maxCp'/>
+		</for>
+	</item>		
+</list>

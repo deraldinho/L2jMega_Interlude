@@ -1,0 +1,95 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+ 
+  <!-- tatto fight -->
+  <item id="1">
+    <production id="10321" count="1"/>
+	<ingredient id="10320" count="1"/>
+	<ingredient id="5914" count="1"/>
+	<ingredient id="9143" count="200"/>
+	<ingredient id="9510" count="1000"/>
+  </item> 
+    <!-- tatto mage -->
+   <item id="2">
+    <production id="10323" count="1"/>
+	<ingredient id="10322" count="1"/>
+	<ingredient id="5908" count="1"/>
+	<ingredient id="9143" count="200"/>
+	<ingredient id="9510" count="1000"/>
+  </item> 
+    
+   <item id="3">
+    <production id="9146" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item>
+  
+     <item id="4">
+    <production id="9147" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+       <item id="5">
+    <production id="9148" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+         <item id="6">
+    <production id="9149" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+           <item id="7">
+    <production id="9150" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+             <item id="8">
+    <production id="9151" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+               <item id="9">
+    <production id="9152" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item>
+  
+                 <item id="10">
+    <production id="9153" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+                   <item id="11">
+    <production id="9154" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+  
+                   <item id="12">
+    <production id="9155" count="1"/>
+	<ingredient id="8762" count="10"/>
+	<ingredient id="9510" count="50"/>
+	<ingredient id="9143" count="10"/>
+  </item> 
+
+  
+</list>

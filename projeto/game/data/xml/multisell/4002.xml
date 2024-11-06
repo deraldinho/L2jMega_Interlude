@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list>
+ 
+  <item id="1">
+    <production id="20000" count="1"/>
+	<ingredient id="57" count="5000000"/>
+  </item>
+  
+  <item id="2">
+    <production id="20002" count="1"/>
+	<ingredient id="57" count="5000000"/>
+  </item>
+
+  <item id="3">
+    <production id="20001" count="1"/>
+	<ingredient id="9500" count="2500"/>
+  </item>
+  
+  <item id="4">
+    <production id="20003" count="1"/>
+	<ingredient id="9500" count="2500"/>
+  </item>
+  
+</list>

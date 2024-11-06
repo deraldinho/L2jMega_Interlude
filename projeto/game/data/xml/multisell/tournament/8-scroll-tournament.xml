@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Scrolls -->
+
+<list>
+
+
+	<!-- Blessed Scroll: Enchant Weapon (Grade B) -->
+  <item id="1">
+    <production id="6571" count="1"/>
+    <ingredient id="9568" count="10" enchant="0"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade B) -->
+  <item id="2">
+    <production id="6572" count="1"/>
+    <ingredient id="9568" count="5" enchant="0"/>
+  </item>
+  
+	<!-- Blessed Scroll: Enchant Weapon (Grade A) -->
+    <item id="3">
+    <production id="6569" count="1"/>
+    <ingredient id="9568" count="10" enchant="0"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade A) -->
+  <item id="4">
+    <production id="6570" count="1"/>
+    <ingredient id="9568" count="5" enchant="0"/>
+  </item>
+  
+	<!-- Blessed Scroll: Enchant Weapon (Grade S) -->
+  <item id="5">
+    <production id="6577" count="1"/>
+    <ingredient id="9568" count="25" enchant="0"/>
+  </item>
+  
+  <!-- Blessed Scroll: Enchant Armor (Grade S) -->
+  <item id="6">
+    <production id="6578" count="1"/>
+    <ingredient id="9568" count="15" enchant="0"/>
+  </item>
+  
+    <!-- Golden Scroll: Enchant Weapon (Grade S) -->
+  <item id="7">
+    <production id="9506" count="1"/>
+    <ingredient id="9568" count="500" enchant="0"/>
+  </item>
+ 
+   <!-- Golden Scroll: Enchant Armor (Grade S) -->
+  <item id="8">
+    <production id="9507" count="1"/>
+    <ingredient id="9568" count="300" enchant="0"/>
+  </item>
+ 
+  <!-- Crystal Scroll: Enchant Armor (Grade B) -->
+  <item id="9">
+    <production id="950" count="1"/>
+    <ingredient id="9568" count="200" enchant="0"/>
+  </item>
+
+  <!-- Crystal Scroll: Enchant Weapon (Grade S) -->
+  <item id="10">
+    <production id="961" count="1"/>
+    <ingredient id="9568" count="1000" enchant="0"/>
+  </item>
+  
+  <!-- Crystal Scroll: Enchant Armor (Grade S) -->
+  <item id="11">
+    <production id="962" count="1"/>
+    <ingredient id="9568" count="800" enchant="0"/>
+  </item>
+
+
+</list>

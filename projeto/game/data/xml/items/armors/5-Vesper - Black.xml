@@ -1,0 +1,226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list>
+<!-- Heavy -->
+<item id="9754" type="Armor" name="Vesper Black  Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9755" type="Armor" name="Vesper Black  Breastplate">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="204" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9756" type="Armor" name="Vesper Black  Gaiters">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="HEAVY" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="160" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9757" type="Armor" name="Vesper Black  Gauntlets">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9758" type="Armor" name="Vesper Black  Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9759" type="Armor" name="Vesper Black  Leather Helmet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9760" type="Armor" name="Vesper Black  Leather Armor">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="186" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9761" type="Armor" name="Vesper Black  Leather Pants">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="LIGHT" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9762" type="Armor" name="Vesper Black  Leather Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+<item id="9763" type="Armor" name="Vesper Black  Leather Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<!-- Robe -->
+
+<item id="9764" type="Armor" name="Vesper Black  Circlet">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="head" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="103" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>
+</item>
+
+<item id="9765" type="Armor" name="Vesper Black  Robe">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="chest" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="107" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9766" type="Armor" name="Vesper Black  Stockings">
+	<set name="default_action" val="equip" />
+	<set name="armor_type" val="MAGIC" />
+	<set name="bodypart" val="legs" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="100" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9767" type="Armor" name="Vesper Black  Gloves">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="gloves" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+<item id="9768" type="Armor" name="Vesper Black  Boots">
+	<set name="default_action" val="equip" />
+	<set name="bodypart" val="feet" />
+	<set name="crystal_type" val="S" />
+	<set name="crystal_count" val="715" />
+	<set name="material" val="SCALE_OF_DRAGON" />
+	<set name="weight" val="7620" />
+	<set name="price" val="14300000" />
+	<set name="is_oly_restricted" val="true" />
+	<for>
+		<add order="0x10" stat="pDef" val="75" />
+		<enchant order="0x0C" stat="pDef" val="0" />
+	</for>	
+</item>
+</list>

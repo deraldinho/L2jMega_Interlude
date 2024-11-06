@@ -1,0 +1,88 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Jewels Boss & Tattoos -->
+
+<list maintainEnchantment="true">
+ 
+  <!-- armas -->
+  <item id="1">
+    <production id="30105" count="1"/>
+	<ingredient id="30026" count="1"/>
+	<ingredient id="20020" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+   <item id="2">
+    <production id="30125" count="1"/>
+	<ingredient id="30032" count="1"/>
+	<ingredient id="20025" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+    
+   <item id="3">
+    <production id="30101" count="1"/>
+	<ingredient id="30017" count="1"/>
+	<ingredient id="20019" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item>
+  
+     <item id="4">
+    <production id="30111" count="1"/>
+	<ingredient id="30030" count="1"/>
+	<ingredient id="20021" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+       <item id="5">
+    <production id="30113" count="1"/>
+	<ingredient id="30035" count="1"/>
+	<ingredient id="20022" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+         <item id="6">
+    <production id="30133" count="1"/>
+	<ingredient id="30020" count="1"/>
+	<ingredient id="20027" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+           <item id="7">
+    <production id="30117" count="1"/>
+	<ingredient id="30041" count="1"/>
+	<ingredient id="20023" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+             <item id="8">
+    <production id="30121" count="1"/>
+	<ingredient id="30038" count="1"/>
+	<ingredient id="20024" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+  
+               <item id="9">
+    <production id="30129" count="1"/>
+	<ingredient id="30023" count="1"/>
+	<ingredient id="20026" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item>
+  
+                 <item id="10">
+    <production id="30137" count="1"/>
+	<ingredient id="18494" count="1"/>
+	<ingredient id="20029" count="1"/>
+	<ingredient id="9510" count="100"/>
+	<ingredient id="9143" count="200"/>
+  </item> 
+
+</list>

@@ -1,0 +1,303 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<list maintainEnchantment="true">
+
+  <!-- Shining Bow - Cheap Shot -->
+  <item id="1">
+    <ingredient id="9500" count="5000"/>
+    <production id="13458" count="1" enchant="4"/>
+  </item>
+
+  <!-- Shining Bow - Crt. Slow -->
+  <item id="2">
+    <ingredient id="9500" count="5000"/>
+    <production id="13459" count="1" enchant="4"/>
+  </item>
+
+  <!-- Shining Bow - Focus -->
+  <item id="3">
+    <ingredient id="9500" count="5000"/>
+    <production id="13460" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Cheap Shot -->
+  <item id="4">
+    <ingredient id="9500" count="5000"/>
+    <production id="13462" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Critical Slow -->
+  <item id="5">
+    <ingredient id="9500" count="5000"/>
+    <production id="13463" count="1" enchant="4"/>
+  </item>
+
+  <!-- Draconic Bow - Focus -->
+  <item id="6">
+    <ingredient id="9500" count="5000"/>
+    <production id="13464" count="1" enchant="4"/>
+  </item>
+
+  <!-- Arcana Mace - Acumen -->
+  <item id="7">
+    <ingredient id="9500" count="5000"/>
+    <production id="13466" count="1" enchant="4"/>
+  </item>
+
+  <!-- Arcana Mace - MP Regeneration -->
+  <item id="8">
+    <ingredient id="9500" count="5000"/>
+    <production id="13467" count="1" enchant="4"/>
+  </item>
+
+  <!-- Arcana Mace - Mana Up -->
+  <item id="9">
+    <ingredient id="9500" count="5000"/>
+    <production id="13468" count="1" enchant="4"/>
+  </item>
+
+  <!-- Imperial Staff - Empower -->
+  <item id="10">
+    <ingredient id="9500" count="5000"/>
+    <production id="13470" count="1" enchant="4"/>
+  </item>
+
+  <!-- Imperial Staff - Magic Hold -->
+  <item id="11">
+    <ingredient id="9500" count="5000"/>
+    <production id="13471" count="1" enchant="4"/>
+  </item>
+
+  <!-- Imperial Staff - MP Regeneration -->
+  <item id="12">
+    <ingredient id="9500" count="5000"/>
+    <production id="13472" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Health -->
+  <item id="13">
+    <ingredient id="9500" count="5000"/>
+    <production id="13474" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Focus -->
+  <item id="14">
+    <ingredient id="9500" count="5000"/>
+    <production id="13475" count="1" enchant="4"/>
+  </item>
+
+  <!-- Demon Splinter - Crt. Stun -->
+  <item id="15">
+    <ingredient id="9500" count="5000"/>
+    <production id="13476" count="1" enchant="4"/>
+  </item>
+
+  <!-- Forgotten Blade - Haste -->
+  <item id="16">
+    <ingredient id="9500" count="5000"/>
+    <production id="13478" count="1" enchant="4"/>
+  </item>
+
+  <!-- Forgotten Blade - Health -->
+  <item id="17">
+    <ingredient id="9500" count="5000"/>
+    <production id="13479" count="1" enchant="4"/>
+  </item>
+
+  <!-- Forgotten Blade - Focus -->
+  <item id="18">
+    <ingredient id="9500" count="5000"/>
+    <production id="13480" count="1" enchant="4"/>
+  </item>
+
+
+  <!-- Saint Spear - Health -->
+  <item id="19">
+    <ingredient id="9500" count="5000"/>
+    <production id="13482" count="1" enchant="4"/>
+  </item>
+
+  <!-- Saint Spear - Guidance -->
+  <item id="20">
+    <ingredient id="9500" count="5000"/>
+    <production id="13483" count="1" enchant="4"/>
+  </item>
+
+  <!-- Saint Spear - Haste -->
+  <item id="21">
+    <ingredient id="9500" count="5000"/>
+    <production id="13484" count="1" enchant="4"/>
+  </item>
+
+  <!-- Heavens Divider - Health -->
+  <item id="22">
+    <ingredient id="9500" count="5000"/>
+    <production id="13486" count="1" enchant="4"/>
+  </item>
+
+  <!-- Heavens Divider - Focus -->
+  <item id="23">
+    <ingredient id="9500" count="5000"/>
+    <production id="13487" count="1" enchant="4"/>
+  </item>
+
+  <!-- Heavens Divider - Haste -->
+  <item id="24">
+    <ingredient id="9500" count="5000"/>
+    <production id="13488" count="1" enchant="4"/>
+  </item>
+
+  <!-- Angel Slayer - Crt. Damage -->
+  <item id="25">
+    <ingredient id="9500" count="5000"/>
+    <production id="13490" count="1" enchant="4"/>
+  </item>
+
+  <!-- Angel Slayer - HP Drain -->
+  <item id="26">
+    <ingredient id="9500" count="5000"/>
+    <production id="13491" count="1" enchant="4"/>
+  </item>
+
+  <!-- Angel Slayer - Haste -->
+  <item id="27">
+    <ingredient id="9500" count="5000"/>
+    <production id="13492" count="1" enchant="4"/>
+  </item>
+
+  <item id="28">
+    <ingredient id="9500" count="5000"/>
+    <production id="10051" count="1" enchant="4"/>
+  </item>
+
+  <item id="29">
+    <ingredient id="9500" count="5000"/>
+    <production id="10052" count="1" enchant="4"/>
+  </item>
+
+  <item id="30">
+    <ingredient id="9500" count="5000"/>
+    <production id="10053" count="1" enchant="4"/>
+  </item>
+
+  <item id="31">
+    <ingredient id="9500" count="5000"/>
+    <production id="10019" count="1" enchant="4"/>
+  </item>
+
+  <item id="32">
+    <ingredient id="9500" count="5000"/>
+    <production id="10020" count="1" enchant="4"/>
+  </item>
+
+  <item id="33">
+    <ingredient id="9500" count="5000"/>
+    <production id="10021" count="1" enchant="4"/>
+  </item>
+
+  <item id="34">
+    <ingredient id="9500" count="5000"/>
+    <production id="10023" count="1" enchant="4"/>
+  </item>
+
+  <item id="35">
+    <ingredient id="9500" count="5000"/>
+    <production id="10024" count="1" enchant="4"/>
+  </item>
+
+  <item id="36">
+    <ingredient id="9500" count="5000"/>
+    <production id="10025" count="1" enchant="4"/>
+  </item>
+
+  <item id="37">
+    <ingredient id="9500" count="5000"/>
+    <production id="10027" count="1" enchant="4"/>
+  </item>
+
+  <item id="38">
+    <ingredient id="9500" count="5000"/>
+    <production id="10028" count="1" enchant="4"/>
+  </item>
+
+  <item id="39">
+    <ingredient id="9500" count="5000"/>
+    <production id="10029" count="1" enchant="4"/>
+  </item>
+
+  <item id="40">
+    <ingredient id="9500" count="5000"/>
+    <production id="10031" count="1" enchant="4"/>
+  </item>
+
+  <item id="17">
+    <ingredient id="9500" count="5000"/>
+    <production id="10032" count="1" enchant="4"/>
+  </item>
+
+  <item id="41">
+    <ingredient id="9500" count="5000"/>
+    <production id="10033" count="1" enchant="4"/>
+  </item>
+
+  <item id="42">
+    <ingredient id="9500" count="5000"/>
+    <production id="10035" count="1" enchant="4"/>
+  </item>
+
+  <item id="43">
+    <ingredient id="9500" count="5000"/>
+    <production id="10036" count="1" enchant="4"/>
+  </item>
+
+  <item id="44">
+    <ingredient id="9500" count="5000"/>
+    <production id="10037" count="1" enchant="4"/>
+  </item>
+
+  <item id="45">
+    <ingredient id="9500" count="5000"/>
+    <production id="10039" count="1" enchant="4"/>
+  </item>
+
+  <item id="46">
+    <ingredient id="9500" count="5000"/>
+    <production id="10040" count="1" enchant="4"/>
+  </item>
+
+  <item id="47">
+    <ingredient id="9500" count="5000"/>
+    <production id="10041" count="1" enchant="4"/>
+  </item>
+
+  <item id="48">
+    <ingredient id="9500" count="5000"/>
+    <production id="10043" count="1" enchant="4"/>
+  </item>
+
+  <item id="49">
+    <ingredient id="9500" count="5000"/>
+    <production id="10044" count="1" enchant="4"/>
+  </item>
+
+  <item id="50">
+    <ingredient id="9500" count="5000"/>
+    <production id="10045" count="1" enchant="4"/>
+  </item>
+
+  <item id="51">
+    <ingredient id="9500" count="5000"/>
+    <production id="13000" count="1" enchant="4"/>
+  </item>
+
+  <item id="52">
+    <ingredient id="9500" count="5000"/>
+    <production id="13001" count="1" enchant="4"/>
+  </item>
+
+  <item id="53">
+    <ingredient id="9500" count="5000"/>
+    <production id="13002" count="1" enchant="4"/>
+  </item>
+
+  
+</list>

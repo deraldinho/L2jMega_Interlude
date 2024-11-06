@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<item id="9889" type="Armor" name="Earring of Antharas {PvP}	BOSS">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="185" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="3700000" />
+		<set name="item_skill" val="3558-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="91" />
+			<add order="0x40" stat="maxMp" val="31" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9890" type="Armor" name="Necklace of Valakas {PvP}	BOSS">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="neck" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="247" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="4940000" />
+		<set name="item_skill" val="3557-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="125" />
+			<add order="0x40" stat="maxMp" val="42" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9891" type="Armor" name="Ring of Baium {PvP}	BOSS">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="86" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="1730000" />
+		<set name="item_skill" val="3561-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="68" />
+			<add order="0x40" stat="maxMp" val="21" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9892" type="Armor" name="Zaken's Earring {PvP}	BOSS">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rear;lear" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="129" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="2590000" />
+		<set name="item_skill" val="3559-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="91" />
+			<add order="0x40" stat="maxMp" val="31" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+	<item id="9893" type="Armor" name="Ring of Queen Ant {PvP}	BOSS">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="rfinger;lfinger" />
+		<set name="crystal_type" val="B" />
+		<set name="crystal_count" val="82" />
+		<set name="material" val="GOLD" />
+		<set name="weight" val="150" />
+		<set name="price" val="616000" />
+		<set name="item_skill" val="3562-1" />
+		<for>
+			<add order="0x10" stat="mDef" val="68" />
+			<add order="0x40" stat="maxMp" val="21" />
+			<enchant order="0x0C" stat="mDef" val="0" />
+		</for>
+	</item>
+
+</list>

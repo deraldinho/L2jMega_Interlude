@@ -1,0 +1,5360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.53">
+    <root id="1">
+      <DefaultCasing>lower/lower</DefaultCasing>
+      <DefaultEngine>InnoDB</DefaultEngine>
+      <DefaultTmpEngine>InnoDB</DefaultTmpEngine>
+      <Grants>|root||root|localhost|ALTER|G
+|root||root|localhost|ALTER ROUTINE|G
+|root||root|localhost|CREATE|G
+|root||root|localhost|CREATE ROUTINE|G
+|root||root|localhost|CREATE TABLESPACE|G
+|root||root|localhost|CREATE TEMPORARY TABLES|G
+|root||root|localhost|CREATE USER|G
+|root||root|localhost|CREATE VIEW|G
+|root||root|localhost|DELETE|G
+|root||root|localhost|DROP|G
+|root||root|localhost|EVENT|G
+|root||root|localhost|EXECUTE|G
+|root||root|localhost|FILE|G
+|root||root|localhost|INDEX|G
+|root||root|localhost|INSERT|G
+|root||root|localhost|LOCK TABLES|G
+|root||root|localhost|PROCESS|G
+|root||root|localhost|REFERENCES|G
+|root||root|localhost|RELOAD|G
+|root||root|localhost|REPLICATION CLIENT|G
+|root||root|localhost|REPLICATION SLAVE|G
+|root||root|localhost|SELECT|G
+|root||root|localhost|SHOW DATABASES|G
+|root||root|localhost|SHOW VIEW|G
+|root||root|localhost|SHUTDOWN|G
+|root||root|localhost|SUPER|G
+|root||root|localhost|TRIGGER|G
+|root||root|localhost|UPDATE|G
+|root||root|localhost|grant option|G</Grants>
+      <ServerVersion>5.5.55</ServerVersion>
+    </root>
+    <collation id="2" parent="1" name="armscii8_bin">
+      <Charset>armscii8</Charset>
+    </collation>
+    <collation id="3" parent="1" name="armscii8_general_ci">
+      <Charset>armscii8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="4" parent="1" name="ascii_bin">
+      <Charset>ascii</Charset>
+    </collation>
+    <collation id="5" parent="1" name="ascii_general_ci">
+      <Charset>ascii</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="6" parent="1" name="big5_bin">
+      <Charset>big5</Charset>
+    </collation>
+    <collation id="7" parent="1" name="big5_chinese_ci">
+      <Charset>big5</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="8" parent="1" name="binary">
+      <Charset>binary</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="9" parent="1" name="cp1250_bin">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="10" parent="1" name="cp1250_croatian_ci">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="11" parent="1" name="cp1250_czech_cs">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="12" parent="1" name="cp1250_general_ci">
+      <Charset>cp1250</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="13" parent="1" name="cp1250_polish_ci">
+      <Charset>cp1250</Charset>
+    </collation>
+    <collation id="14" parent="1" name="cp1251_bin">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="15" parent="1" name="cp1251_bulgarian_ci">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="16" parent="1" name="cp1251_general_ci">
+      <Charset>cp1251</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="17" parent="1" name="cp1251_general_cs">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="18" parent="1" name="cp1251_ukrainian_ci">
+      <Charset>cp1251</Charset>
+    </collation>
+    <collation id="19" parent="1" name="cp1256_bin">
+      <Charset>cp1256</Charset>
+    </collation>
+    <collation id="20" parent="1" name="cp1256_general_ci">
+      <Charset>cp1256</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="21" parent="1" name="cp1257_bin">
+      <Charset>cp1257</Charset>
+    </collation>
+    <collation id="22" parent="1" name="cp1257_general_ci">
+      <Charset>cp1257</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="23" parent="1" name="cp1257_lithuanian_ci">
+      <Charset>cp1257</Charset>
+    </collation>
+    <collation id="24" parent="1" name="cp850_bin">
+      <Charset>cp850</Charset>
+    </collation>
+    <collation id="25" parent="1" name="cp850_general_ci">
+      <Charset>cp850</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="26" parent="1" name="cp852_bin">
+      <Charset>cp852</Charset>
+    </collation>
+    <collation id="27" parent="1" name="cp852_general_ci">
+      <Charset>cp852</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="28" parent="1" name="cp866_bin">
+      <Charset>cp866</Charset>
+    </collation>
+    <collation id="29" parent="1" name="cp866_general_ci">
+      <Charset>cp866</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="30" parent="1" name="cp932_bin">
+      <Charset>cp932</Charset>
+    </collation>
+    <collation id="31" parent="1" name="cp932_japanese_ci">
+      <Charset>cp932</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="32" parent="1" name="dec8_bin">
+      <Charset>dec8</Charset>
+    </collation>
+    <collation id="33" parent="1" name="dec8_swedish_ci">
+      <Charset>dec8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="34" parent="1" name="eucjpms_bin">
+      <Charset>eucjpms</Charset>
+    </collation>
+    <collation id="35" parent="1" name="eucjpms_japanese_ci">
+      <Charset>eucjpms</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="36" parent="1" name="euckr_bin">
+      <Charset>euckr</Charset>
+    </collation>
+    <collation id="37" parent="1" name="euckr_korean_ci">
+      <Charset>euckr</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="38" parent="1" name="gb2312_bin">
+      <Charset>gb2312</Charset>
+    </collation>
+    <collation id="39" parent="1" name="gb2312_chinese_ci">
+      <Charset>gb2312</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="40" parent="1" name="gbk_bin">
+      <Charset>gbk</Charset>
+    </collation>
+    <collation id="41" parent="1" name="gbk_chinese_ci">
+      <Charset>gbk</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="42" parent="1" name="geostd8_bin">
+      <Charset>geostd8</Charset>
+    </collation>
+    <collation id="43" parent="1" name="geostd8_general_ci">
+      <Charset>geostd8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="44" parent="1" name="greek_bin">
+      <Charset>greek</Charset>
+    </collation>
+    <collation id="45" parent="1" name="greek_general_ci">
+      <Charset>greek</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="46" parent="1" name="hebrew_bin">
+      <Charset>hebrew</Charset>
+    </collation>
+    <collation id="47" parent="1" name="hebrew_general_ci">
+      <Charset>hebrew</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="48" parent="1" name="hp8_bin">
+      <Charset>hp8</Charset>
+    </collation>
+    <collation id="49" parent="1" name="hp8_english_ci">
+      <Charset>hp8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="50" parent="1" name="keybcs2_bin">
+      <Charset>keybcs2</Charset>
+    </collation>
+    <collation id="51" parent="1" name="keybcs2_general_ci">
+      <Charset>keybcs2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="52" parent="1" name="koi8r_bin">
+      <Charset>koi8r</Charset>
+    </collation>
+    <collation id="53" parent="1" name="koi8r_general_ci">
+      <Charset>koi8r</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="54" parent="1" name="koi8u_bin">
+      <Charset>koi8u</Charset>
+    </collation>
+    <collation id="55" parent="1" name="koi8u_general_ci">
+      <Charset>koi8u</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="56" parent="1" name="latin1_bin">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="57" parent="1" name="latin1_danish_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="58" parent="1" name="latin1_general_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="59" parent="1" name="latin1_general_cs">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="60" parent="1" name="latin1_german1_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="61" parent="1" name="latin1_german2_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="62" parent="1" name="latin1_spanish_ci">
+      <Charset>latin1</Charset>
+    </collation>
+    <collation id="63" parent="1" name="latin1_swedish_ci">
+      <Charset>latin1</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="64" parent="1" name="latin2_bin">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="65" parent="1" name="latin2_croatian_ci">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="66" parent="1" name="latin2_czech_cs">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="67" parent="1" name="latin2_general_ci">
+      <Charset>latin2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="68" parent="1" name="latin2_hungarian_ci">
+      <Charset>latin2</Charset>
+    </collation>
+    <collation id="69" parent="1" name="latin5_bin">
+      <Charset>latin5</Charset>
+    </collation>
+    <collation id="70" parent="1" name="latin5_turkish_ci">
+      <Charset>latin5</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="71" parent="1" name="latin7_bin">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="72" parent="1" name="latin7_estonian_cs">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="73" parent="1" name="latin7_general_ci">
+      <Charset>latin7</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="74" parent="1" name="latin7_general_cs">
+      <Charset>latin7</Charset>
+    </collation>
+    <collation id="75" parent="1" name="macce_bin">
+      <Charset>macce</Charset>
+    </collation>
+    <collation id="76" parent="1" name="macce_general_ci">
+      <Charset>macce</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="77" parent="1" name="macroman_bin">
+      <Charset>macroman</Charset>
+    </collation>
+    <collation id="78" parent="1" name="macroman_general_ci">
+      <Charset>macroman</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="79" parent="1" name="sjis_bin">
+      <Charset>sjis</Charset>
+    </collation>
+    <collation id="80" parent="1" name="sjis_japanese_ci">
+      <Charset>sjis</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="81" parent="1" name="swe7_bin">
+      <Charset>swe7</Charset>
+    </collation>
+    <collation id="82" parent="1" name="swe7_swedish_ci">
+      <Charset>swe7</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="83" parent="1" name="tis620_bin">
+      <Charset>tis620</Charset>
+    </collation>
+    <collation id="84" parent="1" name="tis620_thai_ci">
+      <Charset>tis620</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="85" parent="1" name="ucs2_bin">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="86" parent="1" name="ucs2_czech_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="87" parent="1" name="ucs2_danish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="88" parent="1" name="ucs2_esperanto_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="89" parent="1" name="ucs2_estonian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="90" parent="1" name="ucs2_general_ci">
+      <Charset>ucs2</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="91" parent="1" name="ucs2_general_mysql500_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="92" parent="1" name="ucs2_hungarian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="93" parent="1" name="ucs2_icelandic_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="94" parent="1" name="ucs2_latvian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="95" parent="1" name="ucs2_lithuanian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="96" parent="1" name="ucs2_persian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="97" parent="1" name="ucs2_polish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="98" parent="1" name="ucs2_roman_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="99" parent="1" name="ucs2_romanian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="100" parent="1" name="ucs2_sinhala_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="101" parent="1" name="ucs2_slovak_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="102" parent="1" name="ucs2_slovenian_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="103" parent="1" name="ucs2_spanish2_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="104" parent="1" name="ucs2_spanish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="105" parent="1" name="ucs2_swedish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="106" parent="1" name="ucs2_turkish_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="107" parent="1" name="ucs2_unicode_ci">
+      <Charset>ucs2</Charset>
+    </collation>
+    <collation id="108" parent="1" name="ujis_bin">
+      <Charset>ujis</Charset>
+    </collation>
+    <collation id="109" parent="1" name="ujis_japanese_ci">
+      <Charset>ujis</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="110" parent="1" name="utf16_bin">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="111" parent="1" name="utf16_czech_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="112" parent="1" name="utf16_danish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="113" parent="1" name="utf16_esperanto_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="114" parent="1" name="utf16_estonian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="115" parent="1" name="utf16_general_ci">
+      <Charset>utf16</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="116" parent="1" name="utf16_hungarian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="117" parent="1" name="utf16_icelandic_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="118" parent="1" name="utf16_latvian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="119" parent="1" name="utf16_lithuanian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="120" parent="1" name="utf16_persian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="121" parent="1" name="utf16_polish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="122" parent="1" name="utf16_roman_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="123" parent="1" name="utf16_romanian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="124" parent="1" name="utf16_sinhala_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="125" parent="1" name="utf16_slovak_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="126" parent="1" name="utf16_slovenian_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="127" parent="1" name="utf16_spanish2_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="128" parent="1" name="utf16_spanish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="129" parent="1" name="utf16_swedish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="130" parent="1" name="utf16_turkish_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="131" parent="1" name="utf16_unicode_ci">
+      <Charset>utf16</Charset>
+    </collation>
+    <collation id="132" parent="1" name="utf32_bin">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="133" parent="1" name="utf32_czech_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="134" parent="1" name="utf32_danish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="135" parent="1" name="utf32_esperanto_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="136" parent="1" name="utf32_estonian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="137" parent="1" name="utf32_general_ci">
+      <Charset>utf32</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="138" parent="1" name="utf32_hungarian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="139" parent="1" name="utf32_icelandic_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="140" parent="1" name="utf32_latvian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="141" parent="1" name="utf32_lithuanian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="142" parent="1" name="utf32_persian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="143" parent="1" name="utf32_polish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="144" parent="1" name="utf32_roman_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="145" parent="1" name="utf32_romanian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="146" parent="1" name="utf32_sinhala_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="147" parent="1" name="utf32_slovak_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="148" parent="1" name="utf32_slovenian_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="149" parent="1" name="utf32_spanish2_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="150" parent="1" name="utf32_spanish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="151" parent="1" name="utf32_swedish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="152" parent="1" name="utf32_turkish_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="153" parent="1" name="utf32_unicode_ci">
+      <Charset>utf32</Charset>
+    </collation>
+    <collation id="154" parent="1" name="utf8_bin">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="155" parent="1" name="utf8_czech_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="156" parent="1" name="utf8_danish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="157" parent="1" name="utf8_esperanto_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="158" parent="1" name="utf8_estonian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="159" parent="1" name="utf8_general_ci">
+      <Charset>utf8</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="160" parent="1" name="utf8_general_mysql500_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="161" parent="1" name="utf8_hungarian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="162" parent="1" name="utf8_icelandic_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="163" parent="1" name="utf8_latvian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="164" parent="1" name="utf8_lithuanian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="165" parent="1" name="utf8_persian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="166" parent="1" name="utf8_polish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="167" parent="1" name="utf8_roman_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="168" parent="1" name="utf8_romanian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="169" parent="1" name="utf8_sinhala_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="170" parent="1" name="utf8_slovak_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="171" parent="1" name="utf8_slovenian_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="172" parent="1" name="utf8_spanish2_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="173" parent="1" name="utf8_spanish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="174" parent="1" name="utf8_swedish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="175" parent="1" name="utf8_turkish_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="176" parent="1" name="utf8_unicode_ci">
+      <Charset>utf8</Charset>
+    </collation>
+    <collation id="177" parent="1" name="utf8mb4_bin">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="178" parent="1" name="utf8mb4_czech_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="179" parent="1" name="utf8mb4_danish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="180" parent="1" name="utf8mb4_esperanto_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="181" parent="1" name="utf8mb4_estonian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="182" parent="1" name="utf8mb4_general_ci">
+      <Charset>utf8mb4</Charset>
+      <DefaultForCharset>1</DefaultForCharset>
+    </collation>
+    <collation id="183" parent="1" name="utf8mb4_hungarian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="184" parent="1" name="utf8mb4_icelandic_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="185" parent="1" name="utf8mb4_latvian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="186" parent="1" name="utf8mb4_lithuanian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="187" parent="1" name="utf8mb4_persian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="188" parent="1" name="utf8mb4_polish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="189" parent="1" name="utf8mb4_roman_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="190" parent="1" name="utf8mb4_romanian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="191" parent="1" name="utf8mb4_sinhala_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="192" parent="1" name="utf8mb4_slovak_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="193" parent="1" name="utf8mb4_slovenian_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="194" parent="1" name="utf8mb4_spanish2_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="195" parent="1" name="utf8mb4_spanish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="196" parent="1" name="utf8mb4_swedish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="197" parent="1" name="utf8mb4_turkish_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <collation id="198" parent="1" name="utf8mb4_unicode_ci">
+      <Charset>utf8mb4</Charset>
+    </collation>
+    <schema id="199" parent="1" name="information_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="200" parent="1" name="mysql">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="201" parent="1" name="performance_schema">
+      <CollationName>utf8_general_ci</CollationName>
+    </schema>
+    <schema id="202" parent="1" name="projetox">
+      <LastIntrospectionLocalTimestamp>2024-11-06.21:02:50</LastIntrospectionLocalTimestamp>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <schema id="203" parent="1" name="test">
+      <CollationName>latin1_swedish_ci</CollationName>
+    </schema>
+    <user id="204" parent="1" name="root">
+      <Host>localhost</Host>
+    </user>
+    <table id="205" parent="202" name="accounts">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="206" parent="202" name="auction">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="207" parent="202" name="auction_bid">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="208" parent="202" name="augmentations">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="209" parent="202" name="balance">
+      <Comment>L2jHellas Table</Comment>
+      <Engine>InnoDB</Engine>
+      <Options>row_format
+COMPRESSED</Options>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="210" parent="202" name="ban_hwid_chat">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="211" parent="202" name="banned_hwid">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="212" parent="202" name="bookmarks">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="213" parent="202" name="buffer_schemes">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="214" parent="202" name="buylists">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="215" parent="202" name="castle">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="216" parent="202" name="castle_doorupgrade">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="217" parent="202" name="castle_manor_procure">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="218" parent="202" name="castle_manor_production">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="219" parent="202" name="castle_trapupgrade">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="220" parent="202" name="character_aio">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="221" parent="202" name="character_autofarm">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_unicode_ci</CollationName>
+    </table>
+    <table id="222" parent="202" name="character_friends">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="223" parent="202" name="character_hennas">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="224" parent="202" name="character_hero">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="225" parent="202" name="character_kills_info">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="226" parent="202" name="character_kills_snapshot">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="227" parent="202" name="character_macroses">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="228" parent="202" name="character_mail">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="229" parent="202" name="character_memo">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="230" parent="202" name="character_quests">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="231" parent="202" name="character_raid_points">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="232" parent="202" name="character_recipebook">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="233" parent="202" name="character_recommends">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="234" parent="202" name="character_shortcuts">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="235" parent="202" name="character_skills">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="236" parent="202" name="character_skills_save">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="237" parent="202" name="character_subclasses">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="238" parent="202" name="character_vip">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="239" parent="202" name="characters">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="240" parent="202" name="characters_aio_eterno">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="241" parent="202" name="characters_hero_eterno">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="242" parent="202" name="characters_mission">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="243" parent="202" name="characters_vip_eterno">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="244" parent="202" name="chargeback_hwid">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="245" parent="202" name="chat_global_manager">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="246" parent="202" name="chat_hero_manager">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="247" parent="202" name="clan_data">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="248" parent="202" name="clan_privs">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="249" parent="202" name="clan_skills">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="250" parent="202" name="clan_subpledges">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="251" parent="202" name="clan_wars">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="252" parent="202" name="clanhall">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="253" parent="202" name="clanhall_functions">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="254" parent="202" name="connection_test_table">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="255" parent="202" name="ctf">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="256" parent="202" name="ctf_teams">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="257" parent="202" name="cursed_weapons">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="258" parent="202" name="fishing_championship">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="259" parent="202" name="forums">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="260" parent="202" name="games">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="261" parent="202" name="gameservers">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="262" parent="202" name="gm_hwid">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="263" parent="202" name="grandboss_data">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="264" parent="202" name="grandboss_list">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="265" parent="202" name="heroes">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="266" parent="202" name="heroes_diary">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="267" parent="202" name="ip_protect_partyzone">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="268" parent="202" name="ip_protect_raidzone">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="269" parent="202" name="ip_protect_solozone">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="270" parent="202" name="ip_protection">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="271" parent="202" name="items">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="272" parent="202" name="items_on_ground">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="273" parent="202" name="mdt_bets">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="274" parent="202" name="mdt_history">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="275" parent="202" name="mods_wedding">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="276" parent="202" name="olympiad_data">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="277" parent="202" name="olympiad_fights">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="278" parent="202" name="olympiad_nobles">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="279" parent="202" name="olympiad_nobles_eom">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="280" parent="202" name="pets">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="281" parent="202" name="posts">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="282" parent="202" name="raidboss_spawnlist">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="283" parent="202" name="random_spawn">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="284" parent="202" name="random_spawn_loc">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="285" parent="202" name="ranking_votezone">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="286" parent="202" name="server_memo">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="287" parent="202" name="seven_signs">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="288" parent="202" name="seven_signs_festival">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="289" parent="202" name="seven_signs_status">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="290" parent="202" name="siege_clans">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="291" parent="202" name="spawnlist">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="292" parent="202" name="spawnlist_4s">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="293" parent="202" name="topic">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <table id="294" parent="202" name="tvt">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="295" parent="202" name="tvt_teams">
+      <Engine>InnoDB</Engine>
+      <CollationName>utf8_general_ci</CollationName>
+    </table>
+    <table id="296" parent="202" name="votezone_hwid">
+      <Engine>InnoDB</Engine>
+      <CollationName>latin1_swedish_ci</CollationName>
+    </table>
+    <column id="297" parent="205" name="login">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="298" parent="205" name="password">
+      <Position>2</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="299" parent="205" name="lastactive">
+      <Position>3</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="300" parent="205" name="access_level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(3)|0s</StoredType>
+    </column>
+    <column id="301" parent="205" name="lastServer">
+      <DefaultExpression>1</DefaultExpression>
+      <Position>5</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="302" parent="205" name="email">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <Position>6</Position>
+      <StoredType>varchar(100)|0s</StoredType>
+      <CollationName>utf8_general_ci</CollationName>
+    </column>
+    <column id="303" parent="205" name="created_time">
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="304" parent="205" name="PRIMARY">
+      <ColNames>login</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="305" parent="205" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="306" parent="206" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="307" parent="206" name="sellerId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="308" parent="206" name="sellerName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <column id="309" parent="206" name="sellerClanName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <column id="310" parent="206" name="itemId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="311" parent="206" name="itemName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>varchar(40)|0s</StoredType>
+    </column>
+    <column id="312" parent="206" name="startingBid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="313" parent="206" name="currentBid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="314" parent="206" name="endDate">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="315" parent="206" name="PRIMARY">
+      <ColNames>itemId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="316" parent="206" name="id">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="317" parent="206" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="318" parent="207" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="319" parent="207" name="auctionId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="320" parent="207" name="bidderId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="321" parent="207" name="bidderName">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>varchar(50)|0s</StoredType>
+    </column>
+    <column id="322" parent="207" name="clan_name">
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>varchar(50)|0s</StoredType>
+    </column>
+    <column id="323" parent="207" name="maxBid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="324" parent="207" name="time_bid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="325" parent="207" name="PRIMARY">
+      <ColNames>auctionId
+bidderId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="326" parent="207" name="id">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="327" parent="207" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="328" parent="208" name="item_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="329" parent="208" name="attributes">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="330" parent="208" name="skill_id">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="331" parent="208" name="skill_level">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="332" parent="208" name="PRIMARY">
+      <ColNames>item_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="333" parent="208" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="334" parent="209" name="class_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="335" parent="209" name="patk">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="336" parent="209" name="matk">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="337" parent="209" name="pdef">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="338" parent="209" name="mdef">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="339" parent="209" name="acc">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="340" parent="209" name="ev">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="341" parent="209" name="patksp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="342" parent="209" name="matksp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="343" parent="209" name="hp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="344" parent="209" name="mp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <index id="345" parent="209" name="PRIMARY">
+      <ColNames>class_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="346" parent="209" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="347" parent="210" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="348" parent="210" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="349" parent="210" name="hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="350" parent="210" name="account_name">
+      <Position>4</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="351" parent="210" name="char_name">
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <index id="352" parent="210" name="PRIMARY">
+      <ColNames>hwid
+objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="353" parent="210" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="354" parent="211" name="char_name">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="355" parent="211" name="hwid">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <index id="356" parent="211" name="PRIMARY">
+      <ColNames>hwid</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="357" parent="211" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="358" parent="212" name="name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="359" parent="212" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="360" parent="212" name="x">
+      <Position>3</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="361" parent="212" name="y">
+      <Position>4</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="362" parent="212" name="z">
+      <Position>5</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <index id="363" parent="212" name="PRIMARY">
+      <ColNames>name</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="364" parent="212" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="365" parent="213" name="object_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="366" parent="213" name="scheme_name">
+      <DefaultExpression>&apos;default&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(16)|0s</StoredType>
+    </column>
+    <column id="367" parent="213" name="skills">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(200)|0s</StoredType>
+    </column>
+    <column id="368" parent="214" name="buylist_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="369" parent="214" name="item_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="370" parent="214" name="count">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="371" parent="214" name="next_restock_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <index id="372" parent="214" name="PRIMARY">
+      <ColNames>buylist_id
+item_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="373" parent="214" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="374" parent="215" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="375" parent="215" name="name">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(25)|0s</StoredType>
+    </column>
+    <column id="376" parent="215" name="taxPercent">
+      <DefaultExpression>15</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="377" parent="215" name="treasury">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="378" parent="215" name="siegeDate">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="379" parent="215" name="regTimeOver">
+      <DefaultExpression>&apos;true&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>enum(&apos;true&apos;, &apos;false&apos;)|0e</StoredType>
+    </column>
+    <column id="380" parent="215" name="certificates">
+      <DefaultExpression>300</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <index id="381" parent="215" name="PRIMARY">
+      <ColNames>name</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="382" parent="215" name="id">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="383" parent="215" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="384" parent="216" name="doorId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="385" parent="216" name="hp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <column id="386" parent="216" name="castleId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <index id="387" parent="216" name="PRIMARY">
+      <ColNames>doorId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="388" parent="216" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="389" parent="217" name="castle_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="390" parent="217" name="crop_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="391" parent="217" name="amount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="392" parent="217" name="start_amount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="393" parent="217" name="price">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="394" parent="217" name="reward_type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="395" parent="217" name="next_period">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <index id="396" parent="217" name="PRIMARY">
+      <ColNames>castle_id
+crop_id
+next_period</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="397" parent="217" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="398" parent="218" name="castle_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="399" parent="218" name="seed_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="400" parent="218" name="amount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="401" parent="218" name="start_amount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="402" parent="218" name="price">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <column id="403" parent="218" name="next_period">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <index id="404" parent="218" name="PRIMARY">
+      <ColNames>castle_id
+seed_id
+next_period</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="405" parent="218" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="406" parent="219" name="castleId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="407" parent="219" name="towerIndex">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="408" parent="219" name="level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <index id="409" parent="219" name="PRIMARY">
+      <ColNames>towerIndex
+castleId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="410" parent="219" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="411" parent="220" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="412" parent="220" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="413" parent="220" name="PRIMARY">
+      <ColNames>objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="414" parent="220" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="415" parent="221" name="char_id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="416" parent="221" name="char_name">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="417" parent="221" name="auto_farm">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="418" parent="221" name="radius">
+      <DefaultExpression>1200</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="419" parent="221" name="short_cut">
+      <DefaultExpression>9</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="420" parent="221" name="heal_percent">
+      <DefaultExpression>30</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="421" parent="221" name="buff_protection">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="422" parent="221" name="anti_ks_protection">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="423" parent="221" name="summon_attack">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="424" parent="221" name="summon_skill_percent">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="425" parent="221" name="hp_potion_percent">
+      <DefaultExpression>60</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="426" parent="221" name="mp_potion_percent">
+      <DefaultExpression>60</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="427" parent="221" name="PRIMARY">
+      <ColNames>char_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="428" parent="221" name="char_name">
+      <ColNames>char_name</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="429" parent="221" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="430" parent="222" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="431" parent="222" name="friend_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="432" parent="222" name="relation">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="433" parent="222" name="PRIMARY">
+      <ColNames>char_id
+friend_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="434" parent="222" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="435" parent="223" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="436" parent="223" name="symbol_id">
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="437" parent="223" name="slot">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="438" parent="223" name="class_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <index id="439" parent="223" name="PRIMARY">
+      <ColNames>char_obj_id
+slot
+class_index</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="440" parent="223" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="441" parent="224" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="442" parent="224" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="443" parent="224" name="PRIMARY">
+      <ColNames>objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="444" parent="224" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="445" parent="225" name="cycle">
+      <AutoIncrement>122</AutoIncrement>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="446" parent="225" name="cycle_start">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="447" parent="225" name="winner_pvpkills">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="448" parent="225" name="winner_pvpkills_count">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="449" parent="225" name="winner_pkkills">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="450" parent="225" name="winner_pkkills_count">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="451" parent="225" name="PRIMARY">
+      <ColNames>cycle</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="452" parent="225" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="453" parent="226" name="charId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="454" parent="226" name="pvpkills">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="455" parent="226" name="pkkills">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="456" parent="226" name="PRIMARY">
+      <ColNames>charId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="457" parent="226" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="458" parent="227" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="459" parent="227" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="460" parent="227" name="icon">
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="461" parent="227" name="name">
+      <Position>4</Position>
+      <StoredType>varchar(40)|0s</StoredType>
+    </column>
+    <column id="462" parent="227" name="descr">
+      <Position>5</Position>
+      <StoredType>varchar(80)|0s</StoredType>
+    </column>
+    <column id="463" parent="227" name="acronym">
+      <Position>6</Position>
+      <StoredType>varchar(4)|0s</StoredType>
+    </column>
+    <column id="464" parent="227" name="commands">
+      <Position>7</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="465" parent="227" name="PRIMARY">
+      <ColNames>char_obj_id
+id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="466" parent="227" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="467" parent="228" name="charId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="468" parent="228" name="letterId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="469" parent="228" name="senderId">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="470" parent="228" name="location">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="471" parent="228" name="recipientNames">
+      <Position>5</Position>
+      <StoredType>varchar(200)|0s</StoredType>
+    </column>
+    <column id="472" parent="228" name="subject">
+      <Position>6</Position>
+      <StoredType>varchar(128)|0s</StoredType>
+    </column>
+    <column id="473" parent="228" name="message">
+      <Position>7</Position>
+      <StoredType>varchar(3000)|0s</StoredType>
+    </column>
+    <column id="474" parent="228" name="sentDate">
+      <Position>8</Position>
+      <StoredType>timestamp|0s</StoredType>
+    </column>
+    <column id="475" parent="228" name="unread">
+      <DefaultExpression>1</DefaultExpression>
+      <Position>9</Position>
+      <StoredType>smallint(1)|0s</StoredType>
+    </column>
+    <index id="476" parent="228" name="PRIMARY">
+      <ColNames>letterId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="477" parent="228" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="478" parent="229" name="charId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="479" parent="229" name="var">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="480" parent="229" name="val">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>text|0s</StoredType>
+    </column>
+    <column id="481" parent="230" name="charId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="482" parent="230" name="name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(40)|0s</StoredType>
+    </column>
+    <column id="483" parent="230" name="var">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <column id="484" parent="230" name="value">
+      <Position>4</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="485" parent="230" name="PRIMARY">
+      <ColNames>charId
+name
+var</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="486" parent="230" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="487" parent="231" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="488" parent="231" name="boss_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="489" parent="231" name="points">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="490" parent="231" name="PRIMARY">
+      <ColNames>char_id
+boss_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="491" parent="231" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="492" parent="232" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="493" parent="232" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="494" parent="232" name="type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="495" parent="232" name="PRIMARY">
+      <ColNames>id
+char_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="496" parent="232" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="497" parent="233" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="498" parent="233" name="target_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="499" parent="233" name="PRIMARY">
+      <ColNames>char_id
+target_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="500" parent="233" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="501" parent="234" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="502" parent="234" name="slot">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>decimal(3)|0s</StoredType>
+    </column>
+    <column id="503" parent="234" name="page">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(3)|0s</StoredType>
+    </column>
+    <column id="504" parent="234" name="type">
+      <Position>4</Position>
+      <StoredType>decimal(3)|0s</StoredType>
+    </column>
+    <column id="505" parent="234" name="shortcut_id">
+      <Position>5</Position>
+      <StoredType>decimal(16)|0s</StoredType>
+    </column>
+    <column id="506" parent="234" name="level">
+      <Position>6</Position>
+      <StoredType>varchar(4)|0s</StoredType>
+    </column>
+    <column id="507" parent="234" name="class_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <index id="508" parent="234" name="PRIMARY">
+      <ColNames>char_obj_id
+slot
+page
+class_index</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="509" parent="234" name="shortcut_id">
+      <ColNames>shortcut_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="510" parent="234" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="511" parent="235" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="512" parent="235" name="skill_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="513" parent="235" name="skill_level">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(3)|0s</StoredType>
+    </column>
+    <column id="514" parent="235" name="class_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <index id="515" parent="235" name="PRIMARY">
+      <ColNames>char_obj_id
+skill_id
+class_index</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="516" parent="235" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="517" parent="236" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="518" parent="236" name="skill_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="519" parent="236" name="skill_level">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(3)|0s</StoredType>
+    </column>
+    <column id="520" parent="236" name="effect_count">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="521" parent="236" name="effect_cur_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="522" parent="236" name="reuse_delay">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="523" parent="236" name="systime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="524" parent="236" name="restore_type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="525" parent="236" name="class_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="526" parent="236" name="buff_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>int(2)|0s</StoredType>
+    </column>
+    <index id="527" parent="236" name="PRIMARY">
+      <ColNames>char_obj_id
+skill_id
+skill_level
+class_index</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="528" parent="236" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="529" parent="237" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="530" parent="237" name="class_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(2)|0s</StoredType>
+    </column>
+    <column id="531" parent="237" name="exp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="532" parent="237" name="sp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="533" parent="237" name="level">
+      <DefaultExpression>40</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(2)|0s</StoredType>
+    </column>
+    <column id="534" parent="237" name="class_index">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <index id="535" parent="237" name="PRIMARY">
+      <ColNames>char_obj_id
+class_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="536" parent="237" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="537" parent="238" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="538" parent="238" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="539" parent="238" name="PRIMARY">
+      <ColNames>objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="540" parent="238" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="541" parent="239" name="account_name">
+      <Position>1</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="542" parent="239" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="543" parent="239" name="char_name">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="544" parent="239" name="level">
+      <Position>4</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="545" parent="239" name="maxHp">
+      <Position>5</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="546" parent="239" name="curHp">
+      <Position>6</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="547" parent="239" name="maxCp">
+      <Position>7</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="548" parent="239" name="curCp">
+      <Position>8</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="549" parent="239" name="maxMp">
+      <Position>9</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="550" parent="239" name="curMp">
+      <Position>10</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="551" parent="239" name="face">
+      <Position>11</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="552" parent="239" name="hairStyle">
+      <Position>12</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="553" parent="239" name="hairColor">
+      <Position>13</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="554" parent="239" name="sex">
+      <Position>14</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="555" parent="239" name="heading">
+      <Position>15</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="556" parent="239" name="x">
+      <Position>16</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="557" parent="239" name="y">
+      <Position>17</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="558" parent="239" name="z">
+      <Position>18</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="559" parent="239" name="exp">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>19</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="560" parent="239" name="expBeforeDeath">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>20</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="561" parent="239" name="sp">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>21</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="562" parent="239" name="karma">
+      <Position>22</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="563" parent="239" name="pvpkills">
+      <Position>23</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="564" parent="239" name="pkkills">
+      <Position>24</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="565" parent="239" name="clanid">
+      <Position>25</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="566" parent="239" name="race">
+      <Position>26</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="567" parent="239" name="classid">
+      <Position>27</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="568" parent="239" name="base_class">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>28</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="569" parent="239" name="deletetime">
+      <Position>29</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="570" parent="239" name="cancraft">
+      <Position>30</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="571" parent="239" name="title">
+      <Position>31</Position>
+      <StoredType>varchar(16)|0s</StoredType>
+    </column>
+    <column id="572" parent="239" name="rec_have">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>32</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="573" parent="239" name="rec_left">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>33</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="574" parent="239" name="accesslevel">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>34</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="575" parent="239" name="online">
+      <Position>35</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="576" parent="239" name="onlinetime">
+      <Position>36</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="577" parent="239" name="char_slot">
+      <Position>37</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="578" parent="239" name="lastAccess">
+      <Position>38</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="579" parent="239" name="clan_privs">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>39</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="580" parent="239" name="wantspeace">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>40</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="581" parent="239" name="isin7sdungeon">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>41</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="582" parent="239" name="punish_level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>42</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="583" parent="239" name="punish_timer">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>43</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="584" parent="239" name="power_grade">
+      <Position>44</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="585" parent="239" name="nobless">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>45</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="586" parent="239" name="hero">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>46</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="587" parent="239" name="subpledge">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>47</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="588" parent="239" name="last_recom_date">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>48</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="589" parent="239" name="lvl_joined_academy">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>49</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="590" parent="239" name="apprentice">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>50</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="591" parent="239" name="sponsor">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>51</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="592" parent="239" name="varka_ketra_ally">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>52</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <column id="593" parent="239" name="clan_join_expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>53</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="594" parent="239" name="clan_create_expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>54</Position>
+      <StoredType>bigint(20) unsigned|0s</StoredType>
+    </column>
+    <column id="595" parent="239" name="death_penalty_level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>55</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="596" parent="239" name="color_name">
+      <Position>56</Position>
+      <StoredType>varchar(11)|0s</StoredType>
+    </column>
+    <column id="597" parent="239" name="color_title">
+      <Position>57</Position>
+      <StoredType>varchar(11)|0s</StoredType>
+    </column>
+    <column id="598" parent="239" name="first_log">
+      <DefaultExpression>1</DefaultExpression>
+      <Position>58</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="599" parent="239" name="second_log">
+      <DefaultExpression>1</DefaultExpression>
+      <Position>59</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="600" parent="239" name="preview">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>60</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="601" parent="239" name="equip">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>61</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="602" parent="239" name="wepequip">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>62</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="603" parent="239" name="pc_point">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>63</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="604" parent="239" name="event_pvp">
+      <Position>64</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <index id="605" parent="239" name="PRIMARY">
+      <ColNames>obj_Id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="606" parent="239" name="clanid">
+      <ColNames>clanid</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="607" parent="239" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="608" parent="240" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="609" parent="240" name="char_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="610" parent="240" name="aio">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <index id="611" parent="240" name="PRIMARY">
+      <ColNames>obj_Id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="612" parent="240" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="613" parent="241" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="614" parent="241" name="char_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="615" parent="241" name="hero">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <index id="616" parent="241" name="PRIMARY">
+      <ColNames>obj_Id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="617" parent="241" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="618" parent="242" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="619" parent="242" name="char_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="620" parent="242" name="tvt_event">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="621" parent="242" name="tvt_completed">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="622" parent="242" name="tvt_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="623" parent="242" name="pvp_event">
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="624" parent="242" name="pvp_completed">
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="625" parent="242" name="pvp_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="626" parent="242" name="raid_event">
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="627" parent="242" name="raid_completed">
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="628" parent="242" name="raid_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="629" parent="242" name="mobs">
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="630" parent="242" name="mob_completed">
+      <NotNull>1</NotNull>
+      <Position>13</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="631" parent="242" name="mob_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>14</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="632" parent="242" name="party_mobs">
+      <NotNull>1</NotNull>
+      <Position>15</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="633" parent="242" name="party_mob_completed">
+      <NotNull>1</NotNull>
+      <Position>16</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="634" parent="242" name="party_mob_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>17</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="635" parent="242" name="tournament_1x1_event">
+      <NotNull>1</NotNull>
+      <Position>18</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="636" parent="242" name="tournament_1x1_completed">
+      <NotNull>1</NotNull>
+      <Position>19</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="637" parent="242" name="tournament_1x1_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>20</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="638" parent="242" name="tournament_2x2_event">
+      <NotNull>1</NotNull>
+      <Position>21</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="639" parent="242" name="tournament_2x2_completed">
+      <NotNull>1</NotNull>
+      <Position>22</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="640" parent="242" name="tournament_2x2_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>23</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="641" parent="242" name="tournament_5x5_event">
+      <NotNull>1</NotNull>
+      <Position>24</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="642" parent="242" name="tournament_5x5_completed">
+      <NotNull>1</NotNull>
+      <Position>25</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="643" parent="242" name="tournament_5x5_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>26</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <column id="644" parent="242" name="tournament_9x9_event">
+      <NotNull>1</NotNull>
+      <Position>27</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="645" parent="242" name="tournament_9x9_completed">
+      <NotNull>1</NotNull>
+      <Position>28</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="646" parent="242" name="tournament_9x9_hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>29</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <index id="647" parent="242" name="PRIMARY">
+      <ColNames>obj_Id
+raid_hwid
+mob_hwid
+party_mob_hwid
+tournament_1x1_hwid
+tournament_2x2_hwid
+tournament_5x5_hwid
+tournament_9x9_hwid</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="648" parent="242" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="649" parent="243" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="650" parent="243" name="char_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="651" parent="243" name="vip">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <index id="652" parent="243" name="PRIMARY">
+      <ColNames>obj_Id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="653" parent="243" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="654" parent="244" name="hwid">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <index id="655" parent="244" name="PRIMARY">
+      <ColNames>hwid</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="656" parent="244" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="657" parent="245" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="658" parent="245" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="659" parent="245" name="PRIMARY">
+      <ColNames>objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="660" parent="245" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="661" parent="246" name="objectId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="662" parent="246" name="duration">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="663" parent="246" name="PRIMARY">
+      <ColNames>objectId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="664" parent="246" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="665" parent="247" name="clan_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="666" parent="247" name="clan_name">
+      <Position>2</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="667" parent="247" name="clan_level">
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="668" parent="247" name="reputation_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="669" parent="247" name="hasCastle">
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="670" parent="247" name="ally_id">
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="671" parent="247" name="ally_name">
+      <Position>7</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="672" parent="247" name="leader_id">
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="673" parent="247" name="crest_id">
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="674" parent="247" name="crest_large_id">
+      <Position>10</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="675" parent="247" name="ally_crest_id">
+      <Position>11</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="676" parent="247" name="auction_bid_at">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="677" parent="247" name="ally_penalty_expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>13</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="678" parent="247" name="ally_penalty_type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>14</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="679" parent="247" name="char_penalty_expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>15</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="680" parent="247" name="dissolving_expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>16</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="681" parent="247" name="enabled">
+      <DefaultExpression>&apos;false&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>17</Position>
+      <StoredType>enum(&apos;true&apos;, &apos;false&apos;)|0e</StoredType>
+    </column>
+    <column id="682" parent="247" name="notice">
+      <Position>18</Position>
+      <StoredType>text|0s</StoredType>
+    </column>
+    <column id="683" parent="247" name="introduction">
+      <Position>19</Position>
+      <StoredType>text|0s</StoredType>
+    </column>
+    <column id="684" parent="247" name="boss_win">
+      <Position>20</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="685" parent="247" name="5x5_win">
+      <Position>21</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="686" parent="247" name="9x9_win">
+      <Position>22</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="687" parent="247" name="PRIMARY">
+      <ColNames>clan_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <index id="688" parent="247" name="ally_id">
+      <ColNames>ally_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <index id="689" parent="247" name="leader_id">
+      <ColNames>leader_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <key id="690" parent="247" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="691" parent="248" name="clan_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="692" parent="248" name="rank">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="693" parent="248" name="privs">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="694" parent="248" name="PRIMARY">
+      <ColNames>clan_id
+rank</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="695" parent="248" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="696" parent="249" name="clan_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="697" parent="249" name="skill_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="698" parent="249" name="skill_level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(5)|0s</StoredType>
+    </column>
+    <column id="699" parent="249" name="skill_name">
+      <Position>4</Position>
+      <StoredType>varchar(26)|0s</StoredType>
+    </column>
+    <index id="700" parent="249" name="PRIMARY">
+      <ColNames>clan_id
+skill_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="701" parent="249" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="702" parent="250" name="clan_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="703" parent="250" name="sub_pledge_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="704" parent="250" name="name">
+      <Position>3</Position>
+      <StoredType>varchar(45)|0s</StoredType>
+    </column>
+    <column id="705" parent="250" name="leader_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="706" parent="250" name="PRIMARY">
+      <ColNames>clan_id
+sub_pledge_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="707" parent="250" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="708" parent="251" name="clan1">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="709" parent="251" name="clan2">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="710" parent="251" name="expiry_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="711" parent="251" name="PRIMARY">
+      <ColNames>clan1
+clan2</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="712" parent="251" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="713" parent="252" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="714" parent="252" name="name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(40)|0s</StoredType>
+    </column>
+    <column id="715" parent="252" name="ownerId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="716" parent="252" name="lease">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="717" parent="252" name="desc">
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>text|0s</StoredType>
+    </column>
+    <column id="718" parent="252" name="location">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>varchar(15)|0s</StoredType>
+    </column>
+    <column id="719" parent="252" name="paidUntil">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="720" parent="252" name="Grade">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="721" parent="252" name="paid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <index id="722" parent="252" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="723" parent="252" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="724" parent="253" name="hall_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(2)|0s</StoredType>
+    </column>
+    <column id="725" parent="253" name="type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="726" parent="253" name="lvl">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(3)|0s</StoredType>
+    </column>
+    <column id="727" parent="253" name="lease">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="728" parent="253" name="rate">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="729" parent="253" name="endTime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="730" parent="253" name="PRIMARY">
+      <ColNames>hall_id
+type</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="731" parent="253" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="732" parent="254" name="a">
+      <Position>1</Position>
+      <StoredType>char(1)|0s</StoredType>
+    </column>
+    <column id="733" parent="255" name="eventName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="734" parent="255" name="eventDesc">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="735" parent="255" name="joiningLocation">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="736" parent="255" name="minlvl">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="737" parent="255" name="maxlvl">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="738" parent="255" name="npcId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="739" parent="255" name="npcX">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="740" parent="255" name="npcY">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="741" parent="255" name="npcZ">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="742" parent="255" name="npcHeading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="743" parent="255" name="rewardId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="744" parent="255" name="rewardAmount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="745" parent="255" name="teamsCount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>13</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="746" parent="255" name="joinTime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>14</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="747" parent="255" name="eventTime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>15</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="748" parent="255" name="minPlayers">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>16</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="749" parent="255" name="maxPlayers">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>17</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="750" parent="255" name="delayForNextEvent">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>18</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="751" parent="256" name="teamId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="752" parent="256" name="teamName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="753" parent="256" name="teamX">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="754" parent="256" name="teamY">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="755" parent="256" name="teamZ">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="756" parent="256" name="teamColor">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="757" parent="256" name="flagX">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="758" parent="256" name="flagY">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="759" parent="256" name="flagZ">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="760" parent="256" name="PRIMARY">
+      <ColNames>teamId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="761" parent="256" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="762" parent="257" name="itemId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="763" parent="257" name="playerId">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="764" parent="257" name="playerKarma">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="765" parent="257" name="playerPkKills">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="766" parent="257" name="nbKills">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="767" parent="257" name="currentStage">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="768" parent="257" name="numberBeforeNextStage">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="769" parent="257" name="hungryTime">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="770" parent="257" name="endTime">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>9</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="771" parent="257" name="PRIMARY">
+      <ColNames>itemId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="772" parent="257" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="773" parent="258" name="player_name">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="774" parent="258" name="fish_length">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>double(10,3 digit)|0s</StoredType>
+    </column>
+    <column id="775" parent="258" name="rewarded">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="776" parent="259" name="forum_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="777" parent="259" name="forum_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="778" parent="259" name="forum_parent">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="779" parent="259" name="forum_post">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="780" parent="259" name="forum_type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="781" parent="259" name="forum_perm">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="782" parent="259" name="forum_owner_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <index id="783" parent="259" name="forum_id">
+      <ColNames>forum_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="784" parent="259" name="forum_id">
+      <UnderlyingIndexName>forum_id</UnderlyingIndexName>
+    </key>
+    <column id="785" parent="260" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="786" parent="260" name="idnr">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="787" parent="260" name="number1">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="788" parent="260" name="number2">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="789" parent="260" name="prize">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="790" parent="260" name="newprize">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="791" parent="260" name="prize1">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="792" parent="260" name="prize2">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="793" parent="260" name="prize3">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="794" parent="260" name="enddate">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="795" parent="260" name="finished">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="796" parent="260" name="PRIMARY">
+      <ColNames>id
+idnr</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="797" parent="260" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="798" parent="261" name="server_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="799" parent="261" name="hexid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(50)|0s</StoredType>
+    </column>
+    <column id="800" parent="261" name="host">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(50)|0s</StoredType>
+    </column>
+    <index id="801" parent="261" name="PRIMARY">
+      <ColNames>server_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="802" parent="261" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="803" parent="262" name="hwid">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <index id="804" parent="262" name="PRIMARY">
+      <ColNames>hwid</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="805" parent="262" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="806" parent="263" name="boss_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="807" parent="263" name="loc_x">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="808" parent="263" name="loc_y">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="809" parent="263" name="loc_z">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="810" parent="263" name="heading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="811" parent="263" name="respawn_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="812" parent="263" name="currentHP">
+      <Position>7</Position>
+      <StoredType>decimal(8)|0s</StoredType>
+    </column>
+    <column id="813" parent="263" name="currentMP">
+      <Position>8</Position>
+      <StoredType>decimal(8)|0s</StoredType>
+    </column>
+    <column id="814" parent="263" name="status">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <index id="815" parent="263" name="PRIMARY">
+      <ColNames>boss_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="816" parent="263" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="817" parent="264" name="player_id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="818" parent="264" name="zone">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <index id="819" parent="264" name="PRIMARY">
+      <ColNames>player_id
+zone</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="820" parent="264" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="821" parent="265" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="822" parent="265" name="class_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>decimal(3)|0s</StoredType>
+    </column>
+    <column id="823" parent="265" name="count">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(3)|0s</StoredType>
+    </column>
+    <column id="824" parent="265" name="played">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(1)|0s</StoredType>
+    </column>
+    <column id="825" parent="265" name="active">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <column id="826" parent="265" name="message">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>varchar(300)|0s</StoredType>
+    </column>
+    <index id="827" parent="265" name="PRIMARY">
+      <ColNames>char_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="828" parent="265" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="829" parent="266" name="char_id">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="830" parent="266" name="time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="831" parent="266" name="action">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(2) unsigned|0s</StoredType>
+    </column>
+    <column id="832" parent="266" name="param">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11) unsigned|0s</StoredType>
+    </column>
+    <index id="833" parent="266" name="char_id">
+      <ColNames>char_id</ColNames>
+      <Type>btree</Type>
+    </index>
+    <column id="834" parent="267" name="ip">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <index id="835" parent="267" name="PRIMARY">
+      <ColNames>ip</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="836" parent="267" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="837" parent="268" name="ip">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <index id="838" parent="268" name="PRIMARY">
+      <ColNames>ip</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="839" parent="268" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="840" parent="269" name="ip">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <index id="841" parent="269" name="PRIMARY">
+      <ColNames>ip</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="842" parent="269" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="843" parent="270" name="ip">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <index id="844" parent="270" name="PRIMARY">
+      <ColNames>ip</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="845" parent="270" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="846" parent="271" name="owner_id">
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="847" parent="271" name="object_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="848" parent="271" name="item_id">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="849" parent="271" name="count">
+      <Position>4</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="850" parent="271" name="enchant_level">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="851" parent="271" name="loc">
+      <Position>6</Position>
+      <StoredType>varchar(10)|0s</StoredType>
+    </column>
+    <column id="852" parent="271" name="loc_data">
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="853" parent="271" name="custom_type1">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="854" parent="271" name="custom_type2">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="855" parent="271" name="mana_left">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>smallint(6)|0s</StoredType>
+    </column>
+    <column id="856" parent="271" name="time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <index id="857" parent="271" name="PRIMARY">
+      <ColNames>object_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="858" parent="271" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="859" parent="272" name="object_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="860" parent="272" name="item_id">
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="861" parent="272" name="count">
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="862" parent="272" name="enchant_level">
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="863" parent="272" name="x">
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="864" parent="272" name="y">
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="865" parent="272" name="z">
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="866" parent="272" name="time">
+      <Position>8</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="867" parent="272" name="PRIMARY">
+      <ColNames>object_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="868" parent="272" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="869" parent="273" name="lane_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="870" parent="273" name="bet">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="871" parent="273" name="PRIMARY">
+      <ColNames>lane_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="872" parent="273" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="873" parent="274" name="race_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>mediumint(9)|0s</StoredType>
+    </column>
+    <column id="874" parent="274" name="first">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>2</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="875" parent="274" name="second">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>3</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="876" parent="274" name="odd_rate">
+      <DefaultExpression>0.00</DefaultExpression>
+      <Position>4</Position>
+      <StoredType>double(10,2 digit)|0s</StoredType>
+    </column>
+    <index id="877" parent="274" name="PRIMARY">
+      <ColNames>race_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="878" parent="274" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="879" parent="275" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="880" parent="275" name="requesterId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="881" parent="275" name="partnerId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <index id="882" parent="275" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="883" parent="275" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="884" parent="276" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="885" parent="276" name="current_cycle">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="886" parent="276" name="period">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>mediumint(8) unsigned|0s</StoredType>
+    </column>
+    <column id="887" parent="276" name="olympiad_end">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="888" parent="276" name="validation_end">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="889" parent="276" name="next_weekly_change">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <index id="890" parent="276" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="891" parent="276" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="892" parent="277" name="charOneId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="893" parent="277" name="charTwoId">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="894" parent="277" name="charOneClass">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="895" parent="277" name="charTwoClass">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="896" parent="277" name="winner">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="897" parent="277" name="start">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="898" parent="277" name="time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="899" parent="277" name="classed">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <index id="900" parent="277" name="charOneId">
+      <ColNames>charOneId</ColNames>
+      <Type>btree</Type>
+    </index>
+    <index id="901" parent="277" name="charTwoId">
+      <ColNames>charTwoId</ColNames>
+      <Type>btree</Type>
+    </index>
+    <column id="902" parent="278" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="903" parent="278" name="class_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="904" parent="278" name="olympiad_points">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="905" parent="278" name="competitions_done">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="906" parent="278" name="competitions_won">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="907" parent="278" name="competitions_lost">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="908" parent="278" name="competitions_drawn">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <index id="909" parent="278" name="PRIMARY">
+      <ColNames>char_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="910" parent="278" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="911" parent="279" name="char_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(10) unsigned|0s</StoredType>
+    </column>
+    <column id="912" parent="279" name="class_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="913" parent="279" name="olympiad_points">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="914" parent="279" name="competitions_done">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="915" parent="279" name="competitions_won">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="916" parent="279" name="competitions_lost">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <column id="917" parent="279" name="competitions_drawn">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>smallint(3)|0s</StoredType>
+    </column>
+    <index id="918" parent="279" name="PRIMARY">
+      <ColNames>char_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="919" parent="279" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="920" parent="280" name="item_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="921" parent="280" name="name">
+      <Position>2</Position>
+      <StoredType>varchar(16)|0s</StoredType>
+    </column>
+    <column id="922" parent="280" name="level">
+      <Position>3</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="923" parent="280" name="curHp">
+      <Position>4</Position>
+      <StoredType>decimal(18)|0s</StoredType>
+    </column>
+    <column id="924" parent="280" name="curMp">
+      <Position>5</Position>
+      <StoredType>decimal(18)|0s</StoredType>
+    </column>
+    <column id="925" parent="280" name="exp">
+      <Position>6</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="926" parent="280" name="sp">
+      <Position>7</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="927" parent="280" name="fed">
+      <Position>8</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <index id="928" parent="280" name="PRIMARY">
+      <ColNames>item_obj_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="929" parent="280" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="930" parent="281" name="post_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="931" parent="281" name="post_owner_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="932" parent="281" name="post_ownerid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="933" parent="281" name="post_date">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="934" parent="281" name="post_topic_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="935" parent="281" name="post_forum_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="936" parent="281" name="post_txt">
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>text|0s</StoredType>
+    </column>
+    <column id="937" parent="282" name="boss_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="938" parent="282" name="loc_x">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="939" parent="282" name="loc_y">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="940" parent="282" name="loc_z">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="941" parent="282" name="heading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="942" parent="282" name="spawn_time">
+      <DefaultExpression>36</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="943" parent="282" name="random_time">
+      <DefaultExpression>24</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="944" parent="282" name="respawn_time">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="945" parent="282" name="currentHp">
+      <Position>9</Position>
+      <StoredType>decimal(8)|0s</StoredType>
+    </column>
+    <column id="946" parent="282" name="currentMp">
+      <Position>10</Position>
+      <StoredType>decimal(8)|0s</StoredType>
+    </column>
+    <index id="947" parent="282" name="PRIMARY">
+      <ColNames>boss_id
+loc_x
+loc_y
+loc_z</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="948" parent="282" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="949" parent="283" name="groupId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="950" parent="283" name="npcId">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="951" parent="283" name="count">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="952" parent="283" name="initialDelay">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="953" parent="283" name="respawnDelay">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="954" parent="283" name="despawnDelay">
+      <DefaultExpression>-1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="955" parent="283" name="broadcastSpawn">
+      <DefaultExpression>&apos;false&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>enum(&apos;true&apos;, &apos;false&apos;)|0e</StoredType>
+    </column>
+    <column id="956" parent="283" name="randomSpawn">
+      <DefaultExpression>&apos;true&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>enum(&apos;true&apos;, &apos;false&apos;)|0e</StoredType>
+    </column>
+    <index id="957" parent="283" name="PRIMARY">
+      <ColNames>groupId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="958" parent="283" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="959" parent="284" name="groupId">
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(3) unsigned|0s</StoredType>
+    </column>
+    <column id="960" parent="284" name="x">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="961" parent="284" name="y">
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="962" parent="284" name="z">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="963" parent="284" name="heading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <index id="964" parent="284" name="PRIMARY">
+      <ColNames>groupId
+x
+y
+z
+heading</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="965" parent="284" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="966" parent="285" name="zone_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(35)|0s</StoredType>
+    </column>
+    <column id="967" parent="285" name="zone_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="968" parent="285" name="votes">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="969" parent="285" name="active_zone">
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="970" parent="286" name="var">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(20)|0s</StoredType>
+    </column>
+    <column id="971" parent="286" name="value">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="972" parent="286" name="PRIMARY">
+      <ColNames>var</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="973" parent="286" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="974" parent="287" name="char_obj_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="975" parent="287" name="cabal">
+      <DefaultExpression>&apos;NORMAL&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="976" parent="287" name="seal">
+      <DefaultExpression>&apos;NONE&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="977" parent="287" name="red_stones">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="978" parent="287" name="green_stones">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="979" parent="287" name="blue_stones">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="980" parent="287" name="ancient_adena_amount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="981" parent="287" name="contribution_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <index id="982" parent="287" name="PRIMARY">
+      <ColNames>char_obj_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="983" parent="287" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="984" parent="288" name="festivalId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(1)|0s</StoredType>
+    </column>
+    <column id="985" parent="288" name="cabal">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(4)|0s</StoredType>
+    </column>
+    <column id="986" parent="288" name="cycle">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="987" parent="288" name="date">
+      <DefaultExpression>0</DefaultExpression>
+      <Position>4</Position>
+      <StoredType>bigint(50)|0s</StoredType>
+    </column>
+    <column id="988" parent="288" name="score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(5)|0s</StoredType>
+    </column>
+    <column id="989" parent="288" name="members">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <index id="990" parent="288" name="PRIMARY">
+      <ColNames>festivalId
+cabal
+cycle</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="991" parent="288" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="992" parent="289" name="id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(3)|0s</StoredType>
+    </column>
+    <column id="993" parent="289" name="current_cycle">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="994" parent="289" name="festival_cycle">
+      <DefaultExpression>1</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="995" parent="289" name="active_period">
+      <DefaultExpression>&apos;COMPETITION&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>varchar(16)|0s</StoredType>
+    </column>
+    <column id="996" parent="289" name="date">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>bigint(13) unsigned|0s</StoredType>
+    </column>
+    <column id="997" parent="289" name="previous_winner">
+      <DefaultExpression>&apos;NORMAL&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="998" parent="289" name="dawn_stone_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="999" parent="289" name="dawn_festival_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1000" parent="289" name="dusk_stone_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="1001" parent="289" name="dusk_festival_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1002" parent="289" name="avarice_owner">
+      <DefaultExpression>&apos;NORMAL&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="1003" parent="289" name="gnosis_owner">
+      <DefaultExpression>&apos;NORMAL&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="1004" parent="289" name="strife_owner">
+      <DefaultExpression>&apos;NORMAL&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>13</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <column id="1005" parent="289" name="avarice_dawn_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>14</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1006" parent="289" name="gnosis_dawn_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>15</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1007" parent="289" name="strife_dawn_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>16</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1008" parent="289" name="avarice_dusk_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>17</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1009" parent="289" name="gnosis_dusk_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>18</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1010" parent="289" name="strife_dusk_score">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>19</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1011" parent="289" name="accumulated_bonus0">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>20</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1012" parent="289" name="accumulated_bonus1">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>21</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1013" parent="289" name="accumulated_bonus2">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>22</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1014" parent="289" name="accumulated_bonus3">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>23</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <column id="1015" parent="289" name="accumulated_bonus4">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>24</Position>
+      <StoredType>int(10)|0s</StoredType>
+    </column>
+    <index id="1016" parent="289" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="1017" parent="289" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="1018" parent="290" name="castle_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>tinyint(4)|0s</StoredType>
+    </column>
+    <column id="1019" parent="290" name="clan_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1020" parent="290" name="type">
+      <DefaultExpression>&apos;PENDING&apos;</DefaultExpression>
+      <Position>3</Position>
+      <StoredType>varchar(8)|0s</StoredType>
+    </column>
+    <index id="1021" parent="290" name="PRIMARY">
+      <ColNames>clan_id
+castle_id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="1022" parent="290" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="1023" parent="291" name="npc_templateid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="1024" parent="291" name="locx">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1025" parent="291" name="locy">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1026" parent="291" name="locz">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1027" parent="291" name="heading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1028" parent="291" name="respawn_delay">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>mediumint(5)|0s</StoredType>
+    </column>
+    <column id="1029" parent="291" name="respawn_rand">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>mediumint(5)|0s</StoredType>
+    </column>
+    <column id="1030" parent="291" name="periodOfDay">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <column id="1031" parent="292" name="id">
+      <AutoIncrement>1613</AutoIncrement>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>smallint(4) unsigned|0s</StoredType>
+    </column>
+    <column id="1032" parent="292" name="npc_templateid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="1033" parent="292" name="locx">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1034" parent="292" name="locy">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1035" parent="292" name="locz">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1036" parent="292" name="heading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>mediumint(6)|0s</StoredType>
+    </column>
+    <column id="1037" parent="292" name="respawn_delay">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>mediumint(5)|0s</StoredType>
+    </column>
+    <column id="1038" parent="292" name="key_npc_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>smallint(5) unsigned|0s</StoredType>
+    </column>
+    <column id="1039" parent="292" name="spawntype">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>tinyint(1) unsigned|0s</StoredType>
+    </column>
+    <index id="1040" parent="292" name="PRIMARY">
+      <ColNames>id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="1041" parent="292" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="1042" parent="293" name="topic_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1043" parent="293" name="topic_forum_id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1044" parent="293" name="topic_name">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1045" parent="293" name="topic_date">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>decimal(20)|0s</StoredType>
+    </column>
+    <column id="1046" parent="293" name="topic_ownername">
+      <DefaultExpression>&apos;0&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1047" parent="293" name="topic_ownerid">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1048" parent="293" name="topic_type">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1049" parent="293" name="topic_reply">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1050" parent="294" name="eventName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1051" parent="294" name="eventDesc">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1052" parent="294" name="joiningLocation">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1053" parent="294" name="minlvl">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1054" parent="294" name="maxlvl">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1055" parent="294" name="npcId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(8)|0s</StoredType>
+    </column>
+    <column id="1056" parent="294" name="npcX">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>7</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1057" parent="294" name="npcY">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>8</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1058" parent="294" name="npcZ">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>9</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1059" parent="294" name="npcHeading">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>10</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1060" parent="294" name="rewardId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>11</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1061" parent="294" name="rewardAmount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>12</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1062" parent="294" name="teamsCount">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>13</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1063" parent="294" name="joinTime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>14</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1064" parent="294" name="eventTime">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>15</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1065" parent="294" name="minPlayers">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>16</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1066" parent="294" name="maxPlayers">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>17</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1067" parent="294" name="delayForNextEvent">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>18</Position>
+      <StoredType>bigint(20)|0s</StoredType>
+    </column>
+    <column id="1068" parent="295" name="teamId">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>int(4)|0s</StoredType>
+    </column>
+    <column id="1069" parent="295" name="teamName">
+      <DefaultExpression>&apos;&apos;</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(255)|0s</StoredType>
+    </column>
+    <column id="1070" parent="295" name="teamX">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>3</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1071" parent="295" name="teamY">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>4</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1072" parent="295" name="teamZ">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>5</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <column id="1073" parent="295" name="teamColor">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>6</Position>
+      <StoredType>int(11)|0s</StoredType>
+    </column>
+    <index id="1074" parent="295" name="PRIMARY">
+      <ColNames>teamId</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="1075" parent="295" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+    <column id="1076" parent="296" name="obj_Id">
+      <DefaultExpression>0</DefaultExpression>
+      <NotNull>1</NotNull>
+      <Position>1</Position>
+      <StoredType>decimal(11)|0s</StoredType>
+    </column>
+    <column id="1077" parent="296" name="hwid">
+      <NotNull>1</NotNull>
+      <Position>2</Position>
+      <StoredType>varchar(64)|0s</StoredType>
+    </column>
+    <index id="1078" parent="296" name="PRIMARY">
+      <ColNames>hwid
+obj_Id</ColNames>
+      <Type>btree</Type>
+      <Unique>1</Unique>
+    </index>
+    <key id="1079" parent="296" name="PRIMARY">
+      <NameSurrogate>1</NameSurrogate>
+      <Primary>1</Primary>
+      <UnderlyingIndexName>PRIMARY</UnderlyingIndexName>
+    </key>
+  </database-model>
+</dataSource>

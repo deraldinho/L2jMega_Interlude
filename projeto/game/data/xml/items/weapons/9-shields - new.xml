@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+   <item id="9709" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9710" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9711" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9712" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9713" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9714" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9715" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9716" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9717" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9718" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9719" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9720" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9721" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9722" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9723" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9724" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9725" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9726" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9727" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9728" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9729" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9730" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9731" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9732" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9733" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9734" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9735" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9736" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9737" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9738" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9739" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9740" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9741" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+	
+   <item id="9742" type="Armor" name="Shield">
+		<set name="default_action" val="equip" />
+		<set name="bodypart" val="lhand" />
+		<set name="crystal_type" val="S" />
+		<set name="crystal_count" val="188" />
+		<set name="material" val="BONE" />
+		<set name="weight" val="1170" />
+		<set name="price" val="6760000" />
+		<for>
+			<sub order="0x10" stat="rEvas" val="8" />
+ 			<add val="100" order="0x40" stat='pDef'/>
+ 			<add val="100" order="0x40" stat='mDef'/>
+		</for>
+	</item>
+																																			
+</list>
+	

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Consumables -->
+
+<list>
+
+  <item id="1">
+    <production id="20012" count="1"/>
+  </item>
+  
+  <item id="2">
+    <production id="20013" count="1"/>
+    <ingredient id="9568" count="50" enchant="0"/>
+	<ingredient id="20012" count="1" enchant="0"/>
+  </item>
+
+  <item id="3">
+    <production id="20014" count="1"/>
+    <ingredient id="9568" count="70" enchant="0"/>
+	<ingredient id="20013" count="1" enchant="0"/>
+  </item>
+
+  <item id="4">
+    <production id="20015" count="1"/>
+    <ingredient id="9568" count="90" enchant="0"/>
+	<ingredient id="20014" count="1" enchant="0"/>
+  </item>
+
+  <item id="5">
+    <production id="20016" count="1"/>
+    <ingredient id="9568" count="120" enchant="0"/>
+	<ingredient id="20015" count="1" enchant="0"/>
+  </item>
+  
+   <item id="6">
+    <production id="19999" count="1" enchant="0"/>
+    <ingredient id="19999" count="1" enchant="0"/>
+  </item>
+  
+  <item id="7">
+    <production id="20017" count="1"/>
+  </item>
+  
+  <item id="8">
+    <production id="20018" count="1"/>
+    <ingredient id="9568" count="50" enchant="0"/>
+	<ingredient id="20017" count="1" enchant="0"/>
+  </item>
+
+  <item id="9">
+    <production id="20019" count="1"/>
+    <ingredient id="9568" count="70" enchant="0"/>
+	<ingredient id="20018" count="1" enchant="0"/>
+  </item>
+
+  <item id="10">
+    <production id="20020" count="1"/>
+    <ingredient id="9568" count="90" enchant="0"/>
+	<ingredient id="20019" count="1" enchant="0"/>
+  </item>
+
+  <item id="11">
+    <production id="20021" count="1"/>
+    <ingredient id="9568" count="120" enchant="0"/>
+    <ingredient id="20020" count="1" enchant="0"/>
+  </item>
+  
+   <item id="12">
+    <production id="19999" count="1" enchant="0"/>
+    <ingredient id="19999" count="1" enchant="0"/>
+  </item>
+  
+  <item id="13">
+    <production id="20022" count="1"/>
+    <ingredient id="9568" count="1000" enchant="0"/>
+	<ingredient id="20021" count="1" enchant="0"/>
+    <ingredient id="20016" count="1" enchant="0"/>
+  </item>
+            
+</list>

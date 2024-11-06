@@ -1,0 +1,27 @@
+[18-02-2024 23:20:52]	INFO	-------------------------------------------------------------=[ Project 2022 ]
+[18-02-2024 23:20:53]	INFO	                #======================================================#                      
+[18-02-2024 23:20:53]	INFO	                #        =[ L2jMega ]                                  #
+[18-02-2024 23:20:53]	INFO	                #                   MegaPacK.                          #
+[18-02-2024 23:20:53]	INFO	                #        Proibida a venda dessa Revisao                #
+[18-02-2024 23:20:53]	INFO	                #        Essa Revisao Pertense a Thiago de Jesus       #
+[18-02-2024 23:20:53]	INFO	                #	 Revision 1.5 | Date 08/02/2023                #
+[18-02-2024 23:20:53]	INFO	                #======================================================#        
+[18-02-2024 23:20:53]	INFO	----------------------------------------------------------------=[ Base aCis ]
+[18-02-2024 23:20:53]	INFO	Loading loginserver configuration files.
+[18-02-2024 23:20:53]	INFO	MLog clients using java 1.4+ standard logging.
+[18-02-2024 23:20:53]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[18-02-2024 23:20:54]	INFO	----------------------------------------------------------=[ LoginController ]
+[18-02-2024 23:20:54]	INFO	Loading LoginController...
+[18-02-2024 23:20:54]	INFO	Cached 10 KeyPairs for RSA communication.
+[18-02-2024 23:20:55]	INFO	Stored 20 keys for Blowfish communication.
+[18-02-2024 23:20:55]	INFO	Loaded 127 server names.
+[18-02-2024 23:20:55]	INFO	Loaded 1 registered gameserver(s).
+[18-02-2024 23:20:55]	INFO	Cached 10 RSA keys for gameserver communication.
+[18-02-2024 23:20:55]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[18-02-2024 23:20:55]	INFO	Loaded 0 IP(s) from Banned_ip.ini.
+[18-02-2024 23:20:55]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[18-02-2024 23:20:55]	INFO	Listening for gameservers on *:9014
+[18-02-2024 23:20:55]	INFO	Loginserver ready on 127.0.0.1:2106
+[18-02-2024 23:20:55]	INFO	--------------------------------------------=[ Waiting for gameserver answer ]
+[18-02-2024 23:21:21]	INFO	Hooked gameserver: [1] Bartz
+[18-02-2024 23:21:21]	INFO	Internal/External IP(s): 127.0.0.1/127.0.0.1

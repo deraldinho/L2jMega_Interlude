@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Coin -->
+
+<list>
+   <item id="1">
+    <ingredient id="9502" count="150"/>
+    <production id="9552" count="1"/>
+  </item> 
+  
+   <item id="2">
+    <ingredient id="9502" count="300"/>
+    <production id="9555" count="1"/>
+  </item> 
+
+   <item id="3">
+    <ingredient id="9502" count="500"/>
+    <production id="9510" count="1"/>
+  </item> 
+  
+ <item id="4">
+    <ingredient id="9502" count="100"/>
+    <production id="5592" count="5000"/>
+  </item> 
+   
+  <item id="5">
+    <ingredient id="9502" count="100"/>
+    <production id="1538" count="10"/>
+ </item> 
+
+ <item id="6">
+    <ingredient id="9502" count="100"/>
+    <production id="3936" count="10"/>
+ </item> 
+ 
+ <item id="7">
+    <ingredient id="9502" count="100"/>
+    <production id="5858" count="10"/>
+  </item> 
+
+ <item id="8">
+    <ingredient id="9502" count="100"/>
+    <production id="5859" count="10"/>
+  </item> 
+  
+ <item id="9">
+    <ingredient id="9502" count="50"/>
+    <production id="4897" count="1"/>
+  </item>
+  
+ <item id="10">
+    <ingredient id="9502" count="50"/>
+    <production id="4898" count="1"/>
+  </item>
+  
+ <item id="11">
+    <ingredient id="9502" count="50"/>
+    <production id="4900" count="1"/>
+  </item>
+  
+ <item id="12">
+    <ingredient id="9502" count="50"/>
+    <production id="4901" count="1"/>
+  </item>
+  
+  <item id="13">
+    <ingredient id="9502" count="10"/>
+    <production id="6622" count="1"/>
+  </item>
+  
+</list>

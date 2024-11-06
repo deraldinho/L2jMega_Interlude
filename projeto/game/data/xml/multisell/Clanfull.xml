@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+  <!-- WEAPON GRADE-S -->
+
+<list maintainEnchantment="true">
+
+  
+    <!-- clan full -->
+  <item id="1">
+    <production id="9505" count="1" />
+<ingredient id="10000" count="50" enchant="0"/>
+  </item> 
+ 
+</list>

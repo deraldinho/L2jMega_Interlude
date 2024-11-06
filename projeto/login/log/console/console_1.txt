@@ -1,0 +1,12 @@
+[06-11-2024 19:05:41]	INFO	-------------------------------------------------------------=[ Project 2022 ]
+[06-11-2024 19:05:41]	INFO	                #======================================================#                      
+[06-11-2024 19:05:41]	INFO	                #        =[ L2jMega ]                                  #
+[06-11-2024 19:05:41]	INFO	                #                   MegaPacK.                          #
+[06-11-2024 19:05:41]	INFO	                #        Proibida a venda dessa Revisao                #
+[06-11-2024 19:05:41]	INFO	                #        Essa Revisao Pertense a Thiago de Jesus       #
+[06-11-2024 19:05:41]	INFO	                #	 Revision 1.5 | Date 08/02/2023                #
+[06-11-2024 19:05:41]	INFO	                #======================================================#        
+[06-11-2024 19:05:41]	INFO	----------------------------------------------------------------=[ Base aCis ]
+[06-11-2024 19:05:41]	INFO	Loading loginserver configuration files.
+[06-11-2024 19:05:42]	INFO	MLog clients using java 1.4+ standard logging.
+[06-11-2024 19:05:42]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]

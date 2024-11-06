@@ -1,0 +1,28 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Elit Armor -->
+
+<list maintainEnchantment="true">
+
+  <item id="1">
+    <ingredient id="9500" count="1000"/>
+    <production id="9731" count="1" enchant="4"/>	
+  </item>
+
+  <item id="2">
+    <ingredient id="9500" count="1000"/>
+    <production id="9732" count="1" enchant="4"/>	
+  </item>
+  
+  <item id="3">
+    <ingredient id="9500" count="1000"/>
+    <production id="14000" count="1" enchant="4"/>	
+  </item>
+  
+  <item id="4">
+    <ingredient id="9500" count="1000"/>
+    <production id="14001" count="1" enchant="4"/>	
+  </item>
+   
+  </list>
+

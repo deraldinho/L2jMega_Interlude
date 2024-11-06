@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<!-- Event Coin -->
+
+<list>
+ <item id="1">
+    <ingredient id="57" count="500000000"/>
+    <production id="9324" count="1"/>
+  </item>
+</list>
