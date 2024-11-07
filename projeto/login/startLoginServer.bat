@@ -1,5 +1,5 @@
 @echo off
-title L2jMega loginserver console
+title L2jTorem loginserver console
 :start
 SET PATH="C:\Program Files\Java\jdk-11.0.4\bin"
 java -Xmx32m -cp ./libs/*; com.l2jmega.loginserver.L2LoginServer

@@ -8,7 +8,7 @@ public class L2jMega
 
   
   public static void info() {
-		_log.info("      Project 2023      ");
+		_log.info("      Project Torem 2024      ");
 	
 	  }
 }

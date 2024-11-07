@@ -49,7 +49,7 @@ public class L2LoginServer
 		{
 			LogManager.getLogManager().readConfiguration(is);
 		}
-		StringUtil.printSection("Project 2022");
+		StringUtil.printSection("Project Torem 2024");
 		L2jMega.info();
 		StringUtil.printSection("Base aCis");
 		Config.loadLoginServer();

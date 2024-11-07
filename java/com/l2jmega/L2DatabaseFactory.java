@@ -69,7 +69,7 @@ public class L2DatabaseFactory
 		}
 		catch (Exception e)
 		{
-			throw new SQLException("could not init DB connection:" + e);
+			throw new SQLException("não foi possível inicializar a conexão com o banco de dados:" + e);
 		}
 	}
 	
@@ -160,7 +160,7 @@ public class L2DatabaseFactory
 		}
 		catch (SQLException e)
 		{
-			_log.log(Level.WARNING, "Failed to close database connection!", e);
+			_log.log(Level.WARNING, "Falha ao fechar a conexão com o banco de dados!", e);
 		}
 	}
 	
