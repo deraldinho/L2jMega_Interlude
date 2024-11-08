@@ -1,12 +1,24 @@
-[06-11-2024 19:05:41]	INFO	-------------------------------------------------------------=[ Project 2022 ]
-[06-11-2024 19:05:41]	INFO	                #======================================================#                      
-[06-11-2024 19:05:41]	INFO	                #        =[ L2jMega ]                                  #
-[06-11-2024 19:05:41]	INFO	                #                   MegaPacK.                          #
-[06-11-2024 19:05:41]	INFO	                #        Proibida a venda dessa Revisao                #
-[06-11-2024 19:05:41]	INFO	                #        Essa Revisao Pertense a Thiago de Jesus       #
-[06-11-2024 19:05:41]	INFO	                #	 Revision 1.5 | Date 08/02/2023                #
-[06-11-2024 19:05:41]	INFO	                #======================================================#        
-[06-11-2024 19:05:41]	INFO	----------------------------------------------------------------=[ Base aCis ]
-[06-11-2024 19:05:41]	INFO	Loading loginserver configuration files.
-[06-11-2024 19:05:42]	INFO	MLog clients using java 1.4+ standard logging.
-[06-11-2024 19:05:42]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[07-11-2024 21:22:10]	INFO	-------------------------------------------------------------=[ Project 2022 ]
+[07-11-2024 21:22:11]	INFO	                #======================================================#                      
+[07-11-2024 21:22:11]	INFO	                #        =[ L2jMega ]                                  #
+[07-11-2024 21:22:11]	INFO	                #                   MegaPacK.                          #
+[07-11-2024 21:22:11]	INFO	                #        Proibida a venda dessa Revisao                #
+[07-11-2024 21:22:11]	INFO	                #        Essa Revisao Pertense a Thiago de Jesus       #
+[07-11-2024 21:22:11]	INFO	                #	 Revision 1.5 | Date 08/02/2023                #
+[07-11-2024 21:22:11]	INFO	                #======================================================#        
+[07-11-2024 21:22:11]	INFO	----------------------------------------------------------------=[ Base aCis ]
+[07-11-2024 21:22:11]	INFO	Loading loginserver configuration files.
+[07-11-2024 21:22:11]	INFO	MLog clients using java 1.4+ standard logging.
+[07-11-2024 21:22:11]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[07-11-2024 21:22:11]	INFO	----------------------------------------------------------=[ LoginController ]
+[07-11-2024 21:22:11]	INFO	Loading LoginController...
+[07-11-2024 21:22:12]	INFO	Cached 10 KeyPairs for RSA communication.
+[07-11-2024 21:22:12]	INFO	Stored 20 keys for Blowfish communication.
+[07-11-2024 21:22:12]	INFO	Loaded 127 server names.
+[07-11-2024 21:22:12]	INFO	Loaded 1 registered gameserver(s).
+[07-11-2024 21:22:12]	INFO	Cached 10 RSA keys for gameserver communication.
+[07-11-2024 21:22:12]	INFO	-----------------------------------------------------------------=[ Ban List ]
+[07-11-2024 21:22:12]	INFO	Loaded 0 IP(s) from Banned_ip.ini.
+[07-11-2024 21:22:12]	INFO	-------------------------------------------------=[ IP, Ports & Socket infos ]
+[07-11-2024 21:22:12]	INFO	Listening for gameservers on 127.0.0.1:9014
+[07-11-2024 21:22:12]	SEVERE	FATAL: Failed to open server socket. Reason: Cannot assign requested address: bind

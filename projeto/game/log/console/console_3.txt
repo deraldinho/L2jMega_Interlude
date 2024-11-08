@@ -1,344 +1,65 @@
-[06-11-2024 19:07:35]	INFO	-------------------------------------------------------------=[ Project 2022 ]
-[06-11-2024 19:07:35]	INFO	      Project 2022      
-[06-11-2024 19:07:35]	INFO	----------------------------------------------------------------=[ Base aCis ]
-[06-11-2024 19:07:35]	INFO	Loading gameserver configuration files.
-[06-11-2024 19:07:35]	INFO	Chat Filter: Loaded 9 Filter Words.
-[06-11-2024 19:07:36]	INFO	MLog clients using java 1.4+ standard logging.
-[06-11-2024 19:07:36]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
-[06-11-2024 19:07:41]	INFO	Initializing ThreadPool.
-[06-11-2024 19:07:41]	INFO	----------------------------------------------------------------=[ IdFactory ]
-[06-11-2024 19:07:41]	INFO	Updated characters online status.
-[06-11-2024 19:07:41]	INFO	Cleaned 2 elements from database.
-[06-11-2024 19:07:41]	INFO	Cleaned 0 expired timestamps from database.
-[06-11-2024 19:07:41]	INFO	IDFactory: 102912 id's available.
-[06-11-2024 19:07:41]	INFO	--------------------------------------------------------------------=[ World ]
-[06-11-2024 19:07:41]	CONFIG	GameTimeController: Started.
-[06-11-2024 19:07:41]	INFO	World: WorldRegion grid (88 by 128) is now set up.
-[06-11-2024 19:07:41]	INFO	MapRegionTable: Loaded 176 regions.
-[06-11-2024 19:07:41]	INFO	Loaded 0 announcements.
-[06-11-2024 19:07:41]	INFO	Loaded 1 server variables.
-[06-11-2024 19:07:41]	INFO	-------------------------------------------------------------------=[ Skills ]
-[06-11-2024 19:07:42]	CONFIG	FishingSkillTreeTable: Loaded 109 general skills.
-[06-11-2024 19:07:42]	CONFIG	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
-[06-11-2024 19:07:42]	CONFIG	EnchantSkillTreeTable: Loaded 30 enchant types and 14550 enchant skills.
-[06-11-2024 19:07:42]	CONFIG	PledgeSkillTreeTable: Loaded 64 pledge skills.
-[06-11-2024 19:07:42]	INFO	SkillTable: Loaded 29658 skills.
-[06-11-2024 19:07:42]	INFO	--------------------------------------------------------------------=[ Items ]
-[06-11-2024 19:07:43]	INFO	ItemTable: Highest used itemID : 20022
-[06-11-2024 19:07:43]	INFO	Loaded 18 summon items.
-[06-11-2024 19:07:43]	INFO	Loaded 180 hennas.
-[06-11-2024 19:07:43]	INFO	Loaded 701 buyLists.
-[06-11-2024 19:07:43]	INFO	Loaded 213 multisell.
-[06-11-2024 19:07:43]	INFO	RecipeTable: Loaded 871 recipes.
-[06-11-2024 19:07:43]	INFO	Loaded 78 armor sets.
-[06-11-2024 19:07:43]	INFO	Loaded 270 fish.
-[06-11-2024 19:07:43]	INFO	Loaded 334 spellbooks.
-[06-11-2024 19:07:43]	INFO	Loaded 39 Soul Crystals data and 127 NPCs data.
-[06-11-2024 19:07:43]	INFO	Loaded 4 sets of augmentation stats.
-[06-11-2024 19:07:43]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
-[06-11-2024 19:07:43]	INFO	CursedWeaponsManager: Loaded 2 cursed weapons.
-[06-11-2024 19:07:43]	INFO	Icon Table: Loaded 9190 icons.
-[06-11-2024 19:07:43]	INFO	-------------------------------------------------------------------=[ Admins ]
-[06-11-2024 19:07:43]	INFO	Loaded 10 access levels.
-[06-11-2024 19:07:43]	INFO	Loaded 336 admin command rights.
-[06-11-2024 19:07:43]	INFO	Loaded 0 bookmarks.
-[06-11-2024 19:07:43]	INFO	---------------------------------------------------------------=[ Characters ]
-[06-11-2024 19:07:44]	INFO	CharTemplateTable: Loaded 89 character templates.
-[06-11-2024 19:07:44]	INFO	CharTemplateTable: Loaded 89 classes skills trees.
-[06-11-2024 19:07:44]	INFO	PlayerNameTable: Loaded 8 players data.
-[06-11-2024 19:07:44]	INFO	Loaded 14 newbie buffs.
-[06-11-2024 19:07:44]	INFO	Loaded 874 teleport locations.
-[06-11-2024 19:07:44]	INFO	RaidBossPointsManager: Loaded 2 characters with Raid Points infos.
-[06-11-2024 19:07:44]	INFO	---------------------------------------------------------=[ Community server ]
-[06-11-2024 19:07:44]	INFO	Community server is disabled.
-[06-11-2024 19:07:44]	INFO	--------------------------------------------------------------------=[ Clans ]
-[06-11-2024 19:07:44]	INFO	Loaded 0 crests.
-[06-11-2024 19:07:44]	INFO	Loaded 5 clans.
-[06-11-2024 19:07:44]	INFO	AuctionManager: Loaded 38 auction(s)
-[06-11-2024 19:07:44]	INFO	ClanHallManager: Loaded 0 clan halls.
-[06-11-2024 19:07:44]	INFO	ClanHallManager: Loaded 44 free clan halls.
-[06-11-2024 19:07:44]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
-[06-11-2024 19:07:50]	INFO	Loaded 143 L2D region files.
-[06-11-2024 19:07:50]	INFO	Loaded 32 node buffers.
-[06-11-2024 19:07:50]	INFO	--------------------------------------------------------------------=[ Zones ]
-[06-11-2024 19:07:50]	INFO	ZoneManager: Loading zones...
-[06-11-2024 19:07:51]	INFO	L2FlagZone: Unknown parameter - isflagZone in zone: 11002
-[06-11-2024 19:07:53]	INFO	ZoneManager: Loaded 35 zones classes and total 1096 zones.
-[06-11-2024 19:07:53]	INFO	------------------------------------------------------------=[ Task Managers ]
-[06-11-2024 19:07:53]	INFO	Restored 0 items on ground.
-[06-11-2024 19:07:53]	INFO	ChatBanManager: Loaded 0 banned hwids.
-[06-11-2024 19:07:53]	INFO	HeroManager: Loaded 2 characters with hero privileges.
-[06-11-2024 19:07:53]	INFO	VipManager: Loaded 4 characters with vip privileges.
-[06-11-2024 19:07:53]	INFO	AioManager: Loaded 0 characters with aio privileges.
-[06-11-2024 19:07:53]	INFO	ChatGlobal_Manager: Loaded 0 characters with chat time.
-[06-11-2024 19:07:53]	INFO	ChatHero_Manager: Loaded 0 characters with chat time.
-[06-11-2024 19:07:53]	INFO	------------------------------------------------------------------=[ Castles ]
-[06-11-2024 19:07:53]	INFO	CastleManager: Loaded 9 castles.
-[06-11-2024 19:07:53]	INFO	--------------------------------------------------------------=[ Seven Signs ]
-[06-11-2024 19:07:53]	INFO	SevenSigns: Currently on Quest Event Results period.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Avarice remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Gnosis remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Strife remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The competition will end in a tie this week.
-[06-11-2024 19:07:53]	INFO	SevenSigns: Next period change was in the past, changing periods now.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Avarice remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Gnosis remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The Seal of Strife remains unclaimed.
-[06-11-2024 19:07:53]	INFO	SevenSigns: The No Cabal have won the competition with 0 points!
-[06-11-2024 19:07:53]	INFO	SevenSigns: Next period begins in 0 days, 0 hours and 0 mins.
-[06-11-2024 19:07:54]	INFO	SevenSignsFestival: Initialization bypassed due to Seal Validation in effect.
-[06-11-2024 19:07:54]	INFO	SevenSigns: The Seal Validation period has begun!
-[06-11-2024 19:07:54]	INFO	------------------------------------------------------------=[ Manor Manager ]
-[06-11-2024 19:07:54]	INFO	CastleManorManager: Loaded 256 seeds.
-[06-11-2024 19:07:54]	INFO	SevenSigns: Next period change set to Mon Nov 11 18:00:00 BRST 2024
-[06-11-2024 19:07:54]	INFO	---------------------------------------------------------------------=[ NPCs ]
-[06-11-2024 19:07:54]	INFO	RaidBossInfoManager: Loaded 194 instances.
-[06-11-2024 19:07:54]	INFO	BufferTable: Loaded 0 players schemes and 91 available buffs.
-[06-11-2024 19:07:54]	INFO	Loaded 2 herbs groups.
-[06-11-2024 19:07:55]	INFO	NpcTable: Loaded 6522 NPC templates.
-[06-11-2024 19:07:55]	INFO	Loaded 12 Walker routes.
-[06-11-2024 19:07:56]	INFO	DoorTable: Loaded 547 doors templates.
-[06-11-2024 19:07:56]	INFO	Loaded 29 static objects.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 50006.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1001.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 50006.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 50006.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1001.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 20700.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	WARNING	SpawnTable: Data missing in NPC table for ID: 1007.
-[06-11-2024 19:07:57]	CONFIG	SpawnTable: Loaded 39686 Npc Spawn Locations.
-[06-11-2024 19:07:57]	INFO	RaidBossSpawnManager: Loaded 181 instances.
-[06-11-2024 19:07:57]	INFO	RaidBossSpawnManager: Scheduled 0 instances.
-[06-11-2024 19:07:57]	INFO	GrandBossManager: Loaded 12 GrandBosses instances.
-[06-11-2024 19:07:57]	INFO	DimensionalRiftManager: Loaded 7 room types with 56 rooms.
-[06-11-2024 19:07:57]	INFO	DimensionalRiftManager: Loaded 462 dimensional rift spawns, 0 errors.
-[06-11-2024 19:07:57]	INFO	-------------------------------------------------------=[ Olympiads & Heroes ]
-[06-11-2024 19:07:57]	INFO	Olympiad: Loaded 21 stadiums.
-[06-11-2024 19:07:57]	INFO	Olympiad: Currently in Competition period.
-[06-11-2024 19:07:57]	INFO	Olympiad: 19732 minutes until period ends.
-[06-11-2024 19:07:57]	INFO	Olympiad: Next weekly change is in 10079 minutes.
-[06-11-2024 19:07:57]	INFO	Olympiad: Loaded 0 nobles.
-[06-11-2024 19:07:57]	INFO	Olympiad: Competition period starts in 0 days, 0 hours and 0 mins.
-[06-11-2024 19:07:57]	INFO	Olympiad: Event starts/started : Wed Nov 06 18:00:57 BRST 2024
-[06-11-2024 19:07:57]	INFO	Hero: Loaded 0 heroes.
-[06-11-2024 19:07:57]	INFO	Hero: Loaded 0 all time heroes.
-[06-11-2024 19:07:57]	INFO	----------------------------------------------------------=[ Four Sepulchers ]
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: loaded 20 Mysterious-Box spawns.
-[06-11-2024 19:07:57]	INFO	Olympiad: Olympiad game started.
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: loaded 716 Physical type monsters spawns.
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: loaded 716 Magical type monsters spawns.
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: loaded 92 Church of duke monsters spawns.
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: spawned Conquerors' Sepulcher Manager
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: spawned Emperors' Sepulcher Manager
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: spawned Great Sages' Sepulcher Manager
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: spawned Judges' Sepulcher Manager
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: attack time.
-[06-11-2024 19:07:57]	INFO	---------------------------------------------------------=[ Quests & Scripts ]
-[06-11-2024 19:07:57]	INFO	FourSepulchersManager: attack time announced.
-[06-11-2024 19:07:57]	INFO	ScriptManager: Loaded 385 scripts, 3 are scheduled.
-[06-11-2024 19:07:57]	INFO	-------------------------------------------------------------------=[ Events ]
-[06-11-2024 19:07:57]	INFO	CoupleManager : Loaded 0 couples.
-[06-11-2024 19:07:57]	INFO	FishingChampionshipManager : new event period start.
-[06-11-2024 19:07:57]	INFO	MonsterRace : loaded 15616 records, currently on race #15617
-[06-11-2024 19:07:57]	INFO	PcBang point event started.
-[06-11-2024 19:07:57]	INFO	TvT Event Proximo Evento: Wed Nov 06 20:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	TVT Event is enabled.
-[06-11-2024 19:07:57]	INFO	CTF Event is disabled.
-[06-11-2024 19:07:57]	INFO	PartyFarm, Auto Event is enabled.
-[06-11-2024 19:07:57]	INFO	PartyFarm,: Proximo Evento: Wed Nov 06 20:15:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	Mission Reset: Proximo Reset: Thu Nov 07 00:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	Tournament Event is enabled.
-[06-11-2024 19:07:57]	INFO	Tournament: Proximo Evento: Wed Nov 06 23:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	CharacterKillingManager: Started! Cycle: 122 - Next cycle in: 86265s
-[06-11-2024 19:07:57]	INFO	Start Spawn PartyFarm,: Enabled
-[06-11-2024 19:07:57]	INFO	----------------------------------------------------------------=[ Vote Zone ]
-[06-11-2024 19:07:57]	INFO	PvpZone: Loading zones...
-[06-11-2024 19:07:57]	INFO	PvPEvent: Event is active.
-[06-11-2024 19:07:57]	INFO	PvP Event Proximo Evento: Wed Nov 06 21:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	VoteZone: desativado...
-[06-11-2024 19:07:57]	INFO	-------------------------------------------------------------------=[ Others ]
-[06-11-2024 19:07:57]	INFO	Reset_Daily: Proximo Reset: Thu Nov 07 00:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	AutoRestart: Next Restart Time: Thu Nov 07 05:00:00 BRST 2024
-[06-11-2024 19:07:57]	INFO	-----------------------------------------------------------=[ Balance System ]
-[06-11-2024 19:07:57]	INFO	Loaded 31 oly classes Damages configurations
-[06-11-2024 19:07:57]	INFO	---------------------------------------------------------------=[ Protection ]
-[06-11-2024 19:07:57]	INFO	PartyZoneManager - Loaded.
-[06-11-2024 19:07:57]	INFO	RaidZoneManager - Loaded.
-[06-11-2024 19:07:57]	INFO	SoloZoneManager - Loaded.
-[06-11-2024 19:07:57]	INFO	IPManager - Loaded.
-[06-11-2024 19:07:57]	INFO	----------------------------------------------------------=[ Phantom Players ]
-[06-11-2024 19:07:57]	INFO	Loaded 31025 fake player names.
-[06-11-2024 19:07:57]	INFO	Loaded 89 fake player titles.
-[06-11-2024 19:07:57]	INFO	Town Phantom: desativado...
-[06-11-2024 19:07:57]	INFO	Phantom Farm: desativado...
-[06-11-2024 19:07:57]	INFO	----------------------------------------------------------=[ DressMe Manager ]
-[06-11-2024 19:07:57]	INFO	Loaded 27 dressme templates.
-[06-11-2024 19:07:57]	INFO	-------------------------------------------------------------=[ Hwid Manager ]
-[06-11-2024 19:07:57]	INFO	-----------------------------------------------------------------=[ Handlers ]
-[06-11-2024 19:07:57]	INFO	AutoSpawnHandler: Loaded 124 handlers.
-[06-11-2024 19:07:57]	INFO	Loaded 372 admin command handlers.
-[06-11-2024 19:07:57]	INFO	Loaded 13 chat handlers.
-[06-11-2024 19:07:57]	INFO	Loaded 79 item handlers.
-[06-11-2024 19:07:58]	INFO	Loaded 73 skill handlers.
-[06-11-2024 19:07:58]	INFO	Loaded 15 user command handlers.
-[06-11-2024 19:07:58]	INFO	Loaded 126 voiced command handlers.
-[06-11-2024 19:07:58]	INFO	-------------------------------------------------------------------=[ System ]
-[06-11-2024 19:07:58]	INFO	Deadlock detector is disabled.
-[06-11-2024 19:07:59]	INFO	Gameserver has started, used memory: 1268 / 8192 Mo.
-[06-11-2024 19:07:59]	INFO	Maximum allowed players: 5000.
-[06-11-2024 19:07:59]	INFO	Server Loaded in 23 seconds
-[06-11-2024 19:07:59]	INFO	--------------------------------------------------------------------=[ Login ]
-[06-11-2024 19:07:59]	INFO	Connecting to login on 127.0.0.1:9014
-[06-11-2024 19:07:59]	INFO	Registered on login as server: [1] Bartz
-[06-11-2024 19:14:09]	WARNING	No handler registered for admin command 'admin_itens'
-[06-11-2024 19:14:16]	WARNING	No handler registered for admin command 'admin_createitem'
-[06-11-2024 19:14:23]	WARNING	No handler registered for admin command 'admin_item'
-[06-11-2024 19:14:26]	WARNING	No handler registered for admin command 'admin_adminb'
-[06-11-2024 19:14:29]	WARNING	No handler registered for admin command 'admin_admimn'
-[06-11-2024 19:22:30]	WARNING	No handler registered for admin command 'admin_ADMIN'
-[06-11-2024 19:22:33]	WARNING	No handler registered for admin command 'admin_ADMIN'
-[06-11-2024 19:22:57]	INFO	Olympiad: Data updated successfully.
-[06-11-2024 19:23:29]	WARNING	No handler registered for admin command 'admin_teleporte'
-[06-11-2024 19:37:59]	INFO	------------------------------------------------------------=[ Server Status ]
-[06-11-2024 19:37:59]	INFO	Server Time: 19:37.
-[06-11-2024 19:37:59]	INFO	Admins Online: [player xBurg]
-[06-11-2024 19:37:59]	INFO	Free Memory: 8192 MB
-[06-11-2024 19:37:59]	INFO	Used memory: 2394 MB
-[06-11-2024 19:37:59]	INFO	------------------------------------------------------------=[ Server Status ]
-[06-11-2024 19:50:57]	INFO	FourSepulchersManager: end of the round.
-[06-11-2024 19:52:57]	INFO	Olympiad: Data updated successfully.
-[06-11-2024 20:00:00]	INFO	DayNightSpawnManager: Removed 0 night creatures
-[06-11-2024 20:00:00]	INFO	DayNightSpawnManager: Spawned 440 day creatures
-[06-11-2024 20:00:03]	INFO	DayNightSpawnManager: Removed 440 day creatures
-[06-11-2024 20:00:03]	INFO	DayNightSpawnManager: Spawned 491 night creatures
-[06-11-2024 20:00:03]	INFO	RaidBossSpawnManager: Spawning Night Raid Boss Eilhalder von Hellmann
-[06-11-2024 20:00:07]	INFO	TvT: Event notification start
-[06-11-2024 20:02:08]	INFO	WARN: Auto-Kick TVT System initiated.
-[06-11-2024 20:07:08]	INFO	**** TvT ****
-[06-11-2024 20:07:08]	INFO	TvT Team Statistics:
-[06-11-2024 20:07:08]	INFO	TvT: Team: (Blue) - Kills: 73
-[06-11-2024 20:07:08]	INFO	TvT: Team: (Red) - Kills: 54
-[06-11-2024 20:07:08]	INFO	TvT: Top killer: xuesos - Kills: 16
-[06-11-2024 20:07:08]	INFO	TvT: (Blue)'s win the match! 73 kills.
-[06-11-2024 20:07:08]	INFO	TvT Event Proximo Evento: Wed Nov 06 22:10:00 BRST 2024
-[06-11-2024 20:07:57]	INFO	SevenSigns: Data has been successfully saved.
-[06-11-2024 20:15:00]	INFO	----------------------------------------------------------------------------
-[06-11-2024 20:15:00]	INFO	PartyFarm,: Event Started.
-[06-11-2024 20:15:00]	INFO	----------------------------------------------------------------------------
-[06-11-2024 20:22:57]	INFO	Olympiad: Data updated successfully.
-[06-11-2024 20:35:33]	WARNING	No handler registered for command 'voiced_multisell misc-item-autofarm'
-[06-11-2024 20:35:46]	WARNING	No handler registered for command 'voiced_multisell misc-item-autofarm'
-[06-11-2024 20:37:59]	INFO	------------------------------------------------------------=[ Server Status ]
-[06-11-2024 20:37:59]	INFO	Server Time: 20:37.
-[06-11-2024 20:37:59]	INFO	Admins Online: []
-[06-11-2024 20:37:59]	INFO	Free Memory: 8192 MB
-[06-11-2024 20:37:59]	INFO	Used memory: 2817 MB
-[06-11-2024 20:37:59]	INFO	------------------------------------------------------------=[ Server Status ]
-[06-11-2024 20:45:22]	INFO	----------------------------------------------------=[ Under SIGTERM process ]
+[07-11-2024 21:21:27]	INFO	-------------------------------------------------------------=[ Project 2022 ]
+[07-11-2024 21:21:28]	INFO	      Project 2022      
+[07-11-2024 21:21:28]	INFO	----------------------------------------------------------------=[ Base aCis ]
+[07-11-2024 21:21:28]	INFO	Loading gameserver configuration files.
+[07-11-2024 21:21:28]	INFO	Chat Filter: Loaded 9 Filter Words.
+[07-11-2024 21:21:28]	INFO	MLog clients using java 1.4+ standard logging.
+[07-11-2024 21:21:28]	INFO	Initializing c3p0-0.9.5-pre5 [debug? false; trace: 5]
+[07-11-2024 21:21:33]	INFO	Initializing ThreadPool.
+[07-11-2024 21:21:33]	INFO	----------------------------------------------------------------=[ IdFactory ]
+[07-11-2024 21:21:34]	INFO	Updated characters online status.
+[07-11-2024 21:21:34]	INFO	Cleaned 0 elements from database.
+[07-11-2024 21:21:34]	INFO	Cleaned 0 expired timestamps from database.
+[07-11-2024 21:21:34]	INFO	IDFactory: 102912 id's available.
+[07-11-2024 21:21:34]	INFO	--------------------------------------------------------------------=[ World ]
+[07-11-2024 21:21:34]	CONFIG	GameTimeController: Started.
+[07-11-2024 21:21:34]	INFO	World: WorldRegion grid (88 by 128) is now set up.
+[07-11-2024 21:21:34]	INFO	MapRegionTable: Loaded 176 regions.
+[07-11-2024 21:21:34]	INFO	Loaded 0 announcements.
+[07-11-2024 21:21:34]	INFO	Loaded 1 server variables.
+[07-11-2024 21:21:34]	INFO	-------------------------------------------------------------------=[ Skills ]
+[07-11-2024 21:21:34]	CONFIG	FishingSkillTreeTable: Loaded 109 general skills.
+[07-11-2024 21:21:34]	CONFIG	DwarvenCraftSkillTreeTable: Loaded 8 dwarven skills.
+[07-11-2024 21:21:34]	CONFIG	EnchantSkillTreeTable: Loaded 30 enchant types and 14550 enchant skills.
+[07-11-2024 21:21:34]	CONFIG	PledgeSkillTreeTable: Loaded 64 pledge skills.
+[07-11-2024 21:21:35]	INFO	SkillTable: Loaded 29658 skills.
+[07-11-2024 21:21:35]	INFO	--------------------------------------------------------------------=[ Items ]
+[07-11-2024 21:21:35]	INFO	ItemTable: Highest used itemID : 20022
+[07-11-2024 21:21:35]	INFO	Loaded 18 summon items.
+[07-11-2024 21:21:35]	INFO	Loaded 180 hennas.
+[07-11-2024 21:21:35]	INFO	Loaded 701 buyLists.
+[07-11-2024 21:21:36]	INFO	Loaded 213 multisell.
+[07-11-2024 21:21:36]	INFO	RecipeTable: Loaded 871 recipes.
+[07-11-2024 21:21:36]	INFO	Loaded 78 armor sets.
+[07-11-2024 21:21:36]	INFO	Loaded 270 fish.
+[07-11-2024 21:21:36]	INFO	Loaded 334 spellbooks.
+[07-11-2024 21:21:36]	INFO	Loaded 39 Soul Crystals data and 127 NPCs data.
+[07-11-2024 21:21:36]	INFO	Loaded 4 sets of augmentation stats.
+[07-11-2024 21:21:36]	INFO	Loaded 170 blue, 1070 purple and 540 red Life-Stone skills.
+[07-11-2024 21:21:36]	INFO	CursedWeaponsManager: Loaded 2 cursed weapons.
+[07-11-2024 21:21:36]	INFO	Icon Table: Loaded 9190 icons.
+[07-11-2024 21:21:36]	INFO	-------------------------------------------------------------------=[ Admins ]
+[07-11-2024 21:21:36]	INFO	Loaded 10 access levels.
+[07-11-2024 21:21:36]	INFO	Loaded 336 admin command rights.
+[07-11-2024 21:21:36]	INFO	Loaded 0 bookmarks.
+[07-11-2024 21:21:36]	INFO	---------------------------------------------------------------=[ Characters ]
+[07-11-2024 21:21:36]	INFO	CharTemplateTable: Loaded 89 character templates.
+[07-11-2024 21:21:36]	INFO	CharTemplateTable: Loaded 89 classes skills trees.
+[07-11-2024 21:21:36]	INFO	PlayerNameTable: Loaded 9 players data.
+[07-11-2024 21:21:36]	INFO	Loaded 14 newbie buffs.
+[07-11-2024 21:21:36]	INFO	Loaded 874 teleport locations.
+[07-11-2024 21:21:36]	INFO	RaidBossPointsManager: Loaded 2 characters with Raid Points infos.
+[07-11-2024 21:21:36]	INFO	---------------------------------------------------------=[ Community server ]
+[07-11-2024 21:21:36]	INFO	Community server is disabled.
+[07-11-2024 21:21:36]	INFO	--------------------------------------------------------------------=[ Clans ]
+[07-11-2024 21:21:36]	INFO	Loaded 0 crests.
+[07-11-2024 21:21:36]	INFO	Loaded 5 clans.
+[07-11-2024 21:21:36]	INFO	AuctionManager: Loaded 38 auction(s)
+[07-11-2024 21:21:36]	INFO	ClanHallManager: Loaded 0 clan halls.
+[07-11-2024 21:21:36]	INFO	ClanHallManager: Loaded 44 free clan halls.
+[07-11-2024 21:21:36]	INFO	----------------------------------------------------=[ Geodata & Pathfinding ]
+[07-11-2024 21:21:41]	INFO	Loaded 143 L2D region files.
+[07-11-2024 21:21:41]	INFO	Loaded 32 node buffers.
+[07-11-2024 21:21:41]	INFO	--------------------------------------------------------------------=[ Zones ]
+[07-11-2024 21:21:41]	INFO	ZoneManager: Loading zones...
+[07-11-2024 21:21:42]	INFO	L2FlagZone: Unknown parameter - isflagZone in zone: 11002

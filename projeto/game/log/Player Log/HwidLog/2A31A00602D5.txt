@@ -1,1 +1,5 @@
 06/11/2024 19:11:08 >>> HWID: [2A31A00602D5] >>> Jogador  [xBurg]
+07/11/2024 12:38:02 >>> HWID: [2A31A00602D5] >>> Jogador  [xBurg]
+07/11/2024 16:09:36 >>> HWID: [2A31A00602D5] >>> Jogador  [xBurg]
+07/11/2024 21:25:05 >>> HWID: [2A31A00602D5] >>> Jogador  [xBurg]
+07/11/2024 21:46:22 >>> HWID: [2A31A00602D5] >>> Jogador  [xBurg]

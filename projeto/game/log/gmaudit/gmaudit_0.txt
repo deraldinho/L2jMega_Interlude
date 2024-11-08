@@ -4231,3 +4231,944 @@
 [06-11-2024 20:36:13]	xBurg [268479016] used 'admin' command on: Krokian
 [06-11-2024 20:36:15]	xBurg [268479016] used 'admin_move_to' command on: none
 [06-11-2024 20:36:17]	xBurg [268479016] used 'admin_move_to 82080 148447 -3177' command on: none
+[07-11-2024 21:26:58]	xBurg [268479016] used 'admin' command on: 
+[07-11-2024 21:27:01]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:27:02]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:27:09]	xBurg [268479016] used 'admin_admin' command on: xBurg
+[07-11-2024 21:27:12]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:27:14]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:27:17]	xBurg [268479016] used 'admin_hide' command on: xBurg
+[07-11-2024 21:27:32]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:27:33]	xBurg [268479016] used 'admin_gmspeed_menu 0' command on: xBurg
+[07-11-2024 21:34:14]	xBurg [268479016] used 'kill' command on: Minotauro
+[07-11-2024 21:34:21]	xBurg [268479016] used 'admin' command on: Minotauro
+[07-11-2024 21:34:29]	xBurg [268479016] used 'admin_spawn' command on: Minotauro
+[07-11-2024 21:34:30]	xBurg [268479016] used 'admin_spawn_index 80' command on: Minotauro
+[07-11-2024 21:34:36]	xBurg [268479016] used 'admin_show_spawns' command on: Minotauro
+[07-11-2024 21:34:38]	xBurg [268479016] used 'admin_admin' command on: Minotauro
+[07-11-2024 21:34:40]	xBurg [268479016] used 'admin_spawn_phantomtown' command on: Minotauro
+[07-11-2024 21:35:21]	xBurg [268479016] used 'admin' command on: mark3r
+[07-11-2024 21:35:35]	xBurg [268479016] used 'admin_spawn_phantomtown' command on: mark3r
+[07-11-2024 21:35:37]	xBurg [268479016] used 'admin_spawn_phantomtown' command on: mark3r
+[07-11-2024 21:35:47]	xBurg [268479016] used 'admin_spawn_phantomfarm' command on: mark3r
+[07-11-2024 21:35:52]	xBurg [268479016] used 'admin_spawn_phantom' command on: mark3r
+[07-11-2024 21:35:53]	xBurg [268479016] used 'admin_votezone' command on: mark3r
+[07-11-2024 21:36:01]	xBurg [268479016] used 'admin' command on: mark3r
+[07-11-2024 21:36:05]	xBurg [268479016] used 'admin_donate' command on: mark3r
+[07-11-2024 21:36:10]	xBurg [268479016] used 'admin_admin' command on: mark3r
+[07-11-2024 21:36:55]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:37:02]	xBurg [268479016] used 'admin_find_character' command on: none
+[07-11-2024 21:37:05]	xBurg [268479016] used 'admin_show_characters 2' command on: none
+[07-11-2024 21:37:07]	xBurg [268479016] used 'admin_show_characters 3' command on: none
+[07-11-2024 21:37:08]	xBurg [268479016] used 'admin_character_info CAMODEJIKUH' command on: none
+[07-11-2024 21:37:16]	xBurg [268479016] used 'admin' command on: CAMODEJIKUH
+[07-11-2024 21:37:17]	xBurg [268479016] used 'admin_move_to' command on: CAMODEJIKUH
+[07-11-2024 21:37:24]	xBurg [268479016] used 'admin_instant_move' command on: CAMODEJIKUH
+[07-11-2024 21:37:30]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:37:33]	xBurg [268479016] used 'admin_move_to' command on: none
+[07-11-2024 21:37:37]	xBurg [268479016] used 'admin_runmod norm' command on: none
+[07-11-2024 21:37:42]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:37:44]	xBurg [268479016] used 'admin_gmspeed_menu 4' command on: none
+[07-11-2024 21:37:45]	xBurg [268479016] used 'admin_admin' command on: none
+[07-11-2024 21:37:48]	xBurg [268479016] used 'admin_deleteallphantompvp' command on: none
+[07-11-2024 21:37:52]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:37:53]	xBurg [268479016] used 'admin_deleteallphantomfarm' command on: none
+[07-11-2024 21:37:55]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:37:57]	xBurg [268479016] used 'admin_deleteallphantomtown' command on: none
+[07-11-2024 21:37:59]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:38:51]	xBurg [268479016] used 'admin_heal' command on: xBurg
+[07-11-2024 21:44:50]	xBurg [268479016] used 'admin' command on: Volker
+[07-11-2024 21:44:55]	xBurg [268479016] used 'admin_admin2' command on: Volker
+[07-11-2024 21:45:01]	xBurg [268479016] used 'admin_cw_add' command on: xBurg
+[07-11-2024 21:45:07]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:45:08]	xBurg [268479016] used 'admin_admin2' command on: xBurg
+[07-11-2024 21:45:16]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:45:20]	xBurg [268479016] used 'admin_help songs/songs.htm' command on: xBurg
+[07-11-2024 21:45:22]	xBurg [268479016] used 'admin_play_sound ls01_f' command on: xBurg
+[07-11-2024 21:45:26]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:45:28]	xBurg [268479016] used 'admin_admin2' command on: xBurg
+[07-11-2024 21:45:29]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:45:30]	xBurg [268479016] used 'admin_help songs/songs.htm' command on: xBurg
+[07-11-2024 21:45:32]	xBurg [268479016] used 'admin_help songs/songs2.htm' command on: xBurg
+[07-11-2024 21:45:35]	xBurg [268479016] used 'admin_help songs/songs.htm' command on: xBurg
+[07-11-2024 21:45:37]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:45:38]	xBurg [268479016] used 'admin_admin2' command on: xBurg
+[07-11-2024 21:45:38]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:45:48]	xBurg [268479016] used 'admin_unpara_all_menu' command on: xBurg
+[07-11-2024 21:45:48]	xBurg [268479016] used 'admin_para_all_menu' command on: xBurg
+[07-11-2024 21:45:49]	xBurg [268479016] used 'admin_unpara_all_menu' command on: xBurg
+[07-11-2024 21:45:50]	xBurg [268479016] used 'admin_atmosphere_menu ssqinfo regular' command on: xBurg
+[07-11-2024 21:45:51]	xBurg [268479016] used 'admin_atmosphere_menu ssqinfo dawn' command on: xBurg
+[07-11-2024 21:45:52]	xBurg [268479016] used 'admin_atmosphere_menu ssqinfo dusk' command on: xBurg
+[07-11-2024 21:45:52]	xBurg [268479016] used 'admin_atmosphere_menu ssqinfo red' command on: xBurg
+[07-11-2024 21:46:27]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:46:29]	xBurg [268479016] used 'admin_admin2' command on: none
+[07-11-2024 21:46:31]	xBurg [268479016] used 'admin_admin3' command on: none
+[07-11-2024 21:46:32]	xBurg [268479016] used 'admin_atmosphere_menu sky night' command on: none
+[07-11-2024 21:46:33]	xBurg [268479016] used 'admin_atmosphere_menu sky red' command on: none
+[07-11-2024 21:46:35]	xBurg [268479016] used 'admin_earthquake_menu' command on: none
+[07-11-2024 21:46:35]	xBurg [268479016] used 'admin_atmosphere_menu sky day' command on: none
+[07-11-2024 21:46:40]	xBurg [268479016] used 'admin_polymorph_menu' command on: none
+[07-11-2024 21:46:41]	xBurg [268479016] used 'admin_unpolymorph_menu' command on: none
+[07-11-2024 21:46:44]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:46:45]	xBurg [268479016] used 'admin_admin3' command on: none
+[07-11-2024 21:46:48]	xBurg [268479016] used 'admin_social_menu' command on: none
+[07-11-2024 21:46:51]	xBurg [268479016] used 'admin_social_menu 2' command on: none
+[07-11-2024 21:46:52]	xBurg [268479016] used 'admin_social_menu 3' command on: none
+[07-11-2024 21:46:54]	xBurg [268479016] used 'admin_social_menu 2' command on: none
+[07-11-2024 21:46:57]	xBurg [268479016] used 'admin_social_menu 3' command on: none
+[07-11-2024 21:46:58]	xBurg [268479016] used 'admin_social_menu 4' command on: none
+[07-11-2024 21:46:59]	xBurg [268479016] used 'admin_social_menu 8' command on: none
+[07-11-2024 21:47:00]	xBurg [268479016] used 'admin_social_menu 7' command on: none
+[07-11-2024 21:47:01]	xBurg [268479016] used 'admin_social_menu 6' command on: none
+[07-11-2024 21:47:02]	xBurg [268479016] used 'admin_social_menu 5' command on: none
+[07-11-2024 21:47:03]	xBurg [268479016] used 'admin_social_menu 1' command on: none
+[07-11-2024 21:47:03]	xBurg [268479016] used 'admin_social_menu 16' command on: none
+[07-11-2024 21:47:04]	xBurg [268479016] used 'admin_social_menu 15' command on: none
+[07-11-2024 21:47:06]	xBurg [268479016] used 'admin_social_menu 13' command on: none
+[07-11-2024 21:47:07]	xBurg [268479016] used 'admin_social_menu 12' command on: none
+[07-11-2024 21:47:08]	xBurg [268479016] used 'admin_social_menu 11' command on: none
+[07-11-2024 21:47:08]	xBurg [268479016] used 'admin_social_menu 16' command on: none
+[07-11-2024 21:47:09]	xBurg [268479016] used 'admin_social_menu 15' command on: none
+[07-11-2024 21:47:16]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:47:17]	xBurg [268479016] used 'admin_admin3' command on: none
+[07-11-2024 21:47:18]	xBurg [268479016] used 'admin_abnormal_menu' command on: none
+[07-11-2024 21:47:20]	xBurg [268479016] used 'admin_admin3' command on: none
+[07-11-2024 21:47:21]	xBurg [268479016] used 'admin_social_menu' command on: none
+[07-11-2024 21:47:24]	xBurg [268479016] used 'admin_social_menu 3' command on: none
+[07-11-2024 21:47:25]	xBurg [268479016] used 'admin_social_menu 7' command on: none
+[07-11-2024 21:47:27]	xBurg [268479016] used 'admin_social_menu 10' command on: none
+[07-11-2024 21:47:28]	xBurg [268479016] used 'admin_social_menu 8' command on: none
+[07-11-2024 21:47:29]	xBurg [268479016] used 'admin_social_menu 11' command on: none
+[07-11-2024 21:47:30]	xBurg [268479016] used 'admin_social_menu 15' command on: none
+[07-11-2024 21:47:34]	xBurg [268479016] used 'admin_social_menu 16' command on: none
+[07-11-2024 21:47:37]	xBurg [268479016] used 'admin_social_menu 15' command on: none
+[07-11-2024 21:47:37]	xBurg [268479016] used 'admin_social_menu 16' command on: none
+[07-11-2024 21:47:38]	xBurg [268479016] used 'admin_social_menu 15' command on: none
+[07-11-2024 21:47:39]	xBurg [268479016] used 'admin_social_menu 16' command on: none
+[07-11-2024 21:47:51]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:47:53]	xBurg [268479016] used 'admin_tvt' command on: none
+[07-11-2024 21:48:00]	xBurg [268479016] used 'admin_tvt_autoevent' command on: none
+[07-11-2024 21:48:04]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:48:08]	xBurg [268479016] used 'admin_getbuffs' command on: none
+[07-11-2024 21:48:14]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:48:31]	xBurg [268479016] used 'admin_deleteallphantompvp' command on: none
+[07-11-2024 21:48:35]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:48:36]	xBurg [268479016] used 'admin_deleteallphantomfarm' command on: none
+[07-11-2024 21:48:39]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:48:40]	xBurg [268479016] used 'admin_deleteallphantomtown' command on: none
+[07-11-2024 21:48:49]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 21:48:53]	xBurg [268479016] used 'admin_find_character' command on: none
+[07-11-2024 21:48:59]	xBurg [268479016] used 'admin_character_info COCPL' command on: none
+[07-11-2024 21:49:02]	xBurg [268479016] used 'admin' command on: COCPL
+[07-11-2024 21:49:10]	xBurg [268479016] used 'admin_gmchat_menu' command on: COCPL
+[07-11-2024 21:49:13]	xBurg [268479016] used 'admin_show_item' command on: COCPL
+[07-11-2024 21:49:18]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:49:19]	xBurg [268479016] used 'admin_show_item' command on: xBurg
+[07-11-2024 21:49:24]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:49:27]	xBurg [268479016] used 'admin_create_zone' command on: xBurg
+[07-11-2024 21:49:31]	xBurg [268479016] used 'admin_setType NPoly' command on: xBurg
+[07-11-2024 21:49:35]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:49:39]	xBurg [268479016] used 'admin_admin2' command on: xBurg
+[07-11-2024 21:49:41]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 21:49:42]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:49:48]	xBurg [268479016] used 'admin_reload admin' command on: xBurg
+[07-11-2024 21:49:51]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:49:52]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:50:03]	xBurg [268479016] used 'admin_st' command on: xBurg
+[07-11-2024 21:50:07]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:50:09]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:50:11]	xBurg [268479016] used 'admin_st 51' command on: xBurg
+[07-11-2024 21:50:20]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 21:50:21]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 21:50:24]	xBurg [268479016] used 'admin_st 11' command on: xBurg
+[07-11-2024 22:10:57]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:11:05]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 22:11:07]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 22:11:09]	xBurg [268479016] used 'admin_hide' command on: xBurg
+[07-11-2024 22:11:15]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:11:25]	xBurg [268479016] used 'admin_add_arglist' command on: xBurg
+[07-11-2024 22:11:32]	xBurg [268479016] used 'admin_add_skill 3241 10' command on: xBurg
+[07-11-2024 22:11:36]	xBurg [268479016] used 'admin_give_all_skills' command on: xBurg
+[07-11-2024 22:11:40]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:11:49]	xBurg [268479016] used 'admin_add_arglist' command on: xBurg
+[07-11-2024 22:11:55]	xBurg [268479016] used 'admin_add_skill 3133 10' command on: xBurg
+[07-11-2024 22:12:03]	xBurg [268479016] used 'admin_current_player' command on: xBurg
+[07-11-2024 22:12:56]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 22:12:59]	xBurg [268479016] used 'admin_admin4' command on: none
+[07-11-2024 22:13:01]	xBurg [268479016] used 'admin_admin3' command on: none
+[07-11-2024 22:13:02]	xBurg [268479016] used 'admin_invul' command on: none
+[07-11-2024 22:13:07]	xBurg [268479016] used 'admin' command on: NextimA
+[07-11-2024 22:13:08]	xBurg [268479016] used 'admin_gmspeed_menu 4' command on: NextimA
+[07-11-2024 22:13:46]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:13:46]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:13:48]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:13:50]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:13:52]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:13:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:13:54]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:13:56]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:13:59]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:01]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:02]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:03]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:04]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:04]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:05]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:05]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:06]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:07]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:08]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:09]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:09]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:10]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:10]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:11]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:12]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:13]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:14]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:15]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:16]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:18]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:19]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:20]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:22]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:23]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:25]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:26]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:14:28]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:29]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:32]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:33]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:34]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:36]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:38]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:39]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:14:40]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:42]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:14:43]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:44]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:48]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:48]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:49]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:49]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:14:50]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:50]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:50]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:50]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:51]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:51]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:51]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:53]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:14:53]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:53]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:54]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:54]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:54]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:14:54]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:55]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:55]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:55]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:56]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:14:56]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:56]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:57]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:57]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:14:57]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:58]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:58]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:58]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:58]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:59]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:59]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:59]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:14:59]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:00]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:00]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:00]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:02]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:02]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:02]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:03]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:03]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:03]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:04]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:04]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:05]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:05]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:05]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:06]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:06]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:06]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:07]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:07]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:07]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:08]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:08]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:08]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:09]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:09]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:09]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:09]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:10]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:10]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:10]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:11]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:12]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:12]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:12]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:14]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:14]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:14]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:14]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:15]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:15]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:15]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:16]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:16]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:16]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:17]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:17]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:17]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:17]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:18]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:18]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:18]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:19]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:19]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:19]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:19]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:20]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:20]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:20]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:21]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:21]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:21]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:22]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:22]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:23]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:23]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:23]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:23]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:24]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:24]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:24]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:25]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:25]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:25]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:26]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:26]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:26]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:27]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:27]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:27]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:27]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:28]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:28]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:28]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:29]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:29]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:29]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:30]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:30]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:30]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:31]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:31]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:31]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:32]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:32]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:32]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:33]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:33]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:33]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:34]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:34]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:34]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:35]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:35]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:35]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:36]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:36]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:36]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:37]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:37]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:37]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:38]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:38]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:38]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:39]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:39]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:39]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:40]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:40]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:40]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:40]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:41]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:41]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:42]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:42]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:42]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:42]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:43]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:43]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:43]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:44]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:44]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:44]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:44]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:45]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:45]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:45]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:46]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:46]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:15:46]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:47]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:47]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:47]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:47]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:48]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:48]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:48]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:49]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:49]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:49]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:50]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:15:50]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:50]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:50]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:51]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:51]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:51]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:52]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:52]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:15:52]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:52]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:53]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:53]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:53]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:54]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:54]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:54]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:54]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:55]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:15:55]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:55]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:56]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:56]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:56]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:57]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:57]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:57]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:57]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:58]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:58]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:15:58]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:59]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:15:59]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:15:59]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:15:59]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:00]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:00]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:00]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:00]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:01]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:01]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:01]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:03]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:03]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:03]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:03]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:04]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:04]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:04]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:05]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:05]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:05]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:05]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:06]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:06]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:06]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:07]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:07]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:07]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:07]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:08]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:08]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:08]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:09]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:09]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:09]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:09]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:10]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:10]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:10]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:11]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:12]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:12]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:12]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:13]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:13]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:13]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:14]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:14]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:14]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:15]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:15]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:15]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:15]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:16]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:16]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:16]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:16]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:17]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:17]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:17]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:18]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:18]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:18]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:18]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:19]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:19]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:19]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:20]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:20]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:20]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:21]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:21]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:21]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:22]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:22]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:22]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:23]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:23]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:23]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:24]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:24]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:24]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:25]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:25]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:25]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:26]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:26]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:26]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:27]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:27]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:27]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:28]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:28]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:28]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:29]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:29]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:30]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:30]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:30]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:31]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:31]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:31]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:31]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:32]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:32]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:32]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:33]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:33]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:33]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:34]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:34]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:34]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:34]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:35]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:35]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:36]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:36]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:36]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:37]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:37]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:37]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:38]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:38]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:38]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:39]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:39]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:39]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:40]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:40]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:40]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:41]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:41]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:41]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:42]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:42]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:42]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:43]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:43]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:44]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:44]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:44]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:44]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:45]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:45]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:45]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:46]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:46]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:46]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:47]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:47]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:47]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:48]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:48]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:48]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:48]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:49]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:49]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:49]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:50]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:50]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:50]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:51]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:51]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:51]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:16:52]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:52]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:52]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:16:53]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:16:53]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:53]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:16:54]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:54]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:16:54]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:55]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:55]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:55]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:56]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:56]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:16:56]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:16:56]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:57]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:57]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:58]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:58]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:58]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:59]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:59]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:16:59]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:00]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:17:00]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:00]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:00]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:01]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:01]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:01]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:02]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:02]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:02]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:03]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:03]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:03]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:04]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:04]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:04]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:05]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:05]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:05]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:06]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:07]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:08]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:08]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:09]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:09]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:09]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:10]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:10]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:10]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:10]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:11]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:11]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:11]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:12]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:12]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:12]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:12]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:13]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:13]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:13]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:14]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:14]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:14]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:14]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:15]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:15]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:15]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:16]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:16]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:16]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:17]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:17]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:17]	xBurg [268479016] used 'kill' command on: JlegoJlas
+[07-11-2024 22:17:18]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:18]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:18]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:18]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:19]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:19]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:19]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:17:20]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:20]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:20]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:17:21]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:21]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:21]	xBurg [268479016] used 'kill' command on: atlant
+[07-11-2024 22:17:22]	xBurg [268479016] used 'kill' command on: Flip1
+[07-11-2024 22:17:22]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:22]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:23]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:23]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:23]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:24]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:24]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:24]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:25]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:25]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:36]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:37]	xBurg [268479016] used 'kill' command on: Kristi
+[07-11-2024 22:17:37]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:37]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:38]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:38]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:38]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:38]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:39]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:39]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:39]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:40]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:40]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:40]	xBurg [268479016] used 'kill' command on: Morty
+[07-11-2024 22:17:41]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:41]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:41]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:43]	xBurg [268479016] used 'kill' command on: didhei
+[07-11-2024 22:17:43]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:43]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:44]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:44]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:44]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:45]	xBurg [268479016] used 'kill' command on: XJIAM
+[07-11-2024 22:17:45]	xBurg [268479016] used 'kill' command on: NextimA
+[07-11-2024 22:17:45]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:20:49]	xBurg [268479016] used 'admin' command on: Angelic Vortex
+[07-11-2024 22:20:53]	xBurg [268479016] used 'admin_move_to' command on: Angelic Vortex
+[07-11-2024 22:20:54]	xBurg [268479016] used 'admin_instant_move' command on: Angelic Vortex
+[07-11-2024 22:21:16]	xBurg [268479016] used 'kill' command on: Baium
+[07-11-2024 22:21:44]	xBurg [268479016] used 'kill' command on: Baium
+[07-11-2024 22:22:46]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 22:22:48]	xBurg [268479016] used 'admin_move_to' command on: none
+[07-11-2024 22:22:52]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:22:57]	xBurg [268479016] used 'admin_move_to 213896 -115436 -1644' command on: none
+[07-11-2024 22:23:12]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:23:16]	xBurg [268479016] used 'admin_move_to 177336 114648 -7704' command on: none
+[07-11-2024 22:23:29]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:23:32]	xBurg [268479016] used 'admin_move_to 53992 219880 -3488' command on: none
+[07-11-2024 22:23:39]	xBurg [268479016] used 'kill' command on: Zaken
+[07-11-2024 22:24:03]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: Doll Blader
+[07-11-2024 22:24:04]	xBurg [268479016] used 'admin_move_to 53544 19240 -5248' command on: Doll Blader
+[07-11-2024 22:24:16]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:24:18]	xBurg [268479016] used 'admin_move_to 17720 111752 -6584' command on: none
+[07-11-2024 22:24:31]	xBurg [268479016] used 'kill' command on: Core
+[07-11-2024 22:24:45]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: Susceptor
+[07-11-2024 22:24:50]	xBurg [268479016] used 'admin_move_to 19897 -9087 -2781' command on: Susceptor
+[07-11-2024 22:24:56]	xBurg [268479016] used 'kill' command on: Tyrannosaurus
+[07-11-2024 22:24:59]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: Ancient Egg
+[07-11-2024 22:25:01]	xBurg [268479016] used 'admin_move_to 26174 -17134 -2747' command on: Ancient Egg
+[07-11-2024 22:25:05]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:25:08]	xBurg [268479016] used 'admin_move_to 78280 -55336 -6136' command on: none
+[07-11-2024 22:25:19]	xBurg [268479016] used 'kill' command on: Queen Shyeed
+[07-11-2024 22:25:25]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: Queen Shyeed
+[07-11-2024 22:25:29]	xBurg [268479016] used 'admin_move_to 113768 16888 9000' command on: Spiked Stakato Soldier
+[07-11-2024 22:25:46]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:25:51]	xBurg [268479016] used 'admin_move_to' command on: none
+[07-11-2024 22:25:53]	xBurg [268479016] used 'admin_move_to 106414 -87799 -2920' command on: none
+[07-11-2024 22:26:00]	xBurg [268479016] used 'admin_move_to -12745 -35725 -10858' command on: none
+[07-11-2024 22:27:01]	xBurg [268479016] used 'kill' command on: Ritual Sacrifice
+[07-11-2024 22:27:48]	xBurg [268479016] used 'admin_help tele/raid/raid_special.htm' command on: none
+[07-11-2024 22:27:58]	xBurg [268479016] used 'admin_move_to -21610 181594 -5734' command on: none
+[07-11-2024 22:28:07]	xBurg [268479016] used 'kill' command on: Queen Ant
+[07-11-2024 22:28:35]	xBurg [268479016] used 'admin_move_to -52376 141288 -2912' command on: Queen Ant
+[07-11-2024 22:28:40]	xBurg [268479016] used 'admin_move_to 82080 148447 -3177' command on: none
+[07-11-2024 22:28:48]	xBurg [268479016] used 'admin_help tele/locations/interlude.htm' command on: none
+[07-11-2024 22:28:50]	xBurg [268479016] used 'admin_help teleports.htm' command on: none
+[07-11-2024 22:28:50]	xBurg [268479016] used 'admin_help tele/locations/c5.htm' command on: none
+[07-11-2024 22:28:53]	xBurg [268479016] used 'admin_help teleports.htm' command on: none
+[07-11-2024 22:28:54]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:28:56]	xBurg [268479016] used 'admin_help tele/others/goodies.htm' command on: none
+[07-11-2024 22:28:58]	xBurg [268479016] used 'admin_move_to -114542 -251005 -2992' command on: none
+[07-11-2024 22:29:09]	xBurg [268479016] used 'kill' command on: Zevss
+[07-11-2024 22:29:11]	xBurg [268479016] used 'kill' command on: liya
+[07-11-2024 22:29:11]	xBurg [268479016] used 'kill' command on: liya
+[07-11-2024 22:29:11]	xBurg [268479016] used 'kill' command on: Sniperok
+[07-11-2024 22:29:12]	xBurg [268479016] used 'kill' command on: Sniperok
+[07-11-2024 22:29:12]	xBurg [268479016] used 'kill' command on: Sniperok
+[07-11-2024 22:29:12]	xBurg [268479016] used 'kill' command on: mazila
+[07-11-2024 22:29:13]	xBurg [268479016] used 'kill' command on: Enchant
+[07-11-2024 22:29:14]	xBurg [268479016] used 'kill' command on: RUSLAN
+[07-11-2024 22:29:14]	xBurg [268479016] used 'kill' command on: Ex1T
+[07-11-2024 22:29:16]	xBurg [268479016] used 'admin_admin' command on: Ex1T
+[07-11-2024 22:29:18]	xBurg [268479016] used 'admin_find_character' command on: Ex1T
+[07-11-2024 22:29:21]	xBurg [268479016] used 'admin_character_info Bemepok' command on: Ex1T
+[07-11-2024 22:29:22]	xBurg [268479016] used 'kill' command on: Bemepok
+[07-11-2024 22:29:25]	xBurg [268479016] used 'admin' command on: Bemepok
+[07-11-2024 22:29:27]	xBurg [268479016] used 'admin_deleteallphantompvp' command on: Bemepok
+[07-11-2024 22:29:30]	xBurg [268479016] used 'admin' command on: Bemepok
+[07-11-2024 22:29:31]	xBurg [268479016] used 'admin_deleteallphantomfarm' command on: Bemepok
+[07-11-2024 22:29:33]	xBurg [268479016] used 'admin' command on: Bemepok
+[07-11-2024 22:29:34]	xBurg [268479016] used 'admin_deleteallphantomtown' command on: Bemepok
+[07-11-2024 22:29:37]	xBurg [268479016] used 'kill' command on: GeranZ
+[07-11-2024 22:29:38]	xBurg [268479016] used 'kill' command on: GeranZ
+[07-11-2024 22:29:38]	xBurg [268479016] used 'kill' command on: GeranZ
+[07-11-2024 22:29:38]	xBurg [268479016] used 'kill' command on: gjhgjujhjh
+[07-11-2024 22:29:38]	xBurg [268479016] used 'kill' command on: Antaras
+[07-11-2024 22:29:39]	xBurg [268479016] used 'kill' command on: Peka
+[07-11-2024 22:29:39]	xBurg [268479016] used 'kill' command on: Argon
+[07-11-2024 22:29:39]	xBurg [268479016] used 'kill' command on: Urschak
+[07-11-2024 22:29:40]	xBurg [268479016] used 'kill' command on: Sexual
+[07-11-2024 22:29:40]	xBurg [268479016] used 'kill' command on: harkonen
+[07-11-2024 22:29:41]	xBurg [268479016] used 'kill' command on: ZanZag
+[07-11-2024 22:29:41]	xBurg [268479016] used 'kill' command on: KelThuZarD
+[07-11-2024 22:29:41]	xBurg [268479016] used 'kill' command on: Seda
+[07-11-2024 22:29:41]	xBurg [268479016] used 'kill' command on: Aleister
+[07-11-2024 22:29:42]	xBurg [268479016] used 'kill' command on: PureEvil
+[07-11-2024 22:29:42]	xBurg [268479016] used 'kill' command on: GRavi
+[07-11-2024 22:29:42]	xBurg [268479016] used 'kill' command on: XXkrasotKaxx
+[07-11-2024 22:29:42]	xBurg [268479016] used 'kill' command on: Ptich
+[07-11-2024 22:29:43]	xBurg [268479016] used 'kill' command on: Pinki
+[07-11-2024 22:29:44]	xBurg [268479016] used 'kill' command on: tola
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: gert
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: gert
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: gert
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: gert
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: gert
+[07-11-2024 22:29:49]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:50]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:50]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:51]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:51]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:51]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:51]	xBurg [268479016] used 'kill' command on: IKillKenny
+[07-11-2024 22:29:52]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:52]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:52]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:52]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:53]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:53]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:53]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:53]	xBurg [268479016] used 'kill' command on: rumyn
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:55]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:56]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:56]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:56]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:56]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:57]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:57]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:57]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:58]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:58]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:58]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:58]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:59]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:59]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:59]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:29:59]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:00]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:00]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:00]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:00]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:01]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:01]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:01]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:02]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:02]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:02]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:02]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:03]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:03]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:03]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:04]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:04]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:04]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:04]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:05]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:05]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:05]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:06]	xBurg [268479016] used 'kill' command on: none
+[07-11-2024 22:30:10]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 22:30:16]	xBurg [268479016] used 'admin_move_to' command on: none
+[07-11-2024 22:30:18]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:30:20]	xBurg [268479016] used 'admin_help tele/others/goodies.htm' command on: none
+[07-11-2024 22:30:20]	xBurg [268479016] used 'admin_move_to -116059 -251145 -2992' command on: none
+[07-11-2024 22:30:26]	xBurg [268479016] used 'admin_move_to -114587 -249393 -2992' command on: none
+[07-11-2024 22:30:36]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:30:37]	xBurg [268479016] used 'admin_help tele/others/goodies.htm' command on: none
+[07-11-2024 22:30:37]	xBurg [268479016] used 'admin_move_to -112959 -251147 -2992' command on: none
+[07-11-2024 22:30:43]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:30:43]	xBurg [268479016] used 'admin_help tele/others/goodies.htm' command on: none
+[07-11-2024 22:30:48]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:30:51]	xBurg [268479016] used 'admin_move_to -114462 -249619 -2986' command on: none
+[07-11-2024 22:30:58]	xBurg [268479016] used 'admin_help tele/locations/interlude.htm' command on: none
+[07-11-2024 22:30:59]	xBurg [268479016] used 'admin_help teleports.htm' command on: none
+[07-11-2024 22:31:00]	xBurg [268479016] used 'admin_help tele/towns_castles.htm' command on: none
+[07-11-2024 22:31:01]	xBurg [268479016] used 'admin_tele' command on: none
+[07-11-2024 22:31:02]	xBurg [268479016] used 'admin_help tele/other.htm' command on: none
+[07-11-2024 22:31:13]	xBurg [268479016] used 'admin_help tele/others/arenas.htm' command on: none
+[07-11-2024 22:31:19]	xBurg [268479016] used 'admin_move_to -77123 -251473 -3331' command on: none
+[07-11-2024 22:31:27]	xBurg [268479016] used 'admin_help tele/towns_castles.htm' command on: none
+[07-11-2024 22:31:31]	xBurg [268479016] used 'admin_tele' command on: none
+[07-11-2024 22:31:35]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 22:31:37]	xBurg [268479016] used 'admin_move_to' command on: none
+[07-11-2024 22:31:44]	xBurg [268479016] used 'admin_ride 2' command on: none
+[07-11-2024 22:31:52]	xBurg [268479016] used 'admin' command on: none
+[07-11-2024 22:31:53]	xBurg [268479016] used 'admin_gmspeed_menu 4' command on: none
+[07-11-2024 22:34:17]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:34:21]	xBurg [268479016] used 'admin_setkarma 0' command on: xBurg
+[07-11-2024 22:34:36]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:34:41]	xBurg [268479016] used 'admin_admin4' command on: xBurg
+[07-11-2024 22:34:42]	xBurg [268479016] used 'admin_admin3' command on: xBurg
+[07-11-2024 22:34:45]	xBurg [268479016] used 'admin_admin2' command on: xBurg
+[07-11-2024 22:34:47]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:34:49]	xBurg [268479016] used 'admin_move_to' command on: xBurg
+[07-11-2024 22:34:50]	xBurg [268479016] used 'admin_ride 2' command on: xBurg
+[07-11-2024 22:34:54]	xBurg [268479016] used 'admin' command on: xBurg
+[07-11-2024 22:34:55]	xBurg [268479016] used 'admin_gmspeed_menu 4' command on: xBurg
+[07-11-2024 22:36:38]	xBurg [268479016] used 'admin_movie' command on: none
+[07-11-2024 22:36:39]	xBurg [268479016] used 'admin_addseq' command on: none
+[07-11-2024 22:36:43]	xBurg [268479016] used 'admin_movie' command on: none
+[07-11-2024 22:36:47]	xBurg [268479016] used 'admin' command on: none

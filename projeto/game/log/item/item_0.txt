@@ -7878,3 +7878,643 @@
 [06-11-2024 20:07:08] 	CREATE:TvT Event: TvT	player CTPEl0k	25	Event Coin Lv.1	268480312	player CTPEl0k	
 [06-11-2024 20:07:08] 	CREATE:TvT Event: TvT	player kazel	25	Event Coin Lv.1	268480313	player kazel	
 [06-11-2024 20:07:08] 	CREATE:TvT Event: TvT	player LoLexxx	25	Event Coin Lv.1	268480315	player LoLexxx	
+[07-11-2024 18:07:38] 	CREATE:TvT Event: TvT	player Bagheera	25	Event Coin Lv.1	268480373	player Bagheera	
+[07-11-2024 18:07:38] 	CREATE:TvT Event: TvT	player Akima	25	Event Coin Lv.1	268480374	player Akima	
+[07-11-2024 18:07:38] 	CREATE:TvT Event: TvT	player Remi	25	Event Coin Lv.1	268480375	player Remi	
+[07-11-2024 18:07:38] 	CREATE:TvT Event: TvT	player Arrow	25	Event Coin Lv.1	268480376	player Arrow	
+[07-11-2024 18:07:38] 	CREATE:TvT Event: TvT	player xxScaRxx	25	Event Coin Lv.1	268480377	player xxScaRxx	
+[07-11-2024 18:07:38] 	CREATE:Event:	player hgfgh	5	Event Coin Lv.1	268480378	player hgfgh	
+[07-11-2024 18:07:38] 	CHANGE:TvT Event: TvT	player hgfgh	30	Event Coin Lv.1	268480378	player hgfgh	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player re4a	25	Event Coin Lv.1	268481554	player re4a	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player lyi	25	Event Coin Lv.1	268481555	player lyi	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player Necromancer	25	Event Coin Lv.1	268481556	player Necromancer	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player SexxxxxxL	25	Event Coin Lv.1	268481557	player SexxxxxxL	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player AnZhi	25	Event Coin Lv.1	268481558	player AnZhi	
+[07-11-2024 20:07:38] 	CREATE:Event:	player vasilch	5	Event Coin Lv.1	268481559	player vasilch	
+[07-11-2024 20:07:38] 	CHANGE:TvT Event: TvT	player vasilch	30	Event Coin Lv.1	268481559	player vasilch	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player LEHA	25	Event Coin Lv.1	268481560	player LEHA	
+[07-11-2024 20:07:38] 	CREATE:TvT Event: TvT	player kaliostro2	25	Event Coin Lv.1	268481561	player kaliostro2	
+[07-11-2024 21:26:29] 	CHANGE:Multisell	player xBurg	1999999795	Ticket Donate	268479063		
+[07-11-2024 21:26:29] 	CREATE:Multisell	player xBurg	1	Shield	268479132		
+[07-11-2024 21:26:31] 	CHANGE:Multisell	player xBurg	1999999785	Ticket Donate	268479063		
+[07-11-2024 21:26:31] 	CREATE:Multisell	player xBurg	1	Shield	268479133		
+[07-11-2024 21:26:33] 	CHANGE:Multisell	player xBurg	1999999775	Ticket Donate	268479063		
+[07-11-2024 21:26:33] 	CREATE:Multisell	player xBurg	1	Shield	268479134		
+[07-11-2024 21:26:37] 	CHANGE:Multisell	player xBurg	1999999765	Ticket Donate	268479063		
+[07-11-2024 21:26:37] 	CREATE:Multisell	player xBurg	1	Shield	268479135		
+[07-11-2024 21:26:42] 	CHANGE:Multisell	player xBurg	1999999755	Ticket Donate	268479063		
+[07-11-2024 21:26:42] 	CREATE:Multisell	player xBurg	1	Shield	268479136		
+[07-11-2024 21:27:45] 	CHANGE:Multisell	player xBurg	1999999740	Ticket Donate	268479063		
+[07-11-2024 21:27:45] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479137		
+[07-11-2024 21:27:50] 	CHANGE:Multisell	player xBurg	1999999725	Ticket Donate	268479063		
+[07-11-2024 21:27:50] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479138		
+[07-11-2024 21:27:58] 	CHANGE:Multisell	player xBurg	1999999710	Ticket Donate	268479063		
+[07-11-2024 21:27:58] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479139		
+[07-11-2024 21:28:00] 	CHANGE:Multisell	player xBurg	1999999695	Ticket Donate	268479063		
+[07-11-2024 21:28:00] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479140		
+[07-11-2024 21:28:04] 	CHANGE:Multisell	player xBurg	1999999680	Ticket Donate	268479063		
+[07-11-2024 21:28:04] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479141		
+[07-11-2024 21:28:09] 	CHANGE:Multisell	player xBurg	1999999665	Ticket Donate	268479063		
+[07-11-2024 21:28:09] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479142		
+[07-11-2024 21:28:16] 	CHANGE:Multisell	player xBurg	1999999650	Ticket Donate	268479063		
+[07-11-2024 21:28:16] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479143		
+[07-11-2024 21:28:21] 	CHANGE:Multisell	player xBurg	1999999635	Ticket Donate	268479063		
+[07-11-2024 21:28:21] 	CREATE:Multisell	player xBurg	1	Acessorie Custom	268479144		
+[07-11-2024 21:28:44] 	CHANGE:Multisell	player xBurg	1999999634	Ticket Donate	268479063		
+[07-11-2024 21:28:44] 	CREATE:Multisell	player xBurg	1	Noblesse Status	268479145		
+[07-11-2024 21:29:09] 	DELETE:Consume	player xBurg	0	Noblesse Status	268479145	
+[07-11-2024 21:30:05] 	CHANGE:Multisell	player xBurg	1999999624	Ticket Donate	268479063		
+[07-11-2024 21:30:05] 	CREATE:Multisell	player xBurg	1	Shield	268479146		
+[07-11-2024 21:30:07] 	CHANGE:Multisell	player xBurg	1999999614	Ticket Donate	268479063		
+[07-11-2024 21:30:07] 	CREATE:Multisell	player xBurg	1	Shield	268479147		
+[07-11-2024 21:30:10] 	CHANGE:Multisell	player xBurg	1999999604	Ticket Donate	268479063		
+[07-11-2024 21:30:10] 	CREATE:Multisell	player xBurg	1	Shield	268479148		
+[07-11-2024 21:30:13] 	CHANGE:Multisell	player xBurg	1999999594	Ticket Donate	268479063		
+[07-11-2024 21:30:13] 	CREATE:Multisell	player xBurg	1	Shield	268479149		
+[07-11-2024 21:30:20] 	CHANGE:Multisell	player xBurg	1999999584	Ticket Donate	268479063		
+[07-11-2024 21:30:20] 	CREATE:Multisell	player xBurg	1	Shield	268479150		
+[07-11-2024 21:30:23] 	CHANGE:Multisell	player xBurg	1999999574	Ticket Donate	268479063		
+[07-11-2024 21:30:23] 	CREATE:Multisell	player xBurg	1	Shield	268479151		
+[07-11-2024 21:31:27] 	CHANGE:Multisell	player xBurg	1999999569	Ticket Donate	268479063		
+[07-11-2024 21:31:27] 	CREATE:Multisell	player xBurg	1	Dynasty Circlet	268479152		
+[07-11-2024 21:31:29] 	CHANGE:Multisell	player xBurg	1999999564	Ticket Donate	268479063		
+[07-11-2024 21:31:29] 	CREATE:Multisell	player xBurg	1	Dynasty Robe	268479153		
+[07-11-2024 21:31:31] 	CHANGE:Multisell	player xBurg	1999999559	Ticket Donate	268479063		
+[07-11-2024 21:31:31] 	CREATE:Multisell	player xBurg	1	Dynasty Stockings	268479154		
+[07-11-2024 21:31:33] 	CHANGE:Multisell	player xBurg	1999999554	Ticket Donate	268479063		
+[07-11-2024 21:31:33] 	CREATE:Multisell	player xBurg	1	Dynasty Gloves	268479155		
+[07-11-2024 21:31:35] 	CHANGE:Multisell	player xBurg	1999999549	Ticket Donate	268479063		
+[07-11-2024 21:31:35] 	CREATE:Multisell	player xBurg	1	Dynasty Boots	268479156		
+[07-11-2024 21:31:54] 	CHANGE:Multisell	player xBurg	1999999529	Ticket Donate	268479063		
+[07-11-2024 21:31:54] 	CREATE:Multisell	player xBurg	1	Dual Dynasty - Focus	268479157		
+[07-11-2024 21:31:57] 	CHANGE:Multisell	player xBurg	1999999509	Ticket Donate	268479063		
+[07-11-2024 21:31:57] 	CREATE:Multisell	player xBurg	1	Dual Icarus - Focus	268479158		
+[07-11-2024 21:31:59] 	CHANGE:Multisell	player xBurg	1999999489	Ticket Donate	268479063		
+[07-11-2024 21:31:59] 	CREATE:Multisell	player xBurg	1	Dual Medusa - Focus	268479159		
+[07-11-2024 21:32:48] 	CHANGE:Multisell	player xBurg	1999999469	Ticket Donate	268479063		
+[07-11-2024 21:32:48] 	CREATE:Multisell	player xBurg	1	Chaotic Bow Draconic - Focus	268479160		
+[07-11-2024 21:32:50] 	CHANGE:Multisell	player xBurg	1999999449	Ticket Donate	268479063		
+[07-11-2024 21:32:50] 	CREATE:Multisell	player xBurg	1	Chaotic Fists - Focus	268479161		
+[07-11-2024 21:32:52] 	CHANGE:Multisell	player xBurg	1999999429	Ticket Donate	268479063		
+[07-11-2024 21:32:52] 	CREATE:Multisell	player xBurg	1	Chaotic Bow Shining - Focus	268479162		
+[07-11-2024 21:34:14] 	CHANGE:Random Reward	player xBurg	15994	Crystal Coin	268479080	player xBurg	
+[07-11-2024 21:34:14] 	CHANGE:Random Reward	player xBurg	2147483647	Adena	268479055	player xBurg	
+[07-11-2024 21:34:47] 	CHANGE:Teleport 	player xBurg	2147470647	Adena	268479055	Maryse	
+[07-11-2024 21:35:02] 	CHANGE:Teleport 	player xBurg	2147466247	Adena	268479055	Maryse	
+[07-11-2024 21:36:31] 	CREATE:Winning PvP	player zzzPOOHzzz	30	Greater CP Potion	268479229	player zzzPOOHzzz	
+[07-11-2024 21:36:37] 	CREATE:Winning PvP	player EUR	30	Greater CP Potion	268479235	player EUR	
+[07-11-2024 21:36:47] 	CREATE:Winning PvP	player ru6coKapToH	30	Greater CP Potion	268479246	player ru6coKapToH	
+[07-11-2024 21:36:56] 	CREATE:Winning PvP	player lizaaaa	30	Greater CP Potion	268479257	player lizaaaa	
+[07-11-2024 21:36:58] 	CREATE:Winning PvP	player Vodevil	30	Greater CP Potion	268479259	player Vodevil	
+[07-11-2024 21:37:08] 	CHANGE:Winning PvP	player Vodevil	60	Greater CP Potion	268479259	player Vodevil	
+[07-11-2024 21:37:11] 	CHANGE:Winning PvP	player zzzPOOHzzz	60	Greater CP Potion	268479229	player zzzPOOHzzz	
+[07-11-2024 21:37:17] 	CHANGE:Winning PvP	player zzzPOOHzzz	90	Greater CP Potion	268479229	player zzzPOOHzzz	
+[07-11-2024 21:37:27] 	CHANGE:Winning PvP	player lizaaaa	60	Greater CP Potion	268479257	player lizaaaa	
+[07-11-2024 21:37:35] 	CHANGE:Winning PvP	player lizaaaa	90	Greater CP Potion	268479257	player lizaaaa	
+[07-11-2024 21:37:38] 	CHANGE:Winning PvP	player Vodevil	90	Greater CP Potion	268479259	player Vodevil	
+[07-11-2024 21:37:43] 	CHANGE:Winning PvP	player ru6coKapToH	60	Greater CP Potion	268479246	player ru6coKapToH	
+[07-11-2024 21:37:47] 	CHANGE:Winning PvP	player EUR	60	Greater CP Potion	268479235	player EUR	
+[07-11-2024 21:37:55] 	CHANGE:Winning PvP	player EUR	90	Greater CP Potion	268479235	player EUR	
+[07-11-2024 21:38:11] 	CHANGE:Winning PvP	player EUR	120	Greater CP Potion	268479235	player EUR	
+[07-11-2024 21:38:11] 	CHANGE:Winning PvP	player ru6coKapToH	90	Greater CP Potion	268479246	player ru6coKapToH	
+[07-11-2024 21:44:10] 	CHANGE:Buy	player xBurg	2147394747	Adena	268479055	Volker	
+[07-11-2024 21:44:10] 	CREATE:Buy	player xBurg	1	Boat Ticket: Rune to Gludin	268479430	Volker	
+[07-11-2024 21:44:10] 	CREATE:Buy	player xBurg	1	Boat Ticket: Primeval Isle to Rune.	268479431	Volker	
+[07-11-2024 21:44:10] 	CREATE:Buy	player xBurg	1	Boat Ticket: Rune to Primeval Isle.	268479432	Volker	
+[07-11-2024 21:54:30] 	CREATE:TvT Event: TvT	player Uho	25	Event Coin Lv.1	268479533	player Uho	
+[07-11-2024 21:54:30] 	CREATE:TvT Event: TvT	player ckenTuk	25	Event Coin Lv.1	268479534	player ckenTuk	
+[07-11-2024 21:54:30] 	CREATE:Event:	player CiGaN	5	Event Coin Lv.1	268479535	player CiGaN	
+[07-11-2024 21:54:30] 	CHANGE:TvT Event: TvT	player CiGaN	30	Event Coin Lv.1	268479535	player CiGaN	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player Aeze	25	Event Coin Lv.1	268479642	player Aeze	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player echoNEdevochka	25	Event Coin Lv.1	268479643	player echoNEdevochka	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player TaHIOxA	25	Event Coin Lv.1	268479644	player TaHIOxA	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player Sanchez	25	Event Coin Lv.1	268479645	player Sanchez	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player StepSoul	25	Event Coin Lv.1	268479646	player StepSoul	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player xxMizercaLxx	25	Event Coin Lv.1	268479647	player xxMizercaLxx	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player FLIP205	25	Event Coin Lv.1	268479648	player FLIP205	
+[07-11-2024 22:17:45] 	CREATE:Event:	player xBurg	5	Event Coin Lv.1	268479649	player xBurg	
+[07-11-2024 22:17:45] 	CHANGE:TvT Event: TvT	player xBurg	55	Event Coin Lv.1	268479649	player xBurg	
+[07-11-2024 22:17:45] 	CREATE:TvT Event: TvT	player Marakesh	25	Event Coin Lv.1	268479650	player Marakesh	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	80186	Crystal Coin	268479657	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	77610	Crystal Coin	268479658	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	184	Gold Bar	268479659	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	142	Gold Bar	268479660	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	83	Event Coin Lv.1	268479661	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	68	Event Coin Lv.1	268479662	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	12	Event Coin Lv.1	268479663	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	14	Event Coin Lv.1	268479664	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479665	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479666	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	5	Secret Book of Giants	268479667	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	7	Secret Book of Giants	268479668	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Armor (Grade S)	268479669	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Armor (Grade S)	268479670	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Weapon (Grade S)	268479671	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Crystal Scroll: Enchant Weapon (Grade S)	268479672	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Weapon	268479673	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Weapon	268479674	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Armor	268479675	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479676	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	665700375	Adena	268479677	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	11	Ticket Donate	268479678	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	80266	Crystal Coin	268479679	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	66299	Crystal Coin	268479680	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	151	Gold Bar	268479681	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	154	Gold Bar	268479682	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	66	Event Coin Lv.1	268479683	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	89	Event Coin Lv.1	268479684	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	15	Event Coin Lv.1	268479685	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	16	Event Coin Lv.1	268479686	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479687	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479688	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	8	Secret Book of Giants	268479689	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	6	Secret Book of Giants	268479690	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Crystal Scroll: Enchant Armor (Grade S)	268479691	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Armor (Grade S)	268479692	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Crystal Scroll: Enchant Weapon (Grade S)	268479693	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Weapon (Grade S)	268479694	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Weapon	268479695	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Weapon	268479696	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479697	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479698	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	525567642	Adena	268479699	Baium	
+[07-11-2024 22:21:44] 	CREATE:Loot	player xBurg	11	Ticket Donate	268479700	Baium	
+[07-11-2024 22:21:48] 	CHANGE:Pickup	player xBurg	93604	Crystal Coin	268479080	
+[07-11-2024 22:21:48] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479658	
+[07-11-2024 22:21:48] 	CHANGE:Pickup	player xBurg	142	Gold Bar	268479660	
+[07-11-2024 22:21:49] 	CHANGE:Pickup	player xBurg	2	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:21:49] 	CHANGE:Pickup	player xBurg	296	Gold Bar	268479660	
+[07-11-2024 22:21:49] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479682	
+[07-11-2024 22:21:49] 	CHANGE:Pickup	player xBurg	6	Secret Book of Giants	268479690	
+[07-11-2024 22:21:49] 	CHANGE:Pickup	player xBurg	4	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:21:50] 	CHANGE:Pickup	player xBurg	1	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:21:51] 	CHANGE:Pickup	player xBurg	4	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:21:51] 	CHANGE:Pickup	player xBurg	1999999440	Ticket Donate	268479063	
+[07-11-2024 22:21:51] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479678	
+[07-11-2024 22:21:51] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:21:51] 	DELETE:Pickup	player xBurg	0	Adena	268479677	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	5	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	69	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:52] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479664	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	2	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:21:52] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479687	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	7	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:21:52] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479694	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	14	Secret Book of Giants	268479690	
+[07-11-2024 22:21:52] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479689	
+[07-11-2024 22:21:52] 	CHANGE:Pickup	player xBurg	6	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:21:52] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479696	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	152	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479661	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	159903	Crystal Coin	268479080	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479680	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	168	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479686	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	257	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479684	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	240089	Crystal Coin	268479080	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479657	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	480	Gold Bar	268479660	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479659	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	4	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479688	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	19	Secret Book of Giants	268479690	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479667	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	1999999451	Ticket Donate	268479063	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479700	
+[07-11-2024 22:21:53] 	CHANGE:Pickup	player xBurg	10	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:21:53] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479676	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	325	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479662	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	320355	Crystal Coin	268479080	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479679	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	26	Secret Book of Giants	268479690	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479668	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	11	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479672	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	6	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479670	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	391	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479683	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Adena	268479699	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	14	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479675	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	631	Gold Bar	268479660	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479681	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	8	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479692	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	6	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479666	
+[07-11-2024 22:21:54] 	CHANGE:Pickup	player xBurg	406	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:54] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479685	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	11	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479669	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	8	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479695	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	19	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479697	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	14	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479671	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	12	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479673	
+[07-11-2024 22:21:55] 	CHANGE:Pickup	player xBurg	418	Event Coin Lv.1	268479649	
+[07-11-2024 22:21:55] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479663	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	72613	Crystal Coin	268479702	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	74985	Crystal Coin	268479703	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	169	Gold Bar	268479704	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	135	Gold Bar	268479705	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	83	Event Coin Lv.1	268479706	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	93	Event Coin Lv.1	268479707	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	14	Event Coin Lv.1	268479708	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	12	Event Coin Lv.1	268479709	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479710	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479711	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	8	Secret Book of Giants	268479712	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Secret Book of Giants	268479713	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479714	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Armor (Grade S)	268479715	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479716	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479717	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Weapon	268479718	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Weapon	268479719	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Armor	268479720	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479721	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	661784769	Adena	268479722	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	12	Ticket Donate	268479723	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	68824	Crystal Coin	268479724	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	64944	Crystal Coin	268479725	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	169	Gold Bar	268479726	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	181	Gold Bar	268479727	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	67	Event Coin Lv.1	268479728	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	75	Event Coin Lv.1	268479729	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	15	Event Coin Lv.1	268479730	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	13	Event Coin Lv.1	268479731	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479732	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479733	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	6	Secret Book of Giants	268479734	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	7	Secret Book of Giants	268479735	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479736	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479737	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Weapon (Grade S)	268479738	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479739	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Weapon	268479740	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Weapon	268479741	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Armor	268479742	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479743	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	629728980	Adena	268479744	Zaken	
+[07-11-2024 22:23:39] 	CREATE:Loot	player xBurg	11	Ticket Donate	268479745	Zaken	
+[07-11-2024 22:23:41] 	CHANGE:Pickup	player xBurg	33	Secret Book of Giants	268479690	
+[07-11-2024 22:23:41] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479735	
+[07-11-2024 22:23:41] 	CHANGE:Pickup	player xBurg	24	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:23:41] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479743	
+[07-11-2024 22:23:41] 	CHANGE:Pickup	player xBurg	385299	Crystal Coin	268479080	
+[07-11-2024 22:23:41] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479725	
+[07-11-2024 22:23:41] 	CHANGE:Pickup	player xBurg	457912	Crystal Coin	268479080	
+[07-11-2024 22:23:41] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479702	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	41	Secret Book of Giants	268479690	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479712	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	13	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479715	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	14	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479718	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	433	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479730	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	1999999463	Ticket Donate	268479063	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479723	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	28	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479720	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	18	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479714	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	33	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479721	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	23	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479737	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	8	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479733	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	17	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479738	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	526736	Crystal Coin	268479080	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479724	
+[07-11-2024 22:23:42] 	CHANGE:Pickup	player xBurg	800	Gold Bar	268479660	
+[07-11-2024 22:23:42] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479726	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Adena	268479744	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	10	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479711	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	526	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479707	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	609	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479706	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	621	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479709	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	635	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479708	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	19	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479717	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	36	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479742	
+[07-11-2024 22:23:43] 	CHANGE:Pickup	player xBurg	969	Gold Bar	268479660	
+[07-11-2024 22:23:43] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479704	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Adena	268479722	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	1104	Gold Bar	268479660	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479705	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	19	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479741	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	28	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479736	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	601721	Crystal Coin	268479080	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479703	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	21	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479716	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	648	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479731	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	47	Secret Book of Giants	268479690	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479734	
+[07-11-2024 22:23:44] 	CHANGE:Pickup	player xBurg	1999999474	Ticket Donate	268479063	
+[07-11-2024 22:23:44] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479745	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	1285	Gold Bar	268479660	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479727	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	723	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479729	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	790	Event Coin Lv.1	268479649	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479728	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	11	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479710	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	23	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479719	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	25	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479740	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	23	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479739	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	13	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479732	
+[07-11-2024 22:23:45] 	CHANGE:Pickup	player xBurg	52	Secret Book of Giants	268479690	
+[07-11-2024 22:23:45] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479713	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	69757	Crystal Coin	268479746	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	79196	Crystal Coin	268479747	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	191	Gold Bar	268479748	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	181	Gold Bar	268479749	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	76	Event Coin Lv.1	268479750	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	62	Event Coin Lv.1	268479751	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	14	Event Coin Lv.1	268479752	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	13	Event Coin Lv.1	268479753	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479754	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479755	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	8	Secret Book of Giants	268479756	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	6	Secret Book of Giants	268479757	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Armor (Grade S)	268479758	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479759	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479760	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Weapon (Grade S)	268479761	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Weapon	268479762	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Weapon	268479763	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Armor	268479764	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Armor	268479765	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	625706731	Adena	268479766	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	12	Ticket Donate	268479767	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	82540	Crystal Coin	268479768	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	81617	Crystal Coin	268479769	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	192	Gold Bar	268479770	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	124	Gold Bar	268479771	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	64	Event Coin Lv.1	268479772	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	62	Event Coin Lv.1	268479773	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	13	Event Coin Lv.1	268479774	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	15	Event Coin Lv.1	268479775	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479776	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479777	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Secret Book of Giants	268479778	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	8	Secret Book of Giants	268479779	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479780	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Armor (Grade S)	268479781	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479782	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479783	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Weapon	268479784	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Weapon	268479785	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Armor	268479786	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Armor	268479787	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	615789424	Adena	268479788	Core	
+[07-11-2024 22:24:31] 	CREATE:Loot	player xBurg	15	Ticket Donate	268479789	Core	
+[07-11-2024 22:24:32] 	CHANGE:Pickup	player xBurg	28	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:24:32] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479763	
+[07-11-2024 22:24:32] 	CHANGE:Pickup	player xBurg	25	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:24:32] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479783	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	1466	Gold Bar	268479660	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479749	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Adena	268479788	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	803	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479774	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	39	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479786	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	14	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479754	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	879	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479750	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	671478	Crystal Coin	268479080	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479746	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	58	Secret Book of Giants	268479690	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479757	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	894	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479775	
+[07-11-2024 22:24:33] 	CHANGE:Pickup	player xBurg	33	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:24:33] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479781	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	30	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479761	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	750674	Crystal Coin	268479080	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479747	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	956	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479751	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	16	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479755	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	17	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479777	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	1018	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479773	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	42	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479765	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Adena	268479766	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	63	Secret Book of Giants	268479690	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479778	
+[07-11-2024 22:24:34] 	CHANGE:Pickup	player xBurg	1031	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:34] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479753	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	1999999486	Ticket Donate	268479063	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479767	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	33	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479762	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	44	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479787	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	38	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479780	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	47	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479764	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	1045	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479752	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	32	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479782	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	832291	Crystal Coin	268479080	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479769	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	1999999501	Ticket Donate	268479063	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479789	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	37	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479784	
+[07-11-2024 22:24:35] 	CHANGE:Pickup	player xBurg	40	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:24:35] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479785	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	19	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479776	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	1658	Gold Bar	268479660	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479770	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	71	Secret Book of Giants	268479690	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479779	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	34	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479760	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	1109	Event Coin Lv.1	268479649	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479772	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	1849	Gold Bar	268479660	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479748	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	79	Secret Book of Giants	268479690	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479756	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	914831	Crystal Coin	268479080	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479768	
+[07-11-2024 22:24:36] 	CHANGE:Pickup	player xBurg	1973	Gold Bar	268479660	
+[07-11-2024 22:24:36] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479771	
+[07-11-2024 22:24:37] 	CHANGE:Pickup	player xBurg	43	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:24:37] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479759	
+[07-11-2024 22:24:37] 	CHANGE:Pickup	player xBurg	46	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:24:37] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479758	
+[07-11-2024 22:24:56] 	CHANGE:Loot	player xBurg	2147483647	Adena	268479055	Tyrannosaurus	
+[07-11-2024 22:24:56] 	CREATE:Loot	player xBurg	2	Top-Grade Life Stone: level 76	268479800	Tyrannosaurus	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	62293	Crystal Coin	268479804	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	63970	Crystal Coin	268479805	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	145	Gold Bar	268479806	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	164	Gold Bar	268479807	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	86	Event Coin Lv.1	268479808	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	80	Event Coin Lv.1	268479809	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	13	Event Coin Lv.1	268479810	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	14	Event Coin Lv.1	268479811	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479812	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	1	Vip Coin 24 Hours	268479813	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Secret Book of Giants	268479814	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Secret Book of Giants	268479815	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Armor (Grade S)	268479816	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	4	Crystal Scroll: Enchant Armor (Grade S)	268479817	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Weapon (Grade S)	268479818	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Weapon (Grade S)	268479819	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	4	Donator Scroll: Enchant Weapon	268479820	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Weapon	268479821	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479822	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479823	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	647573467	Adena	268479824	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	14	Ticket Donate	268479825	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	65055	Crystal Coin	268479826	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	70438	Crystal Coin	268479827	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	130	Gold Bar	268479828	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	140	Gold Bar	268479829	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	83	Event Coin Lv.1	268479830	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	76	Event Coin Lv.1	268479831	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	13	Event Coin Lv.1	268479832	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	12	Event Coin Lv.1	268479833	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479834	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Vip Coin 24 Hours	268479835	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	8	Secret Book of Giants	268479836	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	7	Secret Book of Giants	268479837	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Crystal Scroll: Enchant Armor (Grade S)	268479838	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Armor (Grade S)	268479839	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Crystal Scroll: Enchant Weapon (Grade S)	268479840	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Crystal Scroll: Enchant Weapon (Grade S)	268479841	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Weapon	268479842	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	3	Donator Scroll: Enchant Weapon	268479843	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	5	Donator Scroll: Enchant Armor	268479844	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	2	Donator Scroll: Enchant Armor	268479845	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	667338776	Adena	268479846	Queen Ant	
+[07-11-2024 22:28:07] 	CREATE:Loot	player xBurg	12	Ticket Donate	268479847	Queen Ant	
+[07-11-2024 22:28:09] 	CHANGE:Pickup	player xBurg	1192	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:09] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479830	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	21	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479834	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	52	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479844	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	23	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479812	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	1999999515	Ticket Donate	268479063	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479825	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	48	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479839	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	87	Secret Book of Giants	268479690	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479836	
+[07-11-2024 22:28:10] 	CHANGE:Pickup	player xBurg	43	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:28:10] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479842	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	37	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479819	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	48	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479821	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	57	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479822	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	40	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479818	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	2118	Gold Bar	268479660	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479806	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	2248	Gold Bar	268479660	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479828	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	1278	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479808	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Adena	268479846	
+[07-11-2024 22:28:11] 	CHANGE:Pickup	player xBurg	1291	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:11] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479810	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	45	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479841	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	52	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479817	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	2388	Gold Bar	268479660	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479829	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	2147483647	Adena	268479055	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Adena	268479824	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	94	Secret Book of Giants	268479690	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479837	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	2552	Gold Bar	268479660	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Gold Bar	268479807	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	55	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479816	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	52	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479820	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	1371	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479809	
+[07-11-2024 22:28:12] 	CHANGE:Pickup	player xBurg	99	Secret Book of Giants	268479690	
+[07-11-2024 22:28:12] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479814	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	1447	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479831	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	25	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479835	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	26	Vip Coin 24 Hours	268479665	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Vip Coin 24 Hours	268479813	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	47	Crystal Scroll: Enchant Weapon (Grade S)	268479693	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Weapon (Grade S)	268479840	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	977124	Crystal Coin	268479080	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479804	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	55	Donator Scroll: Enchant Weapon	268479674	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Weapon	268479843	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	1047562	Crystal Coin	268479080	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479827	
+[07-11-2024 22:28:13] 	CHANGE:Pickup	player xBurg	1461	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:13] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479811	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	58	Crystal Scroll: Enchant Armor (Grade S)	268479691	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Crystal Scroll: Enchant Armor (Grade S)	268479838	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	104	Secret Book of Giants	268479690	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Secret Book of Giants	268479815	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	1112617	Crystal Coin	268479080	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479826	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	62	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479823	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	64	Donator Scroll: Enchant Armor	268479698	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Donator Scroll: Enchant Armor	268479845	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	1999999527	Ticket Donate	268479063	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Ticket Donate	268479847	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	1474	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479832	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	1486	Event Coin Lv.1	268479649	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Event Coin Lv.1	268479833	
+[07-11-2024 22:28:14] 	CHANGE:Pickup	player xBurg	1176587	Crystal Coin	268479080	
+[07-11-2024 22:28:14] 	DELETE:Pickup	player xBurg	0	Crystal Coin	268479805	
